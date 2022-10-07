@@ -3,6 +3,8 @@ title: Atelier Europresse
 author: ceres
 ---
 
+![Europresse](europresse.png)
+
 "Automatiser et faciliter la collecte d'un corpus sur Europresse".
 
 L'atelier a eu lieu le 30 septembre 2021.
