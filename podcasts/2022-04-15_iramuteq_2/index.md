@@ -5,9 +5,9 @@ author : ceres
 
 ![Iramuteq](iramuteq.png)
 
-**Lisa Bolz (GRIPIC)**
-
 [Ecouter le podcast](https://dropsu.sorbonne-universite.fr/s/paWZmM2t2iMDa46)
+
+**Lisa Bolz (GRIPIC)**
 
 Lisa Bolz est chercheuse au GRIPIC, le laboratoire de recherche en sciences de l'information et de la communication du CELSA à Sorbonne Université. Ses thématiques de recherche concernent les formes et écritures médiatiques et l'histoire de la presse. Elle travaille sur les nouvelles formes de journalisme sur les nouvelles plateformes en ligne.
 

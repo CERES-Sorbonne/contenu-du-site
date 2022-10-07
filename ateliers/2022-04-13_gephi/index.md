@@ -1,10 +1,10 @@
 ---
-title: '"Méthodes numériques pour les SHS" : iramuteq en pratique (audio)'
+title: GEPHI
 author: ceres
 ---
 
-**Adeline Wrona** **(GRIPIC)**
+![Gephi](gephi.png)
 
-[Ecouter le podcast](https://dropsu.sorbonne-universite.fr/s/ZHQCwZNSSwdzPtj)
+Félix Alié (CERES) a animé un atelier sur GEPHI le 14 avril 2022. GEPHI est un outil de cartographie des données sous la forme de graphe. Visualiser des données sous Gephi permet notamment de réaliser des analyses de réseaux pour mieux appréhender les groupes de données similaires et les relations qu’elles entretiennent. L’atelier a permis de comprendre comment lire et réaliser ce type de visualisation.
 
-Dans ce podcast, Adeline Wrona nous présente comment les méthodes numériques permettent d’explorer les corpus massifs offerts par la numérisation de la presse française du XIXème siècle. Elle nous parle de la manière dont les méthodes numériques ont été investies dans le programme de recherche GIRANIUM. Par exemple, à travers l’utilisation du logiciel R, il a été possible de mettre en exergue la “viralité” de l’écriture médiatique dans le corpus de textes constitué autour d'Emile de Girardin (sa correspondance intime ainsi que l'ensemble des journaux qu'il a créé). Cela offre l'opportunité de renouveler les réflexions autour de l'auctorialité et en particulier pour des textes anonymisés ou pseudonymisés.
+Exemple d’application : [Bouté, E. (2021). La mise en visibilité des forces de l’ordre sur Twitter pendant le mouvement des Gilets jaunes, Questions de communication, 2021/1 n°39, pages 185 à 208.](https://www.cairn.info/revue-questions-de-communication-2021-1-page-185.htm)
