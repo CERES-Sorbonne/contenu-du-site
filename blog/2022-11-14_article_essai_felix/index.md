@@ -1,14 +1,12 @@
 ---
 title: Lancement du CERES
-author: Félix
+author: felix
 tags:
 - toto
 - tata
 - événements
 abstract: Un bref résumé afin de présenter le contenu de l'article que l'on va lire, ce qui peut être intéressant ou non en fonction de ce qu'on va écrire dedans en fait
 ---
-
-# Test d'article très interessant
 
 Ca serait le résumé de l'article très intéressant à lire qui s'est passé en plein de fois hohoho
 

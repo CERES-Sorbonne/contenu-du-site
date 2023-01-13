@@ -1,5 +1,5 @@
 ---
-title: 'Projet d'Analyse de la controverse relative à l’ouverture de la procréation médicalement assistée aux femmes célibataires, aux couples de femmes et aux femmes trans’.'
+title: Projet d'Analyse de la controverse relative à l’ouverture de la procréation médicalement assistée aux femmes célibataires, aux couples de femmes et aux femmes trans’.
 author: ceres
 ---
 ##
