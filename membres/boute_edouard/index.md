@@ -1,11 +1,25 @@
 ---
+title: Edouard Bouté
+author: EdouardBoute
+---
+#Edouard Bouté#
+![Edouard Bouté](boute_edouard.png)
+
+**Poste** : Ingénieur de Recherche SHS
+
+
+
+## Texte à copier-coller : 
+
+
+---
 title: TITRE DE LA THESE
 tags: A discuter collectivement
 author: PrenomNom
 ---
 **Candidat·e :** Prénom Nom
 
-**Direction de la thèse :**
+**Direction de la thèse :** Prénom(s) Nom(s)
 
 **Parcours :** bref détail du parcours scolaire/professionnel à la troisième personne du singulier
 
