@@ -1,6 +1,6 @@
 ---
 title: Virginie Julliard
-author: ViginieJulliard
+author: ceres
 ---
 # Virginie Julliard #
 

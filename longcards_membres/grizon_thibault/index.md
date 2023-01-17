@@ -1,11 +1,11 @@
 ---
-title: Edouard Bouté
-author: EdouardBoute
+title: Thibault Grizon
+author: ceres
 ---
-#Edouard Bouté#
-![Edouard Bouté](boute_edouard.png)
+#Thibault Grizon#
+![Thibault Grizon](grizon_thibault.png)
 
-**Poste** : Ingénieur de Recherche SHS
+**Poste** : Doctorant en sciences de l'information et de la communication
 
 
 
