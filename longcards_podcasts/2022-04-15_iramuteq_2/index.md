@@ -1,6 +1,7 @@
 ---
 title: Iramuteq (audio)
 author : ceres
+sound: https://dropsu.sorbonne-universite.fr/s/63z2wRgX7iKQDeT/download/Podcast_7_TXM_Gael_Lejeune.mp3
 ---
 
 ![Iramuteq](iramuteq.png)
