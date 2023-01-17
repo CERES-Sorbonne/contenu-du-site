@@ -2,7 +2,7 @@
 title: Thibault Grizon
 author: ceres
 ---
-#Thibault Grizon#
+# Thibault Grizon #
 ![Thibault Grizon](grizon_thibault.png)
 
 **Poste** : Doctorant en sciences de l'information et de la communication

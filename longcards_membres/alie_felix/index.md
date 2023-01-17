@@ -5,7 +5,7 @@ author: felix
 # Félix Alié #
 ![Félix Alié](alie_felix.png)
 
-**Poste** : Ingénieur de recherche en informatique
+**Poste** : Ingénieur de Recherche en informatique
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: Atelier RGPD / PGD : réponses aux questions
+title: Atelier RGPD / PGD, réponses aux questions
 author : ceres
 ---
 
