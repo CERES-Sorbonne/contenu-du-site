@@ -1,6 +1,6 @@
 ---
 title: Atelier Iramuteq
-ceres: ceres
+author: ceres
 tags:
     - iramuteq
 ---
