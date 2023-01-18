@@ -1,7 +1,7 @@
 ---
 title: Discriminations algorithmiques ? L’IA entre aide à la modération et censure sur les réseaux sociaux numériques
 tags: A discuter collectivement
-author: ThibaultGrison
+author: ceres
 ---
 **Candidat·e :** Thibault Grison
 

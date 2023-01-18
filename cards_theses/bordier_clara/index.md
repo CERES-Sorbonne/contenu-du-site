@@ -1,17 +1,19 @@
 ---
-title: TITRE DE LA THESE
+title: xxx
 tags: A discuter collectivement
-author: PrenomNom
+author: ceres
 ---
-**Candidat·e :** Prénom Nom
+**Candidat·e :** Thibault Grison
 
-**Direction de la thèse :**
+**Direction de la thèse :** Pascal Froissard
 
 **Parcours :** bref détail du parcours scolaire/professionnel à la troisième personne du singulier
 
 **CV :** voir [lien vers la page membre]
 
-**Résumé de la thèse :** résumé en français et en anglais
+**Résumé de la thèse :** 
+
+résumé en anglais à faire
 
 **Financement :** Qui finance ? MESR ? CERES ? Contrat, bourse, CIFRE, etc. ?
 
