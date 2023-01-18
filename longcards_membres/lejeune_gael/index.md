@@ -1,6 +1,7 @@
 ---
 title: Gaël Lejeune
 abstract: Directeur adjoint du CERES
+author: ceres
 ---
 # Gaël Lejeune #
 
