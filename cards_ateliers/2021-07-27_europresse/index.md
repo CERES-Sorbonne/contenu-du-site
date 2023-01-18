@@ -1,6 +1,8 @@
 ---
 title: Atelier Europresse
 author: ceres
+tags:
+    - europresse
 ---
 
 ![Europresse](europresse.png)

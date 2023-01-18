@@ -1,11 +1,12 @@
 ---
 title: Europresse (audio)
 author: ceres
+tags:
+    - europresse
+sound: https://dropsu.sorbonne-universite.fr/s/Co4t6xTZW6NnQDn/download/Podcast_5_Europresse_Thibault_Grison.mp3
 ---
 
 ![Europresse](europresse.png)
-
-[Ecouter le podcast](https://dropsu.sorbonne-universite.fr/s/Co4t6xTZW6NnQDn)
 
 **Thibault Grison** **(SCAI / GRIPIC)**
 

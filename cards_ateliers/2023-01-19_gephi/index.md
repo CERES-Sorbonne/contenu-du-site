@@ -1,6 +1,8 @@
 ---
 title: GEPHI
 author: ceres
+tags:
+    - gephi
 ---
 
 ![Gephi](gephi.png)

@@ -1,11 +1,12 @@
 ---
 title: Iramuteq (audio)
 author : ceres
+tags: 
+    - iramuteq
+sound: https://dropsu.sorbonne-universite.fr/s/paWZmM2t2iMDa46/download/Podcast_3_Iramuteq_LisaBolz.mp3
 ---
 
 ![Iramuteq](iramuteq.png)
-
-[Ecouter le podcast](https://dropsu.sorbonne-universite.fr/s/paWZmM2t2iMDa46)
 
 **Lisa Bolz (GRIPIC)**
 

@@ -1,9 +1,14 @@
 ---
 title: 'Visualisation de sources multiples (audio)'
 author: ceres
+tags:
+    - antonomaz
+    - visualisation
+sound: https://dropsu.sorbonne-universite.fr/s/GMxsJbMHpBcDGFB/download/Alexandre_antonomaz.mp3
 ---
 
-[Ecouter le podcast](https://dropsu.sorbonne-universite.fr/s/GMxsJbMHpBcDGFB)
+![antonomaz](antonomaz.png)
+
 
 **Alexandre Bartz** est ingénieur sur le projet Antonomaz, diplômé d’un cursus d’Histoire et du master « Technologies numériques appliquées à l’Histoire » de l’Ecole des Chartes.
 

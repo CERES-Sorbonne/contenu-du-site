@@ -1,11 +1,12 @@
 ---
 title: Iramuteq (audio)
 author: ceres
+tags:
+    - iramuteq
+sound: https://dropsu.sorbonne-universite.fr/s/L9ifb7RqF9wTaBZ/download/Podcast_1_Iramuteq_RenaudDebailly_Rendu020921.mp3
 ---
 
 ![Iramuteq](iramuteq.png)
-
-[Ecouter le podcast](https://dropsu.sorbonne-universite.fr/s/L9ifb7RqF9wTaBZ)
 
 **Renaud Debailly** **(GEMASS)**
 

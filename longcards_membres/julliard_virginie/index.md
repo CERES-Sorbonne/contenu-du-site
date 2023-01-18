@@ -1,6 +1,7 @@
 ---
 title: Virginie Julliard
 author: ceres
+abstract: Directrice du CERES
 ---
 # Virginie Julliard #
 

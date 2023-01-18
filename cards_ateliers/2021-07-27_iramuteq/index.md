@@ -1,6 +1,8 @@
 ---
 title: Atelier Iramuteq
 ceres: ceres
+tags:
+    - iramuteq
 ---
 
 ![Iramuteq](iramuteq.png)

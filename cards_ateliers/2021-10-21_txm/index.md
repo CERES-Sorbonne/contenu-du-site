@@ -1,6 +1,8 @@
 ---
 title: Atelier TXM
 author: ceres
+tags:
+    - txm
 ---
 
 ![TXM](txm.png)

@@ -1,9 +1,12 @@
 ---
 title: '"Méthodes numériques pour les SHS" : iramuteq en pratique (audio)'
 author: ceres
+tags: 
+    - iramuteq
+sound: https://dropsu.sorbonne-universite.fr/s/ZHQCwZNSSwdzPtj/download/Podcast_2_Iramuteq_AdelineWrona.mp3
 ---
 
-[Ecouter le podcast](https://dropsu.sorbonne-universite.fr/s/ZHQCwZNSSwdzPtj)
+![Iramuteq](iramuteq.png)
 
 **Adeline Wrona** **(GRIPIC)**
 

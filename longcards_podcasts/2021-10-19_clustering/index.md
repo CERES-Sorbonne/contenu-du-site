@@ -1,9 +1,11 @@
 ---
 title: 'Podcast : le clustering'
 author: ceres
+sound: https://dropsu.sorbonne-universite.fr/s/xxzwCd4noFeykJX/download/Podcast_6_OutilDeClustering.mp3
 ---
 
-[Ecouter le podcast](https://dropsu.sorbonne-universite.fr/s/xxzwCd4noFeykJX)
+![cluster](cluster.png)
+
 
 **Solveig Poder **&** Carlos González Gallardo**
 

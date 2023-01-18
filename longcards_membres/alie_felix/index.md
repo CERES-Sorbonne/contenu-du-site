@@ -1,8 +1,10 @@
 ---
 title: Félix Alié
 author: felix
+abstract: "Ingénieur de Recherche en informatique"
 ---
 # Félix Alié #
+
 ![Félix Alié](alie_felix.png)
 
 **Poste** : Ingénieur de Recherche en informatique

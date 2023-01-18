@@ -1,11 +1,12 @@
 ---
 title: Europresse (audio)
 author: ceres
+tags:
+    - europresse
+sound: https://dropsu.sorbonne-universite.fr/s/QnTe4XfQkaBtcpT/download/Podcast_4_Europresse_Gael_Lejeune.mp3
 ---
 
 ![Europresse](europresse.png)
-
-[Ecouter le podcast](https://dropsu.sorbonne-universite.fr/s/QnTe4XfQkaBtcpT)
 
 **Gaël Lejeune (STIH)**
 

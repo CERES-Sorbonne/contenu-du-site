@@ -1,6 +1,8 @@
 ---
 title: Excel pour les SHS
 author: ceres
+tags:
+    - excel
 ---
 
 ![excel](excel.png)

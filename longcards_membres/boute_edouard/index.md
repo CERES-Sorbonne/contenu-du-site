@@ -1,7 +1,7 @@
 ---
 title: Edouard Bouté
 author: edouard
-#abstract: Page membre d'Edouard Bouté
+abstract: Ingénieur de Recherche SHS
 ---
 # Edouard Bouté #
 ![Edouard Bouté](boute_edouard.png)
@@ -36,12 +36,13 @@ author: edouard
 
 [2021. Bouté E. « Dénoncer les violences policières sur Facebook : entre volonté de visibilité et construction d’un problème public », *XXIIème Congrès de la Sfsic : sociétés et espaces en mouvement*. Echirolles (France). 9-10 juin 2021.](https://sfsic2020.sciencesconf.org/357453/document)
 
-2019. Bouté E., Mabi C., « Dénoncer les violences policières sur internet. Le cas des débats autour de l’affaire Geneviève Legay », *colloque international du GIS Démocratie & Participation : Localiser l’épreuve démocratique. Assemblages, circulations, imaginaires*. Maison des Sciences de l’Homme Paris Nord, Saint-Denis. 14-15-16 novembre 2019.
+2019\. Bouté E., Mabi C., « Dénoncer les violences policières sur internet. Le cas des débats autour de l’affaire Geneviève Legay », *colloque international du GIS Démocratie & Participation : Localiser l’épreuve démocratique. Assemblages, circulations, imaginaires*. Maison des Sciences de l’Homme Paris Nord, Saint-Denis. 14-15-16 novembre 2019.
 
 ## Revues d'idées, médias ##
 
 [2022. Intervenant dans l’émission Numerx de Christophe Bys sur Radio Campus Paris, « Démocratie & Numérique : meilleurs amis ? Meilleurs ennemis ? », le 03 janvier 2022, avec Pierre Auriel et Nicolas Gaudemet.](https://www.radiocampusparis.org/numerx-democratie-numerique-meilleurs-amis-meilleurs-ennemis/)
-2022. [Intervenant dans l’émission Au Poste de David Dufresne sur Twitch, « Twitter et la visibilité des #violencespolicières », le 12 janvier 2022.](https://www.youtube.com/watch?v=3hhUsQVNCg8)
+
+2022\. [Intervenant dans l’émission Au Poste de David Dufresne sur Twitch, « Twitter et la visibilité des #violencespolicières », le 12 janvier 2022.](https://www.youtube.com/watch?v=3hhUsQVNCg8)
 
 [2021. Bouté E., « L’avenir de la politique se joue-t-il sur une plateforme de jeux vidéo ? », Alternatives non-violentes, n°199, pp. 14-15.](https://doi.org/10.3917/anv.199.0014)
 
