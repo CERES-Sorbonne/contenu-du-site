@@ -1,6 +1,5 @@
 ---
 title: Victor Ecrement
-author: CERES
 abstract: Ingénieur d'études, masterant·e en design à l'ENSCI
 ---
 
