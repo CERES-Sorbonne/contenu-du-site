@@ -3,6 +3,7 @@ title: GEPHI
 author: ceres
 tags:
     - gephi
+event: true
 ---
 
 ![Gephi](gephi.png)
