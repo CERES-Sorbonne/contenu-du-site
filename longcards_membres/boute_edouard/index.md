@@ -3,7 +3,7 @@ title: Edouard Bouté
 author: edouard
 abstract: Ingénieur de Recherche SHS
 ---
-# Edouard Bouté #
+## Edouard Bouté
 ![Edouard Bouté](boute_edouard.png)
 
 **Poste au CERES** : Ingénieur de Recherche SHS
@@ -14,19 +14,16 @@ abstract: Ingénieur de Recherche SHS
 
 **Thèmes de recherche** : réseaux sociaux numériques, analyses de design et de circulation, visual studies, media studies, surveillance studies, sociologie des problèmes publics, des controverses et des mouvements sociaux, espace public.
 
-## Collaborations et projets en cours ou terminés ##
+## Publications récentes
 
-/
+### Thèse
+2022\. « Police Pixel. Le maintien de l'ordre à l'épreuve des images et des réseaux sociaux numériques pendant le mouvement des Gilets jaunes. », thèse en sciences de l'information et de la communication, Université de Technologie de Compiègne.
 
-# Publications récentes #
-
-## Ouvrages ##
-
-## Direction d’ouvrages et de numéros de revue ##
+### Direction d’ouvrages et de numéros de revue
 
 2021\. Avec J.-E. Bigot, C. Collomb et C. Mabi, «[Plateformiser, un impératif ?](https://doi.org/10.4000/questionsdecommunication.26522) », *Questions de communication*, n° 40.
 
-## Articles dans des revues scientifiques à comité de lecture ##
+### Articles dans des revues scientifiques à comité de lecture
 
 2021\. Avec J.-E. Bigot, C. Collomb, C. Mabi, « [Les plateformes à l’épreuve des dynamiques de plateformisation](https://doi.org/10.4000/questionsdecommunication.26584) », *Questions de communication*, n° 40, vol. 2, pp 9-22.
 
@@ -36,7 +33,7 @@ abstract: Ingénieur de Recherche SHS
 
 2020\. Avec C. Mabi, « [Des images en débat : De la blessure de Geneviève Legay à la répression des Gilets Jaunes](https://doi.org/10.4000/edc.9996) », *Etudes de Communication*, n° 54, pp. 29-52.
 
-## Revues d'idées, médias ##
+### Revues d'idées, médias
 
 2022\. avec P. Auriel et N. Gaudemet, « [Démocratie & Numérique : meilleurs amis ? Meilleurs ennemis ?](https://www.radiocampusparis.org/numerx-democratie-numerique-meilleurs-amis-meilleurs-ennemis/) », Numerx, *Radio Campus Paris*, 3 janvier 2022.
 
