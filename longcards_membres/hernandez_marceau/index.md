@@ -1,6 +1,5 @@
 ---
 title: Marceau Hernandez
-author: CERES
 abstract: Assistant de recherche au CERES - masterant
 ---
 # Prénom Nom #
