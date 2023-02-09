@@ -14,4 +14,4 @@ Ce logiciel, présenté par Félix Alié (CERES), est un outil de cartographie d
 
 Les ateliers de formation proposés ont ainsi pour objectif d’apprendre à constituer, à explorer et à comprendre des graphes de réseaux.
 
-Exemple d’application : [Bouté, E. (2021). La mise en visibilité des forces de l’ordre sur Twitter pendant le mouvement des Gilets jaunes, Questions de communication, 2021/1 n°39, pages 185 à 208.](https://www.cairn.info/revue-questions-de-communication-2021-1-page-185.htm)
+Exemple d’application : [Bouté, E. (2021). La mise en visibilité des forces de l’ordre sur Twitter pendant le mouvement des Gilets jaunes, Questions de communication,  n°39, pages 185 à 208.](https://www.cairn.info/revue-questions-de-communication-2021-1-page-185.htm)
