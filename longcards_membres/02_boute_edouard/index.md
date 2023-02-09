@@ -1,10 +1,10 @@
 ---
 title: Edouard Bouté
 author: edouard
-abstract: Ingénieur de Recherche SHS
+abstract: Ingénieur de Recherche SHS - docteur en Sciences de l'information et de la communication
 ---
 ## Edouard Bouté
-![Edouard Bouté](boute_edouard.png)
+![Edouard Bouté](boute_edouard.jpg)
 
 **Poste au CERES** : Ingénieur de Recherche SHS
 

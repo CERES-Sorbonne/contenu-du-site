@@ -1,5 +1,5 @@
 ---
-title: GEPHI
+title: Atelier Gephi
 author: ceres
 tags:
     - gephi

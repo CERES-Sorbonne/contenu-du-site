@@ -1,9 +1,9 @@
 ---
 title: Virginie Julliard
 author: ceres
-abstract: Directrice du CERES
+abstract: Directrice du CERES - Professeure des Universités en Sciences de l'information et de la communication
 ---
-# Virginie Julliard #
+## Virginie Julliard
 
 ![Virginie Julliard](julliard_virginie.png)
 
@@ -17,7 +17,7 @@ abstract: Directrice du CERES
 
 **Thèmes de recherche** : Production médiatique du genre, Structuration du débat public, Dispositifs d’écriture numériques dans les RSN, Statut de l’informatique dans les recherches en SIC.
 
-# Projets #
+## Projets
 
 **IRIS Interdisciplinary Research on Image circulation on SNSs**. Avec Gaël Lejeune, Kenza Benabdelouhab (SU), Fred Pailler (Université du Luxembourg),  Nédra Mellouli-Nauwynck, Maxime Cervulle, Alexandra Saemmer (Université Paris 8). Projet d'analyse de la circulation des images dans les RSN, de la naissance de langages visuels vernaculaires et de la constitution de communautés politiques en ligne. Terrains : débats sur la PMA, controverse sur la “théorie du genre”, etc.
 

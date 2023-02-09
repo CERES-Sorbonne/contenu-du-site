@@ -1,5 +1,5 @@
 ---
-title: Voyant Tools (à venir)
+title: Atelier Voyant Tools
 author: ceres
 ---
 
