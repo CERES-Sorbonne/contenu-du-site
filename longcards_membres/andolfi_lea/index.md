@@ -5,7 +5,7 @@ abstract: Doctorante en sciences de l'information et de la communication
 
 ## Léa Andolfi
 
-![Léa Andolfi](andolfi_lea.png)
+![Léa Andolfi](andolfi_lea.jpg)
 
 **Poste au CERES** : Doctorante au sein de l'ANR Tractive
 

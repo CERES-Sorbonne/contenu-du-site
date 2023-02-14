@@ -10,6 +10,11 @@ event: true
 
 Plusieurs ateliers autour de l'outil Gephi sont animés par le CERES. Un premier a eu lieu le 14 avril 2022, un deuxième se tiendra le 2 mars 2023.
 
+**Jeudi 2 mars 2023 – 14h00-16h00 : atelier Gephi**
+**S001, Maison de la Recherche, 28 rue Serpente, 75006, Paris**
+
+**[--> Lien d'inscription <--](https://framaforms.org/atelier-gephi-du-02032023-1666596928)**
+
 Ce logiciel, présenté par Félix Alié (CERES), est un outil de cartographie des données sous forme de graphe. La visualisation de données en réseau peut permettre d'accompagner les chercheurs et les chercheuses en SHS dans la conduite de leurs analyses, en les aidant à mettre en lumière des relations entre différentes entités connectées entre elles. En particulier, Gephi est couramment utilisé pour étudier des relations entre acteurs sur les réseaux sociaux numériques.
 
 Les ateliers de formation proposés ont ainsi pour objectif d’apprendre à constituer, à explorer et à comprendre des graphes de réseaux.
