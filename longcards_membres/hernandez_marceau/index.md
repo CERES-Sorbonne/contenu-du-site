@@ -2,17 +2,17 @@
 title: Marceau Hernandez
 abstract: Assistant de recherche au CERES - masterant
 ---
-# Prénom Nom #
-![Marceau Hernandez](hernandez_marceau.jpg)
 
-**Poste au CERES** : Assistant de recherche
+![](hernandez_marceau.jpg)
 
-**Titre et discipline** : masterant
+**Poste au CERES** : Assistant de recherche
 
-**Laboratoire de rattachement :** [UFR de Sociologie et informatique pour les sciences humaines](https://lettres.sorbonne-universite.fr/faculte-des-lettres/ufr/ufr-de-sociologie-et-informatique-pour-les-sciences-humaines)
+**Titre et discipline** : masterant
 
-**Thèmes de recherche** : collecte de données, cartographie
+**Laboratoire de rattachement :** [UFR de Sociologie et informatique pour les sciences humaines](https://lettres.sorbonne-universite.fr/faculte-des-lettres/ufr/ufr-de-sociologie-et-informatique-pour-les-sciences-humaines)
 
-## Collaborations et projets en cours ou terminés ##
+**Thèmes de recherche** : collecte de données, cartographie
 
-- Cartographie des méthodes numériques en sorbonne
+## Collaborations et projets
+
+- Cartographie des méthodes numériques de Sorbonne Universités

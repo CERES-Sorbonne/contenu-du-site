@@ -1,5 +1,5 @@
 ---
-title: 'Annonce de bourse de thèse : Analyse du discours complotiste dans un corpus de presse historicisé'
+title: 'Bourse de thèse : Analyse du discours complotiste dans un corpus de presse historicisé'
 author: ceres
 ---
 
@@ -7,11 +7,7 @@ author: ceres
 
 Sous la direction de Pascal Froissard
 
-<!-- wp:list -->
-
 - Lutte contre le complotisme
 - Expertises médiatiques
 - Création de normes et de représentations
 - Application de l’analyse textuelle sur un corpus historicisé
-
-<!-- /wp:list -->

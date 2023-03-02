@@ -6,12 +6,15 @@ tags:
 event: true
 ---
 
-![Tableau Public](tableau_public.png)
+![](tableau_public.png)
 
-**Jeudi 9 mars 2023 – 16h30-18h30 : atelier « Tableau Public »**
-**D117, Maison de la Recherche, 28 rue Serpente, 75006, Paris**
+## Informations
 
-**[--> Lien d'inscription <--](https://framaforms.org/atelier-tableau-public-09032023-1676369258)**
+- Jeudi 9 mars 2023 – 16h30-18h30
+- D117, Maison de la Recherche, 28 rue Serpente, 75006, Paris
+- [Lien d'inscription](https://framaforms.org/atelier-tableau-public-09032023-1676369258)
+
+## Tableau public
 
 Tableau public est un logiciel en ligne gratuit qui permet de créer des visualisations interactives, hautement personnalisables et accessibles en ligne. Sa particularité est que les visualisations ne sont pas construites selon des diagrammes standards, mais de manière modulaire, permettant de tester différentes manières de représenter et spatialiser les métadonnées.
 

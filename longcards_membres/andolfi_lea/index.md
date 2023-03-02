@@ -3,14 +3,12 @@ title: Léa Andolfi
 abstract: Doctorante en sciences de l'information et de la communication
 ---
 
-## Léa Andolfi
+![](andolfi_lea.jpg)
 
-![Léa Andolfi](andolfi_lea.jpg)
+**Poste au CERES** : Doctorante au sein de l'ANR Tractive
 
-**Poste au CERES** : Doctorante au sein de l'ANR Tractive
+**Titre et discipline** : Sciences de l'information et de la communication
 
-**Titre et discipline** : Sciences de l'information et de la communication
+**Laboratoire de rattachement :** [GRIPIC, Sorbonne-Université](gripic.fr/)
 
-**Laboratoire de rattachement :** [GRIPIC, Sorbonne-Université](gripic.fr/)
-
-**Thèmes de recherche** : genre, films historiques, objectification, male gaze
+**Thèmes de recherche** : genre, films historiques, objectification, male gaze

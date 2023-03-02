@@ -1,108 +1,30 @@
 ---
-title: Annonce des ateliers du CERES
-author : ceres
+title: Ateliers à venir en automne 2021
+author : ceres
 ---
-<!-- wp:columns -->
-
-<!-- wp:column -->
-
-<!-- wp:heading -->
 
 ## Iramuteq
 
-<!-- /wp:heading -->
+- 9 septembre 2021, 14h/17h
+- Maison de la recherche, 28 rue Serpente
+- Complet.
 
-<!-- wp:paragraph -->
+**Intervenant :** Renaud Debailly (MCF en sociologie, GEMASS Sorbonne Université).
 
-**9 septembre 2021 14h/17h**
+**Animation :** Gaël Lejeune (MCF en linguistique computationnelle, STIH Sorbonne Université).
 
-<!-- /wp:paragraph -->
+Il est conseillé d’installer R puis Iramuteq (dans cet ordre!), en suivant ce lien : http://www.iramuteq.org/
 
-<!-- wp:paragraph -->
-
-Complet.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":5} -->
-
-##### Maison de la recherche, 28 rue Serpente
-
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-
-Il est conseillé d’installer R puis Iramuteq (dans cet ordre!), en suivant ce lien :  
-<http://www.iramuteq.org/>
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-Intervenant : **Renaud Debailly **(MCF en sociologie, GEMASS Sorbonne Université).
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-Animation : **Gaël Lejeune **(MCF en linguistique computationnelle, STIH Sorbonne Université).
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-La salle sera précisée aux participants quelques jours avant l’atelier, par mail.  
-Si les circonstances sanitaires ne permettaient pas le déroulement de l’atelier en présentiel, une visio-conférence serait alors prévue.
-
-<!-- /wp:paragraph -->
-
-<!-- /wp:column -->
-
-<!-- wp:column -->
-
-<!-- wp:heading -->
+La salle sera précisée aux participants quelques jours avant l’atelier, par mail. Si les circonstances sanitaires ne permettaient pas le déroulement de l’atelier en présentiel, une visio-conférence serait alors prévue.
 
 ## Europresse
 
-<!-- /wp:heading -->
+- 30 septembre 2021, 15h/17h
+- Maison de la recherche, 28 rue Serpente
+- Inscription : [lettres-ceres@sorbonne-universite.fr](mailto:lettres-ceres@sorbonne-universite.fr) avant le 22 septembre
 
-<!-- wp:paragraph -->
+**Intervenants :** Gaël Lejeune (STIH) & Thibault Grison (SCAI / GRIPIC)
 
-**30 septembre 2021 15h/17h**
+**Animation :** Lisa Bolz (GRIPIC)
 
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":5} -->
-
-##### Places limitées (**inscription** : [lettres-ceres@sorbonne-universite.fr](mailto:lettres-ceres@sorbonne-universite.fr) **avant le 2**2 septembre).
-
-<!-- /wp:heading -->
-
-<!-- wp:heading {"level":5} -->
-
-##### Maison de la recherche, 28 rue Serpente
-
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-
-Intervenants :** Gaël Lejeune (STIH) **&** Thibault Grison (SCAI / GRIPIC)**
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-Animation :** Lisa Bolz (GRIPIC)**
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-La salle sera précisée aux participants quelques jours avant l’atelier, par mail.  
-Si les circonstances sanitaires ne permettaient pas le déroulement de l’atelier en présentiel, une visio-conférence serait alors prévue.
-
-<!-- /wp:paragraph -->
-
-<!-- /wp:column -->
-
-<!-- /wp:columns -->
+La salle sera précisée aux participants quelques jours avant l’atelier, par mail. Si les circonstances sanitaires ne permettaient pas le déroulement de l’atelier en présentiel, une visio-conférence serait alors prévue.

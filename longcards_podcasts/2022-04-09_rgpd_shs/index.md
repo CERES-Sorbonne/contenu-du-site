@@ -6,6 +6,6 @@ tags:
 sound: https://dropsu.sorbonne-universite.fr/s/qkRZWtpSpDLRpzF/download/Podcast_8_RGPD_JulienRossi.mp3
 ---
 
-**Julien Rossi** **(COSTECH)**
+![](rgpd.png)
 
-![rgpd](rgpd.png)
+Un podcast avec Julien Rossi, du laboratoire COSTECH
