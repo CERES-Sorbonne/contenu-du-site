@@ -1,5 +1,5 @@
 ---
-title: 'Lancement du CERES aux Cordeliers le 7 Octobre 2021'
+title: 'Lancement du CERES'
 author: ceres
 ---
 ![](ceresfamily.png)
