@@ -1,5 +1,5 @@
 ---
-title: 'Atelier pendant la Love Data Wzzk'
+title: 'Atelier pendant la Love Data Week'
 author: ceres
 event: true
 ---
