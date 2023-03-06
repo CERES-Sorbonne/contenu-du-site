@@ -1,5 +1,5 @@
 ---
-title: 'A écouter sur France Culture : Manifestation 3.0 : la lutte sociale en réseaux'
+title: "A écouter sur France Culture : Manifestation 3.0 : la lutte sociale en réseaux"
 ---
 
 ![](EB_FC.png)
