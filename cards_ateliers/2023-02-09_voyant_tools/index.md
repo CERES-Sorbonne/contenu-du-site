@@ -1,6 +1,7 @@
 ---
 title: Atelier Voyant Tools
 author: ceres
+event: true
 ---
 
 ![](voyanttools.png)

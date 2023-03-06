@@ -4,6 +4,7 @@ author: edouard
 abstract: 'Un atelier "Excel pour les SHS" a eu lieu le 08 décembre 2022, animé par Edouard Bouté (CERES). Nous y avons étudié l’intérêt d’un certain nombre de fonctions et de formules d’Excel qu’il est possible d’utiliser pour analyser des données textuelles couramment mobilisées dans la recherche en SHS (ensemble de tweets) : tableaux croisés dynamiques, recherche de séquences de textes, recherche croisée entre différentes colonnes contenant des données, formatage des données, réalisation de calculs sur du texte.'
 tags:
     - excel
+event: true
 ---
 
 ![](excel.png)
