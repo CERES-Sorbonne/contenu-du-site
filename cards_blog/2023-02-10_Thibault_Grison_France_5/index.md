@@ -1,6 +1,5 @@
 ---
 title: 'A regarder sur France 5 : Johnny Depp contre Amber Heard, un procès qui s'est joué en réseaux'
-author: ceres
 abstract: 'Thibault Grison est interevenu le 10 février 2023 dans l'émission La Fabrique du Mensonge, sur France 5.'
 ---
 
