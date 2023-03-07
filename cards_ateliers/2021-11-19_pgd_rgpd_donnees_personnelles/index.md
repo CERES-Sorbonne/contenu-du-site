@@ -28,7 +28,6 @@ La première partie a eu lieu le 2 décembre 2021 et avait pour objectif la pré
 - [Julien Rossi](http://memes.sorbonne-universite.fr/wp-content/uploads/2021/12/Julien_Rossi_CERES_RDPG_2021_12_2.pdf)
 - [Cécile Arènes](http://memes.sorbonne-universite.fr/wp-content/uploads/2021/12/Cecile_Arenes_CERES_RGPD_DMP_Archives_20211202.pdf)
 - [Océane Valencia](http://memes.sorbonne-universite.fr/wp-content/uploads/2021/12/Oceane_Valencia_CERESArchiverdonneesderecherche_20211202.pdf)
-- [Support commun](http://memes.sorbonne-universite.fr/wp-content/uploads/2022/02/RGPD_PGD_Rossi_Arenes_Valencia_-fevrier-2022.pdf)
 - [Réponses aux questions des participant·es](../2022-03-15_pgd_rgpd_reponses_aux_questions/)
 
 ## Autres ressources citées

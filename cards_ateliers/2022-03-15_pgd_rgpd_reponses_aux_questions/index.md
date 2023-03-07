@@ -15,6 +15,8 @@ Les réponses des intervenant·es aux problématiques de recherche posées par l
 4. Données sensibles
 5. Questions diverses
 
+Vous pouvez également [accéder aux réponse au format pdf](http://memes.sorbonne-universite.fr/wp-content/uploads/2022/02/RGPD_PGD_Rossi_Arenes_Valencia_-fevrier-2022.pdf)
+
 ## 1. Statut des images
 
 ### Enquête de terrain

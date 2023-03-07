@@ -1,7 +1,6 @@
 ---
 title: "FILMS D'EPOQUE", SPECTATEURS, ET JEUX DE REGARD : LA CONSTRUCTION DU GENRE A TRAVERS LE TEMPS PAR LE DISPOSITIF VISUEL DU CINEMA
 tags: genre, cinéma, audiences, films historiques, male gaze
-author: ceres
 ---
 **Candidat·e :** Léa Andolfi
 
@@ -17,6 +16,6 @@ Ever since Gone with the Wind was released in 1939, historical films and televis
 
 **Financement :** Contrat doctoral du projet ANR TRACTIVE 
 
-**Ecole doctorale :** ED 433 -École doctorale Concepts et Langages
+**Ecole doctorale :** ED 433 - École doctorale Concepts et Langages
 
 **Laboratoire de rattachement :** [GRIPIC](gripic.fr/)
