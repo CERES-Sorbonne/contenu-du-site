@@ -13,6 +13,9 @@ event: true
 - Jeudi 9 mars 2023 – 16h30-18h30
 - D117, Maison de la Recherche, 28 rue Serpente, 75006, Paris
 - [Lien d'inscription](https://framaforms.org/atelier-tableau-public-09032023-1676369258)
+- [Créer un compte sur Tableau Public](https://public.tableau.com/desktop/signup_unification.html)
+- [Télécharger l'extrait des bases de données SIRENE utilisé pour l'atelier](https://www.grosfichiers.com/QFghgSVNhmK)
+- [Lire le tutoriel écrit](atelier-tableau-public-support.pdf)
 
 ## Tableau public
 
