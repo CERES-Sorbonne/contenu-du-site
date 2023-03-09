@@ -13,6 +13,6 @@ abstract: Assistant de recherche au CERES - masterant
 
 **Thèmes de recherche** : collecte de données, cartographie
 
-## Collaborations et projets
+## Projets
 
 - Cartographie des méthodes numériques de Sorbonne Universités

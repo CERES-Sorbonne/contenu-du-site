@@ -6,7 +6,7 @@ tags:
 event: true
 ---
 
-![](tableau_public.png)
+![](tableau-public.png)
 
 ## Informations
 

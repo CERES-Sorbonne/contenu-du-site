@@ -7,13 +7,13 @@ abstract: Ingénieur d'études, masterant·e en design à l'ENSCI
 
 **Poste au CERES** : Ingénieur d'études
 
-**Titre et discipline** : masterant·e en design à l'ENSCI
+**Titre et discipline** : masterant en design à l'ENSCI
 
 **Laboratoire de rattachement :** [CERES](https://ceres-sorbonne.github.io/)
 
-**Thèmes de recherche** : pratiques de production de connaissance, pratiques d'enquête militante, mobilisations écologistes, contestations d'aménagements et d'infrastructures, modélisation énergétique, scénarios de transition, recherche participative, cognition distribuée, technologies intellectuelles, systèmes documentaires, visualisation de données
+**Thèmes de recherche** : pratiques de production de connaissance, enquête militante, contestations d'aménagements et d'infrastructures, modélisation énergétique, scénarios de transition, recherche participative, cognition distribuée, technologies intellectuelles, systèmes documentaires, visualisation de données
 
-### Collaborations et projets
+## Projets
 
 - **TRACTIVE :** projet de recherche ANR sur la reconnaissance automatique de l'objectification des femmes dans les contenus vidéos. État de l'art des outils d'annotation vidéo, soutien à la conception d'un nouvel outil d'annotation, contribution à la structuration et à la visualisation d'un thésaurus pour l'annotation.
 - **Visualisation de dynamiques de circulation médiatique :** projet tranversal à CERES visant à développer des méthodes pour visualiser la circulation et les reprises de fragments d'images et de textes. Applications dans l'étude des communautés "anti-genre" sur les réseaux sociaux.

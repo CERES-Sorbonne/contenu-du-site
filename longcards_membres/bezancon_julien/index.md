@@ -3,9 +3,7 @@ title: Julien Bezançon
 abstract: doctorant
 ---
 
-## Julien Bezançon
-
-![Julien Bezançon](bezancon_julien.png)
+![Julien Bezançon](bezancon_julien.jpg)
 
 **Poste au CERES** : doctorant
 
@@ -15,7 +13,7 @@ abstract: doctorant
 
 **Thèmes de recherche** : TAL, figement, défigement, python
 
-### Collaborations et projets en cours ou terminés
+## Projets
 
 - (en cours) Multilingual Crows-Pairs
 - (en cours) Thèse : Détection et production de défigements linguistiques dans les réseaux sociaux assistées par les sciences participatives : fertilisation croisée entre traitement informatique et analyse linguistique
