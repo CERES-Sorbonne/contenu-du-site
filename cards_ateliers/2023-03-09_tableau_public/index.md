@@ -1,6 +1,6 @@
 ---
 title: Atelier Tableau Public
-author: ceres
+author: victor
 tags:
     - visualisation
 event: true
