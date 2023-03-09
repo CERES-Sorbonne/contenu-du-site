@@ -7,7 +7,7 @@ tags:
 event: true
 ---
 
-![](octoparse.png)
+![](octoparse.jpg)
 
 ## Informations
 

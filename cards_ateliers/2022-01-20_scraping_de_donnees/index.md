@@ -3,7 +3,7 @@ title: Atelier Scraping de données
 author: ceres
 ---
 
-![](scraping.png)
+![](octoparse.jpg)
 
 L'atelier a été animé par Gaël Lejeune (STIH) le 20 janvier 2022. Il s'agissait d'exposer la façon dont on peut :
 

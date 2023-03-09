@@ -16,5 +16,3 @@ Les supports de présentation sont disponibles en téléchargement :
 
 - [Support de présentation de Gaël Lejeune](CERES-europresse.pdf)
 - [Support de présentation de Thibault Grison](Atelier_CERES_Europresse.pdf)
-
-<!-- /wp:list -->

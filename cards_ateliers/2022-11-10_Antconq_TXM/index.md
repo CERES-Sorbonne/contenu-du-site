@@ -1,5 +1,5 @@
 ---
-title: Atelier Antconq/TXM
+title: Atelier Antconc/TXM
 author: ceres
 tags:
     - antconq
@@ -8,7 +8,7 @@ tags:
 event: true
 ---
 
-![](antconq.png)
+![](antconc.png)
 
 Le traitement automatique du langage naturel (TAL) est une des disciplines dans laquelle le CERES est actif. Plusieurs logiciels sont utilisés dans ce domaine, tels que TXM et Antconq, qui ont fait l'objet de plusieurs ateliers proposés par le CERES, les 21 octobre 2021 et 10 novembre 2022.
 
