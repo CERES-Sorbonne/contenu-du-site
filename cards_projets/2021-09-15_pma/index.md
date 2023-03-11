@@ -1,13 +1,17 @@
 ---
 title: Projet d'analyse de la controverse relative à l’ouverture de la procréation médicalement assistée aux femmes célibataires, aux couples de femmes et aux femmes trans
 author: ceres
+tags:
+    - presse
+    - réseaux sociaux
+    - visualisation
 ---
 
 **Coordination :** Virginie Julliard, PU en SIC, GRIPIC, CELSA-Sorbonne Université
 
 **Équipe :** Gaël Lejeune (STIH, SU), Fred Pailler (Université du Luxembourg) et Maxime Cervulle (CEMTI, Université Paris 8)
 
-**Objectif :** Analyse de la controverse relative à l’ouverture de la procréation médicalement assistée aux femmes célibataires, aux couples de femmes et aux femmes trans.
+**Objectif :** Analyse de la controverse relative à l’ouverture de la procréation médicalement assistée aux femmes célibataires, aux couples de femmes et aux femmes trans.
 
 ## Résumé
 

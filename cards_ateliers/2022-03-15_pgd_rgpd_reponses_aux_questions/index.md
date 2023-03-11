@@ -1,6 +1,8 @@
 ---
 title: Atelier RGPD / PGD, réponses aux questions
 author : ceres
+tags:
+    - rgpd
 ---
 
 ![](rgpd.png)

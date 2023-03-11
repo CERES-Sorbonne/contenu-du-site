@@ -1,6 +1,8 @@
 ---
 title: Atelier Scraping de données
 author: ceres
+tags:
+    - scraping
 ---
 
 ![](octoparse.jpg)

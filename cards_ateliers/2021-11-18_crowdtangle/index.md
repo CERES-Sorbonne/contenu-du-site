@@ -1,6 +1,9 @@
 ---
 title: Atelier CrowdTangle
 author: ceres
+tags:
+    - crowdtangle
+    - réseaux sociaux
 ---
 
 ![](crowdtangle.png)

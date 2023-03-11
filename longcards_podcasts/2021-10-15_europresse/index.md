@@ -2,6 +2,7 @@
 title: Europresse avec Thibault Grison
 author: ceres
 tags:
+    - presse
     - europresse
 sound: https://dropsu.sorbonne-universite.fr/s/Co4t6xTZW6NnQDn/download/Podcast_5_Europresse_Thibault_Grison.mp3
 ---

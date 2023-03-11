@@ -3,7 +3,7 @@ title: Atelier Iramuteq
 author: ceres
 tags:
     - iramuteq
-    - tal
+    - textométrie
 ---
 
 ![](iramuteq.png)

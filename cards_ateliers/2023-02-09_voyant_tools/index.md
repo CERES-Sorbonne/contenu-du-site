@@ -1,6 +1,8 @@
 ---
 title: Atelier Voyant Tools
 author: ceres
+tags:
+    - voyant tools
 event: true
 ---
 

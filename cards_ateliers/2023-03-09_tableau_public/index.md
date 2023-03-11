@@ -3,6 +3,7 @@ title: Atelier Tableau Public
 author: victor
 tags:
     - visualisation
+    - tableau public
 event: true
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: 'Bourse de thèse : Analyse du discours complotiste dans un corpus de presse historicisé'
 author: ceres
+tags:
+    - presse
 ---
 
 **Bourse de thèse CERES (2021)**

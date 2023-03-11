@@ -1,6 +1,12 @@
 ---
 title: Ateliers à venir en automne 2021
 author : ceres
+tags:
+    - iramuteq
+    - textométrie
+    - gephi
+    - réseaux
+    - visualisation
 ---
 
 ## Iramuteq

@@ -19,7 +19,7 @@ Vous pouvez compléter l’écoute de ce podcast en consultant les ressources é
   - [R (langage)](https://openclassrooms.com/fr/courses/4525256-initiez-vous-au-langage-r-pour-analyser-vos-donnees)
 - Pour le nettoyage des données : [Dataiku](https://www.dataiku.com/)
 
-**Crédits :**
+**Crédits :**
 
 - Interview : Emmanuelle Papinot et Thibault Grison
 - Générique et habillage sonore : Thomas Bottini et Virginie Julliard

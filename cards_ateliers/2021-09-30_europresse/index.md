@@ -2,6 +2,7 @@
 title: Atelier Europresse
 author: ceres
 tags:
+    - presse
     - europresse
 ---
 

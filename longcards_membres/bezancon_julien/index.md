@@ -5,18 +5,18 @@ abstract: doctorant
 
 ![Julien Bezançon](bezancon_julien.jpg)
 
-**Poste au CERES** : doctorant
+**Poste au CERES** : doctorant
 
-**Titre et discipline** : doctorant
+**Titre et discipline** : doctorant
 
-**Laboratoire de rattachement :** [Sorbonne Université/STIH](http://stih-sorbonne-universite.fr/)
+**Laboratoire de rattachement :** [Sorbonne Université/STIH](http://stih-sorbonne-universite.fr/)
 
-**Thèmes de recherche** : TAL, figement, défigement, python
+**Thèmes de recherche** : TAL, figement, défigement, python
 
 ## Projets
 
 - (en cours) Multilingual Crows-Pairs
-- (en cours) Thèse : Détection et production de défigements linguistiques dans les réseaux sociaux assistées par les sciences participatives : fertilisation croisée entre traitement informatique et analyse linguistique
+- (en cours) Thèse : Détection et production de défigements linguistiques dans les réseaux sociaux assistées par les sciences participatives : fertilisation croisée entre traitement informatique et analyse linguistique
 
 ## Publications récentes
 

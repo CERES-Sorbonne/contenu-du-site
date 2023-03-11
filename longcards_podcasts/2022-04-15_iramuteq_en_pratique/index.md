@@ -3,6 +3,7 @@ title: 'Iramuteq en pratique'
 author: ceres
 tags: 
     - iramuteq
+    - textométrie
 sound: https://dropsu.sorbonne-universite.fr/s/ZHQCwZNSSwdzPtj/download/Podcast_2_Iramuteq_AdelineWrona.mp3
 ---
 

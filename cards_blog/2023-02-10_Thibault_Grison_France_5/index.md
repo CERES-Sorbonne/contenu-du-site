@@ -1,5 +1,7 @@
 ---
-title: "A regarder sur France 5 : Johnny Depp contre Amber Heard, un procès qui s'est joué en réseaux"
+title: "A regarder sur France 5 : Johnny Depp contre Amber Heard, un procès qui s'est joué en réseaux"
+tags:
+    - réseaux sociaux
 ---
 
 ![](TG_F5.png)

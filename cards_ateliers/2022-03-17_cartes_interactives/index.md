@@ -2,6 +2,9 @@
 title: 'Atelier ARCGIS - cartes interactives'
 author : ceres
 abstract: Ces dernières années, les outils de la géomatique se sont démocratisés. Il n’est plus nécessaire d’être spécialiste pour fabriquer des cartes de bonne qualité et des interfaces pratiques voire ludiques permettent d’intégrer le langage cartographique dans ses présentations, en salle ou sur le web (web applications, storymaps). La séance vous permettra de découvrir par vous-mêmes les possibilités infinies des SIG (systèmes d’information géographique).
+tags:
+    - arcgis
+    - sig
 ---
 
 ![](arcgis.jpg)

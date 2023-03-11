@@ -3,7 +3,6 @@ title: Atelier Octoparse
 author: ceres
 tags:
     - scraping
-    - collecte
 event: true
 ---
 

@@ -2,6 +2,7 @@
 title: Europresse avec Gaël Lejeune
 author: ceres
 tags:
+    - presse
     - europresse
 sound: https://dropsu.sorbonne-universite.fr/s/QnTe4XfQkaBtcpT/download/Podcast_4_Europresse_Gael_Lejeune.mp3
 ---
