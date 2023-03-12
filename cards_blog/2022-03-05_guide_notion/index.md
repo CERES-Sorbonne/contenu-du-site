@@ -18,7 +18,7 @@ Si vous souhaitez lire le guide au format pdf ou l'imprimer, vous pouvez [accéd
 
 ## Introduction
 
-#### Qu’est-ce que Notion ?
+### Qu’est-ce que Notion ?
 
 [Notion](https://www.notion.so) est un logiciel de gestion de projet, qui est surtout employé par les développeur·ses et des entrepreneur·ses. C’est un outil très puissant et polyvalent, qui évolue vite grâce à une dynamique d’écoute de la communauté. Néanmoins, il ne s’adresse à l’origine pas à des chercheur·ses et certaines fonctions essentielles à la recherche sont parfois négligées par l’équipe de développement : [beaucoup d’usager·es demandent l’introduction de notes de bas de page depuis 2019](https://twitter.com/notionhq/status/1098033975681929217).
 
@@ -32,7 +32,7 @@ Il y a beaucoup de manières de décrire Notion, voici quelques-unes que je reti
 
 Cela étant dit, Notion n’est pas un logiciel libre : son code n’est pas en libre accès et il est maintenu par une entreprise à but lucratif. Cela implique qu’il est possible qu’à l’avenir l’entreprise décide d’appliquer plus de restrictions sur les comptes gratuits, et que vous et moi ne soyions plus en mesure de l’utiliser. Ça signifie aussi que tout le savoir élaboré lors de sa conception ne sera probablement jamais partagé et réutilisé par d’autres, ce que je trouve très dommage. Je vous encourage donc à réfléchir avant de l’utiliser pour n’importe quel projet, et à garder un oeil sur les alternatives libres comme [FocalBoard](https://www.focalboard.com/) (qui à mon sens n’est pas encore tout à fait viable).
 
-#### Avant de commencer
+### Avant de commencer
 
 Trois choses à prendre en compte avant de commencer la lecture de cet article :
 
@@ -467,7 +467,7 @@ Si vous n’êtes pas intéressé·e par ces fonctions, vous pouvez passer direc
 
 </aside>
 
-#### Importer et mettre en forme un tableau
+### Importer et mettre en forme un tableau
 
 Notion permet d’importer des données depuis d’autres formats ou logiciels. Vous pouvez donc extraire des données en ligne ou les saisir sur d’autres logiciels, puis les importer en `.csv` sur Notion pour pouvoir les manipuler. C’est ce qu’on va commencer par faire.
 
@@ -501,7 +501,7 @@ Les autres chercheur·ses ont classé mes images en 6 catégories distinctes, je
 
 Notion a de lui-même reconnu que le champ “date” était une `Date` et les autres champs peuvent rester du texte, ça ne changera rien à mon analyse
 
-#### Mettre en place des catégories d’analyse
+### Mettre en place des catégories d’analyse
 
 Maintenant que nos propriétés s’affichent correctement, on peut commencer à imaginer comment on va analyser ces centaines de tweets et d’images. Je vais commencer par ajouter des champs pour pouvoir qualifier les images :
 
@@ -523,7 +523,7 @@ Sur Twitter, il est très courant de retweeter, reprendre ou modifier une image.
 
 Une fois ce groupage fait, j’aurai donc un ensemble de groupes de tweets, dont je pourrais analyser l’image une fois et copier-coller sur les autres.
 
-#### Assurer le suivi de l’analyse
+### Assurer le suivi de l’analyse
 
 Plusieurs options peuvent aider à garder le fil de l’analyse :
 
@@ -538,7 +538,7 @@ Plusieurs options peuvent aider à garder le fil de l’analyse :
 
 En général, je conseillerais de toujours dupliquer la vue actuelle plutôt que d’en créer une nouvelle, ça permet de ne pas perdre tous les paramètre de tri, de groupe, de taille et d’ordre de colonne, etc.
 
-#### Visualiser des corpus d’images
+### Visualiser des corpus d’images
 
 La vue `Tableau` peut servir à analyser des images, mais elle ne donne pas vraiment d’aperçu d’ensemble, les images sont trop petites. Alors une vue `Galerie` peut aider !
 
@@ -552,7 +552,7 @@ Si je souhaite modifier les tags attribués à un tweet, je peux simplement cliq
 
 Cette vue galerie peut ensuite être enrichie avec divers groupes ou tris, il y a beaucoup d’usages à imaginer. Je peux par exemple grouper par utilisateur·rice et trier par date de création, de manière à voir les trajectoires individuelles.
 
-#### Exporter ses données
+### Exporter ses données
 
 Il est toujours possible d’exporter une base de données Notion pour l’exploiter sur d’autres logiciels. Notion peut donc facilement s’insérer dans une chaîne de traitement de données plus large, tant qu’on n’utilise pas de propriétés trop spécifiques à ce logiciel, qui vont difficilement se transcrire en `.csv`. C’est par exemple le cas du type de propriété `Relation`, qui s’exportera sous la forme d’URL vers des pages Notion.
 
@@ -573,7 +573,7 @@ Pour l’exporter, cliquez sur le bouton `⟷` en haut à droite de votre base d
 - créer des sous-écosystèmes documentaires pour fluidifier la navigation entre les notes
 </aside>
 
-#### Tableau d’écrits
+### Tableau d’écrits
 
 Créer un tableau simple et copiez-collez le contenu de toutes vos notes dedans. Comme chaque ligne d’un tableau est une page, vous pouvez stocker n’importe quel objet Notion dans une base de données. Les pages ne sont donc pas nécessairement des notes, mais peuvent comprendre des diagrammes, des tableaux, des calendriers, etc.
 
@@ -585,7 +585,7 @@ Créer une colonne `Sélection` intitulée “Domaine”, dans laquelle on va qu
 
 Ajouter une colonne `Date de création`, qui va servir à classer nos notes par date de création.
 
-#### Liste d’écrits organisée
+### Liste d’écrits organisée
 
 Créer une vue sous forme de `Liste`, pour pouvoir accéder aux notes plus rapidement et avoir une interface moins chargée. Afficher la date de création en allant dans les `Propriétés` si elle n’est pas là d’emblée.
 
@@ -619,7 +619,7 @@ Maintenant qu’on a deux propriétés `Sélection`, on peut aussi imaginer grou
 
 ![big](Screenshot_2022-03-13_at_20.59.00.png)
 
-#### Bonnes pratiques d’écriture et de navigation
+### Bonnes pratiques d’écriture et de navigation
 
 Voici quelques conseils pour organiser le contenu de vos notes. J’ai développé ces pratiques à mesure que mes bases de données se complexifiaient et que j’avais besoin de lisibilité et de navigation rapide. Elles ne seront donc pas adaptées à tous les usages, vous pouvez piocher dedans comme bon vous semble :
 
@@ -660,7 +660,7 @@ Voici quelques conseils pour organiser le contenu de vos notes. J’ai développ
 - coder ses entretiens
 </aside>
 
-#### Tableau d’entretiens
+### Tableau d’entretiens
 
 Créer un tableau qui liste toutes les personnes que l’on souhaite interviewer. Si j’ai beaucoup d’enquêté·es, j’aurais tendance à créer plusieurs colonnes pour qualifier les personnes en fonction de la nature de ma recherche. Ici, il s’agit d’une enquête fictive auprès de grand·es chercheur·ses du 20è et 21è siècle, voici les colonnes que j’ai choisies :
 
@@ -695,7 +695,7 @@ Notre tableau est un peu plus lisible, mais on peut également le `Grouper` par 
 
 ![big](Screenshot_2022-03-19_at_18.19.33.png)
 
-#### Calendrier
+### Calendrier
 
 Pour aller plus loin dans le suivi de son enquête, on peut afficher la base de données sous forme de `Calendrier`. La première chose à faire est de créer une colonne `Date`, qui pourra s’appeler par exemple “date de l’entretien”. On peut y inclure la date, mais aussi l’heure de début et de fin, afin d’être sûr·e de ne rien oublier.
 
@@ -715,7 +715,7 @@ En haut à droite du tableau, à gauche des options de filtre, le calendrier m�
 
 ![small](Screenshot_2022-03-19_at_18.41.24.png)
 
-#### Retranscription
+### Retranscription
 
 Comme n’importe quelle page Notion peut être partagée, il est possible d’utiliser cette base de donnée comme outil collaboratif. On peut par exemple créer deux colonnes `Sélection` ou `Personne` :
 
@@ -726,7 +726,7 @@ On peut aussi ajouter une colonne `Fichiers et médias` qui s’appellerait “E
 
 Pour retranscrire, je télécharge souvent mes enregistrements sous forme de vidéos en privé sur Youtube, puis je copie les sous-titres automatiques vers [Otranscribe](https://otranscribe.com/). Je réécoute alors l’entretien en corrigeant le texte généré par Youtube, puis je le copie-colle dans la page Notion de la personne.
 
-#### Analyse
+### Analyse
 
 En fonction du niveau de précision avec lequel on souhaite analyser ses entretiens, il y a plein de formes de base de données à inventer avec Notion.
 
