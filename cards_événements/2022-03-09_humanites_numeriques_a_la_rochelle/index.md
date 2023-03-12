@@ -1,7 +1,11 @@
 ---
 title: "Journées d'études autour des Humanités numériques à La Rochelle"
 author: ceres
-abstract: "Une partie de l'équipe CERES s'est déplacée à La Rochelle les 3 et 4 mars 2022 pour une journée d'études sur les méthodes numériques pour les SHS."
+abstract: "Une partie de l'équipe CERES s'est déplacée à La Rochelle les 3 et 4 mars 2022 pour une journée d'études sur les méthodes numériques pour les SHS"
+tags:
+    - presse ancienne
+    - extraction d'information
+    - réseaux sociaux
 ---
 
 Nous avons pu présenter la genèse et le fonctionnement de CERES auprès de Jean Marc Wallet, directeur de la Recherche et de l'Innovation de l'ULR et de Yacine Ghamri, directeur du L3I. Les instances rochelaises ont ainsi montré leur intérêt pour le modèle de l'unité de services pour faciliter le dialogue entre le numérique et les SHS.
