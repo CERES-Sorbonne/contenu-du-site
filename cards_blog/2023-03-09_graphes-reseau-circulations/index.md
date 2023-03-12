@@ -8,7 +8,7 @@ tags:
     - images
 ---
 
-![](Screenshot_2022-09-30_at_12.21.20.png)
+![](Graphe_contraint_5.png)
 
 <aside>
 
@@ -132,7 +132,7 @@ Les images-types ont également été constituées à l’aide d’*average hash
 
 Une fois ces catégories stabilisées, nous avons dessiné à quoi ressemblerait notre graphe, ce qui nous a aidé à anticiper le genre de conclusions qu’on pourrait en tirer.
 
-![](Graphe_contraint_5.png)
+![](Graphe_contraint_8.png)
 
 Il est divisé en 4 niveaux hiérarchiques :
 
@@ -188,7 +188,7 @@ Mais elle ne nous permettait pas d’explorer en détail notre corpus, et d’an
 - Survoler un noeud d’image-type fait la même chose, mais en affichant une image au hasard parmi celles qu’elle regroupe.
 - Survoler un motif iconique met en avant les liens des noeuds qu’il regroupe, de manière à pouvoir analyser plus finement ses interactions.
 
-![](Screenshot_2022-09-30_at_12.21.20.png)
+![](Graphe_contraint_5.png)
 
 ![](Screenshot_2022-09-30_at_12.21.39.png)
 

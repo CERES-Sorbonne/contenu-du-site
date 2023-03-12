@@ -29,9 +29,7 @@ Des données seront à disposition pour les cas d'usage suivants :
 
 Une formation à destination des chercheur·ses de Sorbonne Université a eu lieu le 6 octobre 2022. Un guide, adapté de cette formation, a été réalisé, et permet d'apprendre pas à pas Notion pour l’insérer dans son processus d'enquête.
 
-[Télécharger le guide "Notion pour la recherche en sciences sociales"](guide-notion.pdf)
-
-Vous trouverez dans ce guide :
+[Vous pouvez également accéder à un guide complet sur Notion](/blog/2022-03-05_guide_notion/), dans lequel vous trouverez :
 
 - Un tutoriel pour bien débuter avec Notion
 - Un exemple d'application pour l'analyse d'un corpus de tweets
