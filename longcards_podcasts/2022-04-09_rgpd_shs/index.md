@@ -8,4 +8,5 @@ sound: https://dropsu.sorbonne-universite.fr/s/qkRZWtpSpDLRpzF/download/Podcast_
 
 ![](rgpd.png)
 
-Un podcast avec Julien Rossi, du laboratoire COSTECH
+Un podcast avec Julien Rossi, anciennement UTC/COSTECH, désormais Paris 8/CEMTI. 
+Voir également [l'atelier PGD, RGPD, archivage des données personnelles dans les SHS](../2022-03-15_pgd_rgpd_reponses_aux_questions/), qui a eu lieu le 19 novembre 2021, ainsi que le détail des  [réponses aux questions posées lors de cet atelier](../2021-11-19_pgd_rgpd_donnees_personnelles/).

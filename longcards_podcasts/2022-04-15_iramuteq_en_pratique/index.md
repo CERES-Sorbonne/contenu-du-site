@@ -1,5 +1,5 @@
 ---
-title: 'Iramuteq en pratique'
+title: 'Iramuteq avec Adeline Wrona'
 author: ceres
 tags: 
     - iramuteq

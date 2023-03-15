@@ -1,5 +1,5 @@
 ---
-title: Introduction à Iramuteq
+title: Iramuteq avec Renaud Debailly
 author: ceres
 tags:
     - iramuteq
