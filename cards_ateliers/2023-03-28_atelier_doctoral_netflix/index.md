@@ -1,5 +1,6 @@
 ---
 title: Séminaire doctoral CERES 
+event: true
 tags: 
     - séminaire doctoral
     - collecte
@@ -25,7 +26,7 @@ For her transnational case study exploring  binge-watching and media habits, Ri 
 
 The GDPR and the California Privacy Rights Act of 2020 mean that millions of potential research subjects have at least theoretical access to their own individual data, and can give permission themselves for this data to be part of a research project (Boeschoten et al., 2020). This case study, which grounded interviews in platform logs from YouTube, Netflix and a large self-tracking service, showed that platform logs and interviews are complementary. In combination, they compensate for one another’s deficits.
 
-### Lé séminaire
+### Le séminaire
 
 Pour la deuxième année consécutive, les doctorant.es de l’unité de service CERES de la Sorbonne organisent un séminaire à destination des doctorant.es et masterant.es sur différentes approches des méthodes numériques.
 
