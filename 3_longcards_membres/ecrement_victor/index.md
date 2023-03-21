@@ -1,6 +1,6 @@
 ---
 title: Victor Ecrement
-abstract: Ingénieur d'études, masterant·e en design à l'ENSCI
+abstract: Ingénieur d'études, masterant en design à l'ENSCI
 ---
 
 ![](victor-ecrement.jpg)
