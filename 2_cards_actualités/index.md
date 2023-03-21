@@ -1,3 +1,3 @@
 ---
-title: Billets de blog
+title: Actualités
 ---
