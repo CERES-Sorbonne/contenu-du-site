@@ -17,7 +17,7 @@ event: true
 - [Lien d'inscription](https://framaforms.org/atelier-tableau-public-09032023-1676369258)
 - [Créer un compte sur Tableau Public](https://public.tableau.com/desktop/signup_unification.html)
 - [Télécharger l'extrait des bases de données SIRENE utilisé pour l'atelier](https://www.grosfichiers.com/QFghgSVNhmK)
-- [Lire le tutoriel écrit](/blog/2023-03-09_tutoriel_tableau_public/)
+- [Lire le tutoriel écrit](/articles/2023-03-09_tutoriel_tableau_public/)
 
 ## Tableau public
 
