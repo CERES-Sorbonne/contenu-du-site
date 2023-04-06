@@ -54,7 +54,7 @@ On essaiera aussi de corréler la période de création avec les catégories d�
 
 Dans le jeu, il y a beaucoup de champs qui sont soit presque vides, soit dont le contenu est difficile à comprendre, on ne va en garder que quelques-uns.
 
-- Masquer tous les autres champs que :
+- Masquer tous les autres champs que :
     - `Date création unité légale`
     - `Date dernier traitement`
     - `Catégorie entreprise`
@@ -72,9 +72,9 @@ Dans le jeu, il y a beaucoup de champs qui sont soit presque vides, soit dont le
 
 On va commencer par essayer de faire un histogramme simple des dates de création des entreprises
 
-- Faire un histogramme :
-    - `Colonnes` : `Date création unité légale`
-    - `Lignes` : `StockUniteLegale - premier million.csv`
+- Faire un histogramme :
+    - `Colonnes` : `Date création unité légale`
+    - `Lignes` : `StockUniteLegale - premier million.csv`
 
 Tableau Public a plusieurs options pour la taille de la visualisation, mais va utiliser par défaut la plus petite taille pour que ce soit lisible. Je trouve que `Vue entière` est la meilleure option, mais ça peut dépendre de vos visualisations.
 
@@ -82,12 +82,12 @@ Tableau Public a plusieurs options pour la taille de la visualisation, mais va u
 
 Une fois que c’est fait, on s’aperçoit qu’il y a un énorme pic de créations en 1900. C’est probablement parce qu’à la création de la base, les entreprises créées au 18ème siècle ont été comptées comme ayant été créées en 1900. On peut corriger ce défaut
 
-- Filtrer les dates :
+- Filtrer les dates :
     - Créer un filtre avec `Date création unité légale`
     - Ne pas `Inclure les valeurs null`
     - Commencer en `1901`
 - Si ce n’est pas déjà le cas, convertir en barres
-- Jouer avec les périodes en abscisse : mois, jours, années, etc.
+- Jouer avec les périodes en abscisse : mois, jours, années, etc.
 - Ajuster la largeur des barres de l’histogramme
 
 ### Histogramme cumulatif
@@ -132,7 +132,7 @@ Savoir les dates de création des entreprises ne nous renseigne pas tellement su
 
 Ici, on se rend compte que les noms d’activités sont illisibles. En effet, au lieu de descriptions, l’INSEE fournit des codes qui correspondent à des fiches. On pourrait prendre chaque code qui nous intéresse et faire une recherche google, mais c’est extrêmement rébarbatif. Mais si l’on observe l’URL de ces fiches, on voit que c’est à peu près toujours le même, seul le code de l’activité change en fin d’URL. On peut donc faire en sorte que la visualisation renvoie directement vers ces fiches.
 
-- Ajouter un lien vers la fiche de l’activité :
+- Ajouter un lien vers la fiche de l’activité :
     - Créer un champ calculé `Lien activité principale`, dont la formule est `"https://www.insee.fr/fr/metadonnees/nafr2/sousClasse/" + [Activite Principale Unite Legale]`
     - Dans `Feuille de calcul`, créer une action URL qui utilise la propriété calculée
     - Assigner `Lien activité principale` en détail
@@ -145,8 +145,8 @@ Ici, on se rend compte que les noms d’activités sont illisibles. En effet, au
 Maintenant, on va essayer de faire à peu près la même chose, mais avec les catégories d’entreprise. On sait qu’il n’y en a que 3, donc a priori on pourra utiliser autre chose qu’un diagramme en bulles.
 
 - Faire une série de diagrammes circulaires en fonction des catégories d’entreprises
-    - `Colonnes` : `Catégorie entreprise`
-    - `Secteurs` : nombre d’entreprises
+    - `Colonnes` : `Catégorie entreprise`
+    - `Secteurs` : nombre d’entreprises
 
 Là, on pourrait simplement colorer les secteurs en fonction de la date de création, mais comme il y en a un très grand nombre, on risque de se retrouver avec des dégradés très difficile à distinguer les uns des autres. Au lieu de ça, on peut découper des périodes nous-mêmes à partir de ces dates.
 

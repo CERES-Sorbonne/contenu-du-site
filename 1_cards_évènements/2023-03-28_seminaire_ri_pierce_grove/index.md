@@ -1,5 +1,5 @@
 ---
-title: "Séminaire doctoral : Data-prompted interviewing"
+title: "Séminaire doctoral : Data-prompted interviewing"
 event: true
 tags: 
     - séminaire doctoral
@@ -33,6 +33,6 @@ Le séminaire se déroulera en deux parties. D’abord nous écouterons pendant 
 
 ## Séances à venir
 
-- 25/04/2023 : Aurélie Sansen (doctorante Gripic)
-- 30/05/2023 : Marie-Lise Buisson (doctorante Gripic)
-- 13/06/2023 : Ivanne Hermant (doctorante Sorbonne)
+- 25/04/2023 : Aurélie Sansen (doctorante Gripic)
+- 30/05/2023 : Marie-Lise Buisson (doctorante Gripic)
+- 13/06/2023 : Ivanne Hermant (doctorante Sorbonne)
