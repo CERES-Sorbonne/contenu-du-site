@@ -179,7 +179,7 @@ Il est également possible de passer par des méthodes semi automatiques, comme 
 
 **Les sites :** pour ces derniers, pas de solution miracle, il faut forcément les scrapper, et cela représente un exercice de difficulté très variable en fonction de la structure des sites. Cette structure peut être visualisée facilement depuis n’importe quel navigateur (souvent en faisant clic droit, puis inspecter). On obtient alors quelque chose comme ceci :
 
-![big](Untitled.png)
+![big](1-Untitled.png)
 
 On observe sur la droite le code HTML de la page, c’est à dire la structure contenant les informations affichées à l’écran. Voici une façon classique de représenter des éléments d’un site :
 
