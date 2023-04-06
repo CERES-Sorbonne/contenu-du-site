@@ -10,8 +10,8 @@ event: true
 
 ## Informations
 
-- Jeudi 6 avril 2023 – 16h30-18h30
-- D117, Maison de la Recherche, 28 rue Serpente, 75006, Paris
+- Jeudi 20 avril 2023
+- Maison de la Recherche, 28 rue Serpente, 75006, Paris
 - [Lien d'inscription](https://framaforms.org/inscription-atelier-octoparse-1677754133)
 
 ## Octoparse
