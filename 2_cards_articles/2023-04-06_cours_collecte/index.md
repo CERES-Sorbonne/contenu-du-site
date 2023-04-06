@@ -157,7 +157,7 @@ Toutes les données qui servent à décrire un corpus de données :
 
 Une fois que l’on sait reconnaitre les différents formats, et que l’on sait à quoi ils servent, se pose la question de la provenance de ces données, et il convient pour cela d’identifier les sources possibles. Bien sûr internet en son entièreté est une source de données possible et l’objectif ici est principalement de lister un certain nombre de type de sources et sources connues : 
 
-- **Les jeux de données publics**: des données structurées, souvent au format csv et disponibles gratuitement en ligne. Il en existe un grand nombre et notamment sur [la plateforme data.gouv](https://www.data.gouv.fr/fr/datasets) pour tout ce qui concerne les données du secteur public. De manière plus générale, chercher “dataset” et le sujet qui vous intéresse sur google donne souvent des résultats. A noter que tous les jeux de données ne se valent pas et que certains sont assez obscurs (exemple : noms de colonnes pas explicites).
+- **Les jeux de données publics :** des données structurées, souvent au format csv et disponibles gratuitement en ligne. Il en existe un grand nombre et notamment sur [la plateforme data.gouv](https://www.data.gouv.fr/fr/datasets) pour tout ce qui concerne les données du secteur public. De manière plus générale, chercher “dataset” et le sujet qui vous intéresse sur google donne souvent des résultats. A noter que tous les jeux de données ne se valent pas et que certains sont assez obscurs (exemple : noms de colonnes pas explicites).
     
     <aside>
 
@@ -165,9 +165,9 @@ Une fois que l’on sait reconnaitre les différents formats, et que l’on sait
     
     </aside>
     
-- **Les APIs:** les APIs sont des systèmes fournissant des données à la demande, c’est à dire que l’on utilise un langage de requêtage pour interroger le système et récupérer les données en fonction de filtres. Les deux types principaux actuellement sont les APIs dites “REST”, et les APIs “GraphQL”. Beaucoup de services sont accessibles en utilisant ces moyens (les données Twitter par exemple), et même si vous ne saurez pas forcément les utiliser sans compétence informatique, il peut être intéressant de savoir qu’ils existent pour éventuellement demander une aide complémentaire sur ce sujet.
-- **Les plateformes**: Les plateformes sont des sites web permettant d’accéder à des consultation de données. Elles possèdent souvent des fonctions de recherche, de filtrage et de tri, mais sans forcément donner accès aux téléchargement du contenu, ou alors de façon assez sporadique. On peut prendre pour exemple Europresse, Cairn, ou encore Google Scholar. Ces sources sont souvent assez pratiques pour consulter, ou bien pour constituer des corpus de taille modeste.
-- **Les sites internets:** La plupart des données disponibles sur internet sont malheureusement accessibles sous forme de sites web, souvent sans metadonnées claires, et la pratique du scrapping devient alors la seule solution pour y accéder.
+- **Les APIs :** les APIs sont des systèmes fournissant des données à la demande, c’est à dire que l’on utilise un langage de requêtage pour interroger le système et récupérer les données en fonction de filtres. Les deux types principaux actuellement sont les APIs dites “REST”, et les APIs “GraphQL”. Beaucoup de services sont accessibles en utilisant ces moyens (les données Twitter par exemple), et même si vous ne saurez pas forcément les utiliser sans compétence informatique, il peut être intéressant de savoir qu’ils existent pour éventuellement demander une aide complémentaire sur ce sujet.
+- **Les plateformes  :** Les plateformes sont des sites web permettant d’accéder à des consultation de données. Elles possèdent souvent des fonctions de recherche, de filtrage et de tri, mais sans forcément donner accès aux téléchargement du contenu, ou alors de façon assez sporadique. On peut prendre pour exemple Europresse, Cairn, ou encore Google Scholar. Ces sources sont souvent assez pratiques pour consulter, ou bien pour constituer des corpus de taille modeste.
+- **Les sites internets :** La plupart des données disponibles sur internet sont malheureusement accessibles sous forme de sites web, souvent sans metadonnées claires, et la pratique du scrapping devient alors la seule solution pour y accéder.
 
 ### Collecte automatisée
 
