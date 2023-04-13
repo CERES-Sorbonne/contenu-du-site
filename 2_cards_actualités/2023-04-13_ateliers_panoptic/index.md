@@ -10,7 +10,7 @@ abstract: Nous concevons en ce moment Panoptic, logiciel d'annotation et d'explo
 
 ![big](panoptic.png)
 
-Depuis janvier 2023, nous avons commencé la conception de [Panoptic](https://ceres.huma-num.fr/panoptic/) : un logiciel pour organiser et explorer de gros corpus d’images. Il se concentre sur des fonctions d’annotation, de tri, de filtre et de groupement manuels ou automatiques, avec l'objectif d'encourager la stabilisation progressive de catégories (pour l'annotation de fragments d’images, [un autre logiciel est déjà en développement](https://shs.hal.science/halshs-03950395/document) à l'[IReMus](https://www.iremus.cnrs.fr/)).
+Depuis janvier 2023, nous avons commencé la conception de **Panoptic : un logiciel pour organiser et explorer de gros corpus d’images**. Il se concentre sur des fonctions d’annotation, de tri, de filtre et de groupement manuels ou automatiques, avec l'objectif d'encourager la stabilisation progressive de catégories (pour l'annotation de fragments d’images, [un autre logiciel est déjà en développement](https://shs.hal.science/halshs-03950395/document) à l'[IReMus](https://www.iremus.cnrs.fr/)).
 
 Beaucoup de disciplines des sciences humaines et sociales étudient des images, nous organisons donc des temps de rencontre et des entretiens pour comprendre la diversité de ces pratiques et mieux les accompagner avec Panoptic. Y sont convié·es des chercheur·ses en histoire de l’art, études des sciences, géographie, humanités numériques, sociologie visuelle, sciences de l’information et de la communication, informatique, etc.
 
