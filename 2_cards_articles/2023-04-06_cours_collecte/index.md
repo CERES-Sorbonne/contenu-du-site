@@ -229,12 +229,12 @@ Présentation rapide de ce qu’il est possible de scrapper
 | Contenus | Outils possibles |
 |-|-|
 | Youtube | Octoparse |
-| Tiktok | Outil Yannick |
-| Facebook | Collecte à la main  |
+| Tiktok | Un outil spécialisé développé par Yannick, un ancien stagiaire à CERES. Nous demander si besoin. |
+| Facebook | Collecte à la main |
 | Instagram | Octoparse |
-| Twitter | Script Félix par l’API / Octoparse   |
+| Twitter | Octoparse ou infrastructure de collecte entretenue par CERES. |
 | Presse | Europresse |
-| Autres sites internet | Octoparse (à voir au détail) |
+| Autres sites internet | Octoparse (parfois) |
 | Bases de données en ligne | Data.gouv |
 | Wikipedia | Octoparse |
 

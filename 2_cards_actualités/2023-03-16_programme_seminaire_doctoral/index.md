@@ -1,5 +1,6 @@
 ---
 title: "Programme du séminaire doctoral du CERES"
+author: ceres
 tags:
     - séminaire doctoral
 ---

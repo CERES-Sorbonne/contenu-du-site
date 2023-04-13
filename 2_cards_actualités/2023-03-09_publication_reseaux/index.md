@@ -1,5 +1,6 @@
 ---
 title: "Parution : La modération abusive sur Twitter. Étude de cas sur l’invisibilisation des contenus LGBT et TDS en ligne"
+author: ceres
 tags:
     - réseaux sociaux
     - modération
