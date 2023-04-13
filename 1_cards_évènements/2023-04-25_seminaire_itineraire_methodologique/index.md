@@ -1,6 +1,7 @@
 ---
 title: "Deuxième séance du séminaire doctoral : Itinéraire méthodologique et écritures calculées"
 author: ceres
+event: true
 tags:
     - séminaire doctoral
     - instagram
