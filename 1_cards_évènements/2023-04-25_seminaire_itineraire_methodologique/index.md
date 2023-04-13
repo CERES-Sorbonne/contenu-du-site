@@ -9,7 +9,7 @@ tags:
     - visualisation
 ---
 
-![Screenshot Victor](screenshot_victor.jpeg)
+![](screenshot_victor.jpeg)
 
 ## Informations
 
