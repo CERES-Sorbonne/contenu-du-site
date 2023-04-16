@@ -68,7 +68,7 @@ Quelques ressources pour trouver des visualisations adaptées à ses besoins, d�
 
 ## Gephi
 
-[](https://gephi.org/) est un logiciel pour représenter des réseaux. Les réseaux, c’est des points (qu’on appelle des noeuds) reliés par des liens, ce qui est très utile pour tous les jeux de données qui comprennent des relations entre des objets. Par exemple :
+[Gephi](https://gephi.org/) est un logiciel pour représenter des réseaux. Les réseaux, c’est des points (qu’on appelle des noeuds) reliés par des liens, ce qui est très utile pour tous les jeux de données qui comprennent des relations entre des objets. Par exemple :
 
 - les SMS envoyés entre des téléphones
 - les relations sociales dans une classe
