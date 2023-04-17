@@ -166,7 +166,7 @@ Le projet ANR Tractive[^9], qui a démarré en mars 2022, vise à caractériser 
 
 ### ANR Ecole
 
-Ce projet ANR[^10], déposé au printemps 2022 et qui démarre officiellement en avril 2023, s'intéresse à l'analyse des pratiques de lecture entre le Moyen-Âge central (13^ème^ siècle) et la fin de l'Ancien régime (18ème siècle). CERES apporte ici ses compétences en termes de reconnaissance de caractères et d'analyse de structure de documents. L'appui de CERES permettra notamment d'aider à l'encadrement et à l'émulation au sein de l'équipe, d'informaticiens recrutés, ingénieurs et post-doctorants, et idéalement d'assurer une maintenance au-delà de l'échéance du projet.
+Ce projet ANR[^10], déposé au printemps 2022 et qui démarre officiellement en avril 2023, s'intéresse à l'analyse des pratiques de lecture entre le Moyen-Âge central (13ème siècle) et la fin de l'Ancien régime (18ème siècle). CERES apporte ici ses compétences en termes de reconnaissance de caractères et d'analyse de structure de documents. L'appui de CERES permettra notamment d'aider à l'encadrement et à l'émulation au sein de l'équipe, d'informaticiens recrutés, ingénieurs et post-doctorants, et idéalement d'assurer une maintenance au-delà de l'échéance du projet.
 
 ### Thèse CIFRE Wizy Vision
 
