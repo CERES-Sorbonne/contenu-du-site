@@ -1,22 +1,12 @@
 ---
-
 title: "CERES Centre de Recherche Exprès pour Sardou"
-
 author: ceres
-
 event: true
-
 tags:
-
 - test
-
 - atelier
-
 - sardou
-
 ---
-
-
 # Description de notre sujet d'ontologie
 
 Ce projet de groupe porte sur les langues de la famille de langues indo-européennes, ces dernières couvrent principalement le continent européen, elles s’étendent cependant aux autres continents. L’ontologie décrira ainsi les familles de langues et langues issues de la famille de langues indo-européennes, décrivant ainsi les langues romanes, les langues slaves, les langues germaniques et les langues celtiques. Chacune de ces familles de langues comporte plusieurs langues et des spécificités qui peuvent permettre de les apparenter aux langues de leur famille, mais également de les différencier, par exemple, le ou les alphabets officiels peuvent permettre d’établir des relations entre les langues, comme le fait de posséder deux alphabets officiels (latin et cyrillique) pour le BCMS, une langue slave.
