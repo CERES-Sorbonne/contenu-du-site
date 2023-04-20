@@ -1,5 +1,5 @@
 ---
-title: 'La mobilisation de l’expertise dans la presse française pour cadrer le phénomène des théories du complot : analyse des mécanismes légitimes de (dis)qualification.'
+title: 'La mobilisation de l’expertise dans la presse française pour cadrer le phénomène des théories du complot : analyse des mécanismes de (dis)qualification.'
 tags:
     - presse
     - expertise
