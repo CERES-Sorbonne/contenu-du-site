@@ -41,11 +41,12 @@ En effet tous les sites sont des documents respectant une structure hiérarchiqu
 
 Cette structure peut être visualisée facilement depuis n’importe quel navigateur (souvent en faisant clic droit, puis inspecter). On obtient alors quelque chose comme ceci:
 
-![Untitled](Untitled%201.png)
+![Untitled](Untitled1.png)
 
 On observe sur la droite le code HTML de la page, c’est à dire la structure contenant les informations affichées à l’écran. Voici une façon classique de représenter des éléments d’un site:
 
-```html
+```
+
 <html>
 	<body>
 		<h1>Ceci est gros titre</h1>
@@ -54,6 +55,7 @@ On observe sur la droite le code HTML de la page, c’est à dire la structure c
 			<ul>Ceci est un élément de liste</ul>
 			<ul>Et ceci un autre</ul>
 		...
+        
 ```
 
  Quand toutes les informations sont structurées de la même façon c’est, comme nous allons le voir assez facile à automatiser  mais quand des éléments ********a priori******** identiques ont des balises différentes, cela devient dur (twitter par exemple). 
@@ -76,21 +78,21 @@ Lorsqu’on clique sur continuer, Octoparse va tenter de détecter tout seul les
 
 On peut alors se considérer comme satisfaits et cliquer sur “Create Workflow” en haut à droite:
 
-![Untitled](Untitled%202.png)
+![Untitled](Untitled2.png)
 
 S’affiche alors le workflow de notre processus d’extraction:
 
-![Untitled](Untitled%203.png)
+![Untitled](Untitled3.png)
 
 ### Qu’est ce qu’un workflow?
 
 Un workflow est un processus visuel pour représenter un algorithme, pas de panique, un algorithme reste quelque chose de très basique et qui peut s’appliquer à des situations de tous les jours. Mettons par exemple que je veuille préparer plein de toasts pour le petit déjeuner, mon algorithme pourrait être le suivant:
 
-![Untitled](Untitled%204.png)
+![small](Untitled4.png)
 
 Ici dans le cas qui nous intéresse, notre workflow peut être représenté de la façon suivante:
 
-![Untitled](Untitled%205.png)
+![small](Untitled5.png)
 
 Et en détail voici le fonctionnement:
 
@@ -100,13 +102,13 @@ Et en détail voici le fonctionnement:
         
         Si l’on clique sur le bloc Loop Item, on peut voir différentes choses : 
         
-        ![Untitled](Untitled%206.png)
+        ![Untitled](Untitled6.png)
         
         - Le “Loop Mode” est mis à “Variable List”, ce qui veut dire qu’Octoparse va effectuer une action pour chaque élément d’une liste, cette liste correspond ici à la liste des lignes du tableau
         - Octoparse identifie ces lignes grâce à leur “XPath”, c’est à dire le chemin dans l’arbre HTML qui permet d’aller d’élément en élément pour en atteindre un en particulier. Je conseille fortement la lecture de [cet article](https://intercom.help/octoparse/fr/articles/6471011-qu-est-ce-que-xpath-et-comment-l-utiliser-dans-octoparse) pour aller plus loin sur le sujet mais nous allons nous même le voir un peu plus en détail plus loin.
         1. Enfin dans le bloc Loop Item pour chacune des lignes on extrait chaque champ, là encore Octoparse les a tous détectés pour nous. On peut toutefois cliquer sur le logo de menu à côté de chaque champ, pour décider si l’on souhaite le garder ou non.
             
-            ![Untitled](Untitled%207.png)
+            ![Untitled](Untitled7.png)
             
     2. Enfin une fois le bloc Loop Item exécuté on lui fait cliquer sur l’élément “Suivant” pour changer de page.
 
@@ -118,7 +120,7 @@ Cette façon de fonctionner va se retrouver sur un très grand nombre de sites. 
 
 Nous prendrons pour exemple le site internet suivant: [https://ceres.huma-num.fr/octoparse/demo.html](https://ceres.huma-num.fr/octoparse/demo.html)
 
-![Untitled](Untitled%208.png)
+![small](Untitled8.png)
 
 Visuellement, la structure est assez clair, le site est composés de blocs, possédant eux mêmes la même structure à chaque fois.
 
@@ -145,11 +147,11 @@ Ce qui peut être fait très facilement dans Octoparse, on peut créer une nouve
 
 On ouvre ensuite notre workflow et on créé un nouvel élément Loop en sélectionnant le Loop Mode “Variable List” qui signifie que l’on va boucler sur une liste d’éléments.
 
-![Untitled](Untitled%209.png)
+![Untitled](Untitled9.png)
 
 Il faut ensuite préciser sur quels éléments on veut boucler, on clique alors sur le logo suivant pour sélectionner le type d’élément, puis on vient cliquer sur le premier bloc bleu.
 
-![Untitled](Untitled%2010.png)
+![Untitled](Untitled10.png)
 
 On obtient alors le résultat suivant:
 
@@ -161,21 +163,21 @@ On voit que dans Loop items seul un élément est présent, ceci est confirmé p
 
   
 
-![Untitled](Untitled%2011.png)
+![Untitled](Untitled11.png)
 
 Il ne reste alors plus qu’à ajouter un bloc “Extract Data” dans le bloc “Loop Item”:
 
-![Untitled](Untitled%2012.png)
+![Untitled](Untitled12.png)
 
 Lorsque vous cliquez sur Extract Data vous passez alors en mode extraction, et tous les éléments sur lesquels vous cliquez vont alors être pouvoir être considérés comme des champs à extraire. 
 
 Par exemple si vous cliquez sur “Un prénom à récupérer”, la bulle d’aide à droite vous propose différentes options, cliquez alors sur “Extract text of the selected element”:
 
-![Untitled](Untitled%2013.png)
+![Untitled](Untitled13.png)
 
 En bas vont alors apparaître d’un coup tous les prénoms à récupérer pour chaque bloc bleu:
 
-![Untitled](Untitled%2014.png)
+![Untitled](Untitled14.png)
 
 Vous pouvez alors procéder exactement de même pour les noms! 
 
@@ -194,15 +196,15 @@ Il faut donc d’abord isoler les URLs dans un fichier, (n’importe quel tableu
 
 Vous pouvez à présent créer une nouvelle tâche, sauf qu’à la place d’entrer une URL directement, vous allez choisir l’option “Import from file” et sélectionner le fichier ci-dessus. Ce qui devrait donner:
 
-![Untitled](Untitled%2015.png)
+![Untitled](Untitled15.png)
 
 Cette fois on va écrire le workflow nous même, on clique donc sur “Cancel Auto-detection”, un workflow de base s’affiche:
 
-![Untitled](Untitled%2016.png)
+![Untitled](Untitled16.png)
 
 Nous somme ici dans une boucle générale qui va boucler sur la liste d’URLs, première étape: aller sur la page, ensuite ici pas besoin de boucler sur des éléments, nous allons simplement sélectionner pour chaque page les informations qui nous intéressent, on ajoute donc un champ Extract Data après Go to Webpage:
 
-![Untitled](Untitled%2017.png)
+![Untitled](Untitled17.png)
 
 Puis on vient cliquer sur les champs qui nous intéressent sur la page, je vais choisir personnellement la circonscription, l’url de la page wikipedia, ainsi que le groupe parlementaire. 
 
@@ -210,10 +212,10 @@ Pour cela je vais cliquer sur les valeurs qui m’intéresse, et sélectionner �
 
 Cela devrait me donner ceci dans le Data Preview:
 
-![Untitled](Untitled%2018.png)
+![Untitled](Untitled18.png)
 
 Il manque une dernière information assez importante à ajouter, c’est l’url de la page en cours. Cela permet de savoir de quelle page viennent les données que nous collectons, et cela permettra de faire un lien avec notre premier jeu de données de l’exercice 1. On va pour cela ajouter nous même le champ:
 
-![Untitled](Untitled%2019.png)
+![Untitled](Untitled19.png)
 
 Et voilà, maintenant il ne reste plus qu’à lancer.
