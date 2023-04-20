@@ -272,7 +272,7 @@ Au vu du développement de l'activité de CERES et des résultats que nous avons
 | 17/03/2022 | ARCGIS (cartes interactives) | V. Moriniaux (Laboratoire Médiations) |
 | 17/01/2022 | GEPHI (graphes) | F. Alié (CERES) |
 | 06/10/2022 | Notion (gestion de données liées) | V. Ecrement (CERES) |
-| 10/11/2022 | Antconq et TXM (Textométrie) | G. Lejeune (STIH/CERES) |
+| 10/11/2022 | Antconc et TXM (Textométrie) | G. Lejeune (STIH/CERES) |
 | 08/12/2022 | Excel (Tableaux Croisés Dynamiques) | E. Bouté (CERES) |
 | 09/02/2023 | Voyant Tools (Analyse de corpus textuels) | J. Bezançon zt F. Sow (STIH/CERES) |
 | 02/03/2023 | GEPHI (graphes) | F. Alié (CERES) |

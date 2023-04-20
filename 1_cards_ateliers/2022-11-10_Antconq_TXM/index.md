@@ -2,7 +2,7 @@
 title: Atelier Antconc/TXM
 author: ceres
 tags:
-    - antconq
+    - antconc
     - txm
     - textométrie
 event: true
