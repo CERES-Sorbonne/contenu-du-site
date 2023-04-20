@@ -1,6 +1,5 @@
 ---
 title: Michel Sardou
-author: titi
 tags:
 - méthodes
 - essai
