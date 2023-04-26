@@ -98,7 +98,7 @@ Tableau Public propose plusieurs options pour la taille de la visualisation. Par
 
 Version Web             |  Version Desktop
 :-------------------------:|:-------------------------:
-![version Web](versionweb.png)  |  ![version Desktop](versiondesktop.png)
+![version Web](vueweb.png)  |  ![version Desktop](vuedesktop.png)
 
 Une fois que la visualisation est ainsi projetée, on s’aperçoit qu’il y a un énorme pic de créations d’entreprises en 1900. C’est probablement parce qu’à la création de la base de données, les entreprises qui avaient été créées au 18ème siècle ont été comptées comme ayant été créées en 1900. Ce choix d’inscription des informations par l’institution dans la base de données peut être considéré comme un défaut, qui produit un bruit à corriger. Pour faire disparaître ce bruit, il suffit de créer un filtre pour masquer les données associées à l’année 1900, ainsi que les valeurs “null” (qui indiquent une case vide, c’est-à-dire une année de création non indiquée).
 
@@ -166,7 +166,7 @@ Une fois que cet histogramme avec courbes cumulatives est créé, on peut souhai
     
 - **Etape 3** : restreindre ce qui est affiché sur l’histogramme à un seul type d’entreprises.
     
-    → Vous pouvez réaliser un **************filtre************** (pour sélectionner une seule ou une partie des types d’entreprises crées) en faisant un clic droit sur l’un des éléments de cette légende, et en choisissant “exclure” ou “conserver uniquement” dans la fenêtre contextuelle qui apparaît. En fonction de votre choix, l’affichage de l’histogramme évolue. 
+    → Vous pouvez réaliser un *filtre* (pour sélectionner une seule ou une partie des types d’entreprises crées) en faisant un clic droit sur l’un des éléments de cette légende, et en choisissant “exclure” ou “conserver uniquement” dans la fenêtre contextuelle qui apparaît. En fonction de votre choix, l’affichage de l’histogramme évolue. 
     
     → Lorsque vous avez réalisé cette action, automatiquement, le filtre que vous avez créé s’ajoute dans le champ “filtre” au milieu de la page. En cliquant droit sur ce champ filtre qui est apparu, et en sélectionnant “afficher le filtre”, un nouveau champ “filtre” apparaît à la droite de l’écran. Les éléments de ce champ sont cliquables : vous pouvez faire apparaître ou disparaître des éléments du graphiques en sélectionnant ou désélectionnant les valeurs du champ “Categorie Entreprise”. En ne sélectionnant que “PME”, seules les PME s’affichent à l’écran.
     
