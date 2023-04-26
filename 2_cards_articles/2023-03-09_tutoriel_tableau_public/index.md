@@ -34,9 +34,7 @@ Commençons par une brève description des différents espaces de Tableau Public
 
 ### Le jeu de données pour le tutoriel
 
-[Lien de téléchargement](https://file.notion.so/f/s/5ac5d2c7-46a2-41ca-b465-d672b529ebc5/StockUniteLegale_-_premier_million.csv?id=15526e0e-69b1-4c7b-bdf0-3b55d4f84a82&table=block&spaceId=cd92cd11-9866-4b28-b3f8-5e70af4fa68a&expirationTimestamp=1682592343509&signature=6yZL1P0UPcKZOaK_sDAqqXtZNXaiHmKjnZd79ckE-xg&downloadName=StockUniteLegale+-+premier+million.csv)
-
-### Le jeu de données
+[Lien de téléchargement du jeu de données pour le tutoriel](https://file.notion.so/f/s/5ac5d2c7-46a2-41ca-b465-d672b529ebc5/StockUniteLegale_-_premier_million.csv?id=15526e0e-69b1-4c7b-bdf0-3b55d4f84a82&table=block&spaceId=cd92cd11-9866-4b28-b3f8-5e70af4fa68a&expirationTimestamp=1682592343509&signature=6yZL1P0UPcKZOaK_sDAqqXtZNXaiHmKjnZd79ckE-xg&downloadName=StockUniteLegale+-+premier+million.csv)
 
 Le tutoriel que nous vous proposons repose sur la manipulation d’un jeu de données extrait de la [base SIRENE des entreprises françaises](https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/). Le fichier à télécharger est au format CSV, où chaque ligne représente une entreprise, créée entre 1900 et 2022, et où chaque colonne contient des données qui décrivent ces entreprises. 
 
