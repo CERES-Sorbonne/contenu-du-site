@@ -18,8 +18,6 @@ Tableau public nécessite donc un temps d’apprentissage plus long que la plupa
 
 Ce logiciel sera très utile aux chercheur et chercheuses en sciences humaines et sociales qui souhaitent visualiser et explorer des données complexes.
 
-L’atelier durera 2h. Il commencera par 1 heure de tutoriel pour apprendre les fonctions les plus intéressantes. Puis nous pourrons passer l’heure restante à explorer des jeux de données apportés par les participant·es, ou téléchargés depuis la plateforme data.gouv.
-
 ### Présentation des espaces du logiciel
 
 Commençons par une brève description des différents espaces de Tableau Public.
@@ -85,10 +83,10 @@ Commençons par réaliser un histogramme simple pour savoir combien d’entrepri
 
 - Pour créer un histogramme, il faut d’abord indiquer quelles sont les données que nous souhaitons projeter dans la visualisation. Les champs à partir desquels nous pouvons travailler sont indiqués dans la partie gauche de l’écran (l’espace A décrit en préambule de ce tutoriel) :
 
-![ongle données](ongletdonnees.png)
+![small](ongletdonnees.png)
 
 - Pour projeter ces champs dans l’espace Visualisation, il suffit de “glisser-déposer” le champ correspondant situé à gauche dans la liste “Données/Tables” dans la section “Colonnes” ou “Lignes” située en haut de la page : 
-    ![Espace Lignes et Colonnes](LignesColonnes.png)
+    ![small](LignesColonnes.png)
     - En “Colonnes”, on choisit le champ “Date Creation Unite Legale”.
     - En“Lignes”, on choisit un champ pré-calculé par Tableau Public qui se situe également dans la zone “Tables”, et qui s’intitule “donnees-atelier-tableau public.csv (Total)”. Ce champ pré-calculé correspond au nombre de données disponibles dans le CSV. Si, dans la colonne nommée “Date Creation Unite Legale”, la valeur “1970” apparaît 100 fois, alors ce champ pré-calculé contient cette valeur.
 
@@ -98,7 +96,7 @@ Tableau Public propose plusieurs options pour la taille de la visualisation. Par
 
 Version Web             |  Version Desktop
 :-------------------------:|:-------------------------:
-![version Web](vueweb.png)  |  ![version Desktop](vuedesktop.png)
+![small](vueweb.png)  |  ![small](vuedesktop.png)
 
 Une fois que la visualisation est ainsi projetée, on s’aperçoit qu’il y a un énorme pic de créations d’entreprises en 1900. C’est probablement parce qu’à la création de la base de données, les entreprises qui avaient été créées au 18ème siècle ont été comptées comme ayant été créées en 1900. Ce choix d’inscription des informations par l’institution dans la base de données peut être considéré comme un défaut, qui produit un bruit à corriger. Pour faire disparaître ce bruit, il suffit de créer un filtre pour masquer les données associées à l’année 1900, ainsi que les valeurs “null” (qui indiquent une case vide, c’est-à-dire une année de création non indiquée).
 
@@ -110,7 +108,7 @@ Tableau Public offre plusieurs options pour réaliser des filtres :
 
 Pour le moment, la visualisation projetée s’affiche en forme de courbe. Nous souhaitons plutôt afficher des histogrammes. Pour transformer la vue en courbe en une vue en histogramme en changeant l’affichage dans le menu suivant (on change “automatique” en “barre”) :
 
-![Espace Repères](reperes.png)
+![small](reperes.png)
 
 Dans Tableau Public, il est possible de changer la temporalité d’affichage en préférant, non pas un affichage par années, mais par mois, trimestre, etc., en cliquant sur le petit triangle à droite de “ANNEE” dans le champ “colonnes”, en haut de la page.
 
