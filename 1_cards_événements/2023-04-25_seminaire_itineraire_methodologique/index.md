@@ -4,9 +4,10 @@ author: ceres
 event: true
 tags:
     - séminaire doctoral
+    - images
     - instagram
-    - méthodes numériques
-    - visualisation
+    - ethnographie
+    - visual studio code
 ---
 
 ![](screenshot_victor.jpeg)
@@ -51,6 +52,5 @@ Le séminaire se déroulera en deux parties. D’abord nous écouterons pendant 
 
 ## Calendrier des prochaines séances
 
-- 25/04/2023 : Aurélie Sansen (doctorante Gripic) et Victor Ecrement (ingénieur de recherche CERES)
 - 30/05/2023 : Marie-Lise Buisson (doctorante Gripic) et Ri Pierce-Grove (doctorante Columbia)
 - 13/062023 : Ivanne Hermant (doctorante Sorbonne)
