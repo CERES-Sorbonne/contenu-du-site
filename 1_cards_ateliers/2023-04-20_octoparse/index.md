@@ -1,13 +1,13 @@
 ---
 title: 'Atelier Octoparse : Tutoriel Complet'
 author: felix
-abstract: "Découvrir l’outil Octoparse, permettant d’effectuer du scrapping, c’est à dire de récupérer les données provenant de sites internet de façon automatisée."
+abstract: "Découvrir l’outil Octoparse, permettant d’effectuer du scraping, c’est à dire de récupérer les données provenant de sites internet de façon automatisée."
 tags:
-    - scrapping
-    - outil
-    - données
+    - scraping
+    - données web
 ---
-![](01octoparse.jpg)
+
+![big](01octoparse.jpg)
 
 ## Prérequis
 
