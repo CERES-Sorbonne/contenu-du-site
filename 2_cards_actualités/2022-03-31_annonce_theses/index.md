@@ -2,6 +2,8 @@
 title: 'Projets retenus pour le programme doctoral méthodes numériques'
 author: ceres
 abstract: 'Dans le cadre du programme doctoral Méthodes numériques pour les thèses en LSHS, proposé par CERES, 6 projets ont été retenus au terme de la première phase de sélection.'
+tags:
+    - programme doctoral
 ---
 
 Si vous souhaitez candidater, votre dossier est à envoyer aux porteur·se·s de projet avant le 2 mai
