@@ -8,7 +8,7 @@ tags:
     - réseaux sociaux numériques
 ---
 
-Le CERES a financé en 2021-2022 une étude au sujet du cadre juridique applicable à l'usage de données issues de réseaux socio-numériques à des fins de recherche scientifique, ainsi que l'organisation de deux ateliers (à retrouver [ici](1_cards_ateliers\2021-11-19_pgd_rgpd_donnees_personnelles\index.md) et [ici](2_cards_articles\2022-03-15_pgd_rgpd_reponses_aux_questions\index.md)).
+Le CERES a financé en 2021-2022 une étude au sujet du cadre juridique applicable à l'usage de données issues de réseaux socio-numériques à des fins de recherche scientifique, ainsi que l'organisation de deux ateliers (à retrouver [ici](../1_cards_ateliers/2021-11-19_pgd_rgpd_donnees_personnelles/index.md) et [ici](../2_cards_articles/2022-03-15_pgd_rgpd_reponses_aux_questions/index.md)).
 
 [Julien Rossi](https://www.julienrossi.com/), maître de conférence depuis septembre 2022 à Paris 8, l'UFR Culture et communication et au Centre d'études sur les médias, les technologies et l'internationalisation (CÉMTI) de l'Université Paris 8, a réalisé cette étude qui a abouti à la réalisation d'un rapport, à retrouver au [lien suivant](rapport_recherche-SHS-contraines_V6.pdf).
 

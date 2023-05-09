@@ -12,7 +12,7 @@ author: ceres
 
 **Direction de la thèse :** co-dirigée par Iyas Hassan (SU) et Julien Dufour (ENS Ulm)
 
-**CV :** voir [ici](../longcards_membres/karam_rimane)
+**CV :** voir [ici](../3_longcards_membres/karam_rimane)
 
 **Résumé de la thèse :** 
 
