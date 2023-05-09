@@ -357,7 +357,7 @@ Karam
 
 *Programme de la journée 2022*
 
-![big](programme-images-2.png)
+**programme à venir**
 
 *Programme de la journée 2023*
 
