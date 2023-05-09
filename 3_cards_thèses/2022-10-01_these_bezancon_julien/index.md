@@ -9,6 +9,8 @@ tags:
     - informatique
 ---
 
+![](letters.png)
+
 **Candidat·e :** Julien Bezançon
 
 **Direction de la thèse :** Gaël Lejeune, Gilles Siouffi, Antoine Gautier

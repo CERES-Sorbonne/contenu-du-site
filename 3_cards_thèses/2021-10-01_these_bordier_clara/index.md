@@ -8,6 +8,8 @@ tags:
     - opinion publique
 ---
 
+![](media.png)
+
 **Candidat·e :** Clara Bordier
 
 **Direction de la thèse :** Pascal Froissart
