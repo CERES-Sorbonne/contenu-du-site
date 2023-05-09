@@ -16,12 +16,10 @@ abstract: Ingénieur de Recherche SHS - docteur en Sciences de l'information et 
 
 ## Publications récentes
 
+[CV HAL](https://cv.hal.science/edouard-boute)
+
 ### Thèse
 2022\. "Police Pixel. Le maintien de l'ordre à l'épreuve des images et des réseaux sociaux numériques pendant le mouvement des Gilets jaunes.", thèse en sciences de l'information et de la communication, Université de Technologie de Compiègne.
-
-### Direction d’ouvrages et de numéros de revue
-
-2021\. Avec J.-E. Bigot, C. Collomb et C. Mabi, «[Plateformiser, un impératif ?](https://doi.org/10.4000/questionsdecommunication.26522)", *Questions de communication*, n° 40.
 
 ### Articles dans des revues scientifiques à comité de lecture
 
@@ -35,8 +33,10 @@ abstract: Ingénieur de Recherche SHS - docteur en Sciences de l'information et 
 
 ### Revues d'idées, médias
 
-2022\. avec P. Auriel et N. Gaudemet, "[Démocratie & Numérique : meilleurs amis ? Meilleurs ennemis ?](https://www.radiocampusparis.org/numerx-democratie-numerique-meilleurs-amis-meilleurs-ennemis/)", Numerx, *Radio Campus Paris*, 3 janvier 2022.
+2023\. avec F. Saltiel, A. Bastelica et R. Buisine, "[Manifestation 2.0 : la lutte sociale en réseaux](https://www.radiofrance.fr/franceculture/podcasts/le-meilleur-des-mondes/manifestation-0-la-lutte-sociale-en-reseaux-6152515)", Le Meilleur des mondes, *France Culture*, 3 mars 2023.
 
 2022\. "[Twitter et la visibilité des #violencespolicières](https://www.youtube.com/watch?v=3hhUsQVNCg8)", Entretien avec David Dufresne, Au Poste, *Twitch*, 12 janvier 2022.
+
+2022\. avec P. Auriel et N. Gaudemet, "[Démocratie & Numérique : meilleurs amis ? Meilleurs ennemis ?](https://www.radiocampusparis.org/numerx-democratie-numerique-meilleurs-amis-meilleurs-ennemis/)", Numerx, *Radio Campus Paris*, 3 janvier 2022.
 
 2021\. "[L’avenir de la politique se joue-t-il sur une plateforme de jeux vidéo ?](https://doi.org/10.3917/anv.199.0014)", Alternatives non-violentes, n°199, pp. 14-15.

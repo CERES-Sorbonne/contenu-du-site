@@ -1,6 +1,11 @@
 ---
 title: Grammaire du moyen arabe levantin, XVIII-XXe siècles. Analyse de grands corpus en littérature populaire arabe et développement des outils de textométrie adaptés.
-tags: moyen arabe / littérature populaire arabe / textométrie / grammaire / Baybars
+tags: 
+    - moyen arabe
+    - littérature populaire arabe 
+    - textométrie 
+    - grammaire
+    - Baybars
 author: ceres
 ---
 **Candidat·e :** Rimane Karam
