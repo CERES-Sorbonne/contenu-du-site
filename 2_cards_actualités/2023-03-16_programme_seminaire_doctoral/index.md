@@ -5,7 +5,7 @@ tags:
     - séminaire doctoral
 ---
 
-![](seminaire.png)
+![](seminaire.jpg)
 
 Le séminaire doctoral du CERES a pour objectif de faire se rencontrer des doctorants.es de différentes disciplines en sciences humaines et sociales de la Faculté des Lettres. Durant les 5 séances, nous aurons le plaisir d’écouter plusieurs positionnements face à une pluralité de méthodes, parfois difficiles à prendre en main.
 

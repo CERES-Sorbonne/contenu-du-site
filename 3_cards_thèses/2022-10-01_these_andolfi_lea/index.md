@@ -8,7 +8,7 @@ tags:
     - male gaze
 ---
 
-![](camera.png)
+![](camera.jpg)
 
 **Candidat·e :** Léa Andolfi
 

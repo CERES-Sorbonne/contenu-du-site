@@ -8,7 +8,7 @@ tags:
     - opinion publique
 ---
 
-![](media.png)
+![](media.jpg)
 
 **Candidat·e :** Clara Bordier
 

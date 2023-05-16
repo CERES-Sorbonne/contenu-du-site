@@ -9,7 +9,7 @@ tags:
 author: ceres
 ---
 
-![](book.png)
+![](book.jpg)
 
 **Candidat·e :** Rimane Karam
 

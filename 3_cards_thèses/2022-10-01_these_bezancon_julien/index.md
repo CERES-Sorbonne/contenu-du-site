@@ -9,7 +9,7 @@ tags:
     - informatique
 ---
 
-![](letters.png)
+![](letters.jpg)
 
 **Candidat·e :** Julien Bezançon
 
