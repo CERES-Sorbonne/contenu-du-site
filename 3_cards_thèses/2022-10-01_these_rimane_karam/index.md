@@ -8,6 +8,9 @@ tags:
     - Baybars
 author: ceres
 ---
+
+![](book.png)
+
 **Candidat·e :** Rimane Karam
 
 **Direction de la thèse :** co-dirigée par Iyas Hassan (SU) et Julien Dufour (ENS Ulm)

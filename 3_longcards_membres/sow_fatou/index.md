@@ -3,7 +3,6 @@ title: Fatou Sow
 abstract: Ingénieure d'études au CERES Et Masterante en Langue et Informatique à Sorbonne Université
 ---
 # Fatou Sow #
-![Fatou Sow](nom_prenom.png)
 
 **Poste au CERES** : Ingénieure d'études
 

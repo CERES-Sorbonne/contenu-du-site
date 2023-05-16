@@ -3,8 +3,6 @@ title: Rimane Karam
 abstract: Doctorante
 ---
 
-![](hernandez_marceau.jpg)
-
 **Poste au CERES** : Doctorante
 
 **Titre et discipline** : Doctorante
