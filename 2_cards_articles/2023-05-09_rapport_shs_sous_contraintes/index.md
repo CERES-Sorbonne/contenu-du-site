@@ -10,7 +10,7 @@ tags:
 
 ![](contraintes_shs.png)
 
-Le CERES a financé en 2021-2022 une étude au sujet du cadre juridique applicable à l'usage de données issues de réseaux socio-numériques à des fins de recherche scientifique, ainsi que l'organisation de deux ateliers (à retrouver [ici](../../ateliers/2021-11-19_pgd_rgpd_donnees_personnelles/) et [ici](../../2022-03-15_pgd_rgpd_reponses_aux_questions/)).
+Le CERES a financé en 2021-2022 une étude au sujet du cadre juridique applicable à l'usage de données issues de réseaux socio-numériques à des fins de recherche scientifique, ainsi que l'organisation de deux ateliers (à retrouver [ici](../../ateliers/2021-11-19_pgd_rgpd_donnees_personnelles/) et [ici](../../articles/2022-03-15_pgd_rgpd_reponses_aux_questions/)). Un podcast sur le sujet a également été réalisé (à retrouver [ici](../../podcasts/2022-04-09_rgpd_shs/)).
 
 [Julien Rossi](https://www.julienrossi.com/), maître de conférence depuis septembre 2022 à Paris 8, l'UFR Culture et communication et au Centre d'études sur les médias, les technologies et l'internationalisation (CÉMTI) de l'Université Paris 8, a réalisé cette étude qui a abouti à la réalisation d'un rapport, à retrouver au [lien suivant](rapport_V6.pdf).
 
