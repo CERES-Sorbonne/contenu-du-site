@@ -6,7 +6,6 @@ abstract: 'Le CERES organise une journée d’études intitulée "Travailler ave
 tags:
     - journée d'études
     - images
-    - méthodes numériques
 ---
 
 ![big](panoptic.png)
