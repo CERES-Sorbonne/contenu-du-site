@@ -33,7 +33,7 @@ abstract: Ingénieur de Recherche SHS - docteur en Sciences de l'information et 
 
 ### Revues d'idées, médias
 
-2023\. avec F. Saltiel, A. Bastelica et R. Buisine, "[Manifestation 2.0 : la lutte sociale en réseaux](https://www.radiofrance.fr/franceculture/podcasts/le-meilleur-des-mondes/manifestation-0-la-lutte-sociale-en-reseaux-6152515)", Le Meilleur des mondes, *France Culture*, 3 mars 2023.
+2023\. avec F. Saltiel, A. Bastelica et R. Buisine, "[Manifestation 2.0 : la lutte sociale en réseaux](https://www.radiofrance.fr/franceculture/podcasts/le-meilleur-des-mondes/manifestation-0-la-lutte-sociale-en-reseaux-6152515)", Le Meilleur des mondes, *France Culture*, 3 mars 2023.
 
 2022\. "[Twitter et la visibilité des #violencespolicières](https://www.youtube.com/watch?v=3hhUsQVNCg8)", Entretien avec David Dufresne, Au Poste, *Twitch*, 12 janvier 2022.
 

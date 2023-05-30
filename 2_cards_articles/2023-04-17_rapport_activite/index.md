@@ -16,19 +16,19 @@ Vous pouvez également [télécharger la version mise en page](./Rapport-CERES-2
 
 Le CERES (Centre d’Expérimentation en méthodes numériques pour les Recherches en SHS) est une unité mutualisée de service (UMS) rattachée à la Faculté des Lettres de Sorbonne Université. Son objet est d’accompagner et de susciter l’exploitation de méthodes numériques dans les recherches en SHS.
 
-Le CERES se donne deux objectifs :
+Le CERES se donne deux objectifs :
 
 1. Proposer des solutions numériques, quand elles existent, aux problèmes rencontrés par les collègues dans la constitution, l’exploration, l’analyse et l’annotation de corpus, ainsi que dans la collecte, le traitement et la visualisation de données numériques ;
 2. Formaliser et partager des méthodes, en favorisant l’émergence d’une réflexion sur le statut de l’outil informatique dans les recherches en SHS.
 
-Pour atteindre ces objectifs, le CERES conduit quatre types d’action :
+Pour atteindre ces objectifs, le CERES conduit quatre types d’action :
 
 1. Une enquête sur les pratiques numériques de notre communauté permettant d’identifier les recherches recourant ou souhaitant recourir aux méthodes numériques ;
 2. Des appuis aux besoins numériques identifiés, grâce à des ateliers de formation présentant des exemples d’usages d’outils numériques, des journées dédiées à la collecte et à l’analyse de certain type de données, des accompagnements personnalisés, et des développements stratégiques de méthodologies numériques et d’outils informatiques susceptibles de répondre à des questions transversales aux recherches en SHS ;
 3. Une mise en valeur et une diffusion des compétences numériques existantes à la Faculté des Lettres, à travers des podcasts diffusés sur le site web de CERES et des journées d’étude ;
 4. Un rôle de conseil, voire de partenaire, sur l’intégration de volets numériques dans des réponses à des appels à projets (Emergences SU et Ville de Paris, ANR, ERC).
 
-Pour mener à bien ses missions, CERES est composé d’une équipe interdisciplinaire d’enseignant·e·s et de chercheur·se·s ainsi que d’ingénieur·e·s (profils : informatique, SHS, design).
+Pour mener à bien ses missions, CERES est composé d’une équipe interdisciplinaire d’enseignant·e·s et de chercheur·se·s ainsi que d’ingénieur·e·s (profils : informatique, SHS, design).
 
 ## CERES dans l'écosystème SU
 
@@ -234,11 +234,11 @@ Au vu du développement de l'activité de CERES et des résultats que nous avons
 
 | Chercheur·euse | Laboratoire | Discipline | Accompagnement réalisé ou en cours de réalisation |
 |-|-|-|-|
-| "Écrit Soi" : J.-L. Jeannelle, F. Simonet-Tenant, J.-C. Igalens | CELLF | Littérature | Réalisation d'une taxinomie multilingue des noms de genre dans le domaine des écrits de soi, développement d'outils informatiques permettant d'exposer et de traiter les informations réunies |
-| "Antonomaz" : K. Abiven, G. Lejeune et J.-B. Tanguy | CELLF, OBTIC, STIH | Linguistique, Littérature, Informatique | Mise en valeur d'une chaîne de traitement permettant l'océrisation d'imprimés du 17ème siècle |
+| "Écrit Soi" : J.-L. Jeannelle, F. Simonet-Tenant, J.-C. Igalens | CELLF | Littérature | Réalisation d'une taxinomie multilingue des noms de genre dans le domaine des écrits de soi, développement d'outils informatiques permettant d'exposer et de traiter les informations réunies |
+| "Antonomaz" : K. Abiven, G. Lejeune et J.-B. Tanguy | CELLF, OBTIC, STIH | Linguistique, Littérature, Informatique | Mise en valeur d'une chaîne de traitement permettant l'océrisation d'imprimés du 17ème siècle |
 | M.-C. Souleyreau | Centre Roland Mousnier | Histoire | Outil de publication pour des corpus de transcriptions de manuscrits anciens |
 | A. Marine-Gougeon | CRHXIX | Histoire | Accompagnement sur Excel/GEPHI pour la réalisation d'une étude basée sur des alliances matrimoniales. |
-| "Vie Littéraire" : L.-A. Laget | CRIMIC | Littérature | Visualisation multidimension d'un réseau de correspondance entre écrivains |
+| "Vie Littéraire" : L.-A. Laget | CRIMIC | Littérature | Visualisation multidimension d'un réseau de correspondance entre écrivains |
 | R. Debailly | GEMASS | Sociologie | Collecte de tweets dans le cadre du projet droit à l'oubli sur le cancer |
 | R. Debailly, H. Jeaningros | GEMASS | Sociologie | Extraction de données Twitter sur le droit à l'oubli pour les malades du cancer |
 | M. Chen (thèse) | GEMASS | Sociologie | Collectes de données depuis TripAdvisor |
@@ -252,7 +252,7 @@ Au vu du développement de l'activité de CERES et des résultats que nous avons
 | A. Aymerie (Thèse) | Muséum | Biologie | Fouille de textes et classification sur le thème des "fossiles vivants" |
 | R. Karam (Thèse) | Orient et Méditerranée | Histoire | Aide à la structuration de corpus pour l'analyse textométrique |
 | K. Moreau (Thèse) | Orient et Méditerranée | Histoire | Accompagnement à l'utilisation d'outils numériques pour l'étude d'un corpus de textes sémitiques anciens |
-| "Scholib" : C. Richard | Rome et ses Renaissances | Linguistique | Mise en place d'un outil de requêtage en ligne pour explorer un corpus textuel de scholies |
+| "Scholib" : C. Richard | Rome et ses Renaissances | Linguistique | Mise en place d'un outil de requêtage en ligne pour explorer un corpus textuel de scholies |
 | G. Couffignal | STIH | Linguistique | aide pour la conversion docx vers xtml, automatisation de la conversion, analyse des besoins pour TXM et DocLing |
 | S. Jouet (Thèse) | STIH | Linguistique | Création de corpus pour l'analyse linguistique |
 | P. Monneret | STIH | Linguistique | Collecte et exploitation d'un corpus des œuvres de Gustave Guillaume |
@@ -282,19 +282,19 @@ Au vu du développement de l'activité de CERES et des résultats que nous avons
 
 ### Séminaires doctoraux
 
-**Organisation 2022 :** Clara Bordier, Marine Buffard et Thibault Grison
+**Organisation 2022 :** Clara Bordier, Marine Buffard et Thibault Grison
 
 | Date | Titre de la présentation | Intervenant·es |
 |-|-|-|
 | 18/01/2022 | Introduction | Marine Buffard et Thibault Grison |
 | 9/06/2022 | La donnée au prisme du geste  | Caroline Parfait (doctorante OBTIC, STIH et SCAI) et Thaïs Barbosa de Almeida (doctorante EHIC Université de Limoges et ATER au CELSA/GRIPIC) |
 
-**Organisation 2023 :** Léa Andolfi, Julien Bezançon, Clara Bordier, Rimane
+**Organisation 2023 :** Léa Andolfi, Julien Bezançon, Clara Bordier, Rimane
 Karam
 
 | Date | Titre de la présentation | Intervenant·es |
 |-|-|-|
-| 21/02/2023 | Ecritures calculées et catégorisation inductive : L'intérêt de la structuration informatique des écrits intermédiaires de recherche en science sociale | Victor Écrement (CERES) |
+| 21/02/2023 | Ecritures calculées et catégorisation inductive : L'intérêt de la structuration informatique des écrits intermédiaires de recherche en science sociale | Victor Écrement (CERES) |
 | 28/03/2023 | titre à venir | Ri Pierce-Grove (doctorante, Columbia University) |
 | 25/04/2023 | titre à venir | Aurélie Sansen (doctorante, CELSA/GRIPIC) |
 | 30/05/2023 | titre à venir | Marie-Lise Buisson (doctorante, CELSA/GRIPIC) |

@@ -3,7 +3,7 @@ title: "Journées d'études autour des Humanités numériques à La Rochelle"
 author: ceres
 abstract: "Une partie de l'équipe CERES s'est déplacée à La Rochelle les 3 et 4 mars 2022 pour une journée d'études sur les méthodes numériques pour les SHS"
 tags:
-    - presse ancienne
+    - presse
     - extraction d'information
     - réseaux sociaux
 ---

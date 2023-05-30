@@ -1,14 +1,13 @@
 ---
-title: "Troisième  séance du séminaire doctoral : Comment mettre au travail des objets dont le fonctionnement, les caractéristiques techniques ou technologiques peuvent nous échapper ?"
+title: "Séminaire doctoral : Mettre au travail des objets numériques au fonctionnement opaque"
 author: lea
 event: true
 tags:
     - séminaire doctoral
-    - yuka
-    - méthodes numériques
+    - applications
 ---
 
-![yuja](yuka.jpg)
+![](yuka.jpg)
 
 
 ## Informations
@@ -17,9 +16,9 @@ tags:
 - Maison de la Recherche, 28 rue Serpente, 75006, Paris 
 - [Lien d'inscription](https://framaforms.org/seminaire-doctoral-ceres-30052023-marie-lise-buisson-comment-mettre-au-travail-des-objets-dont-le)
 
-## Comment mettre au travail des objets dont le fonctionnement, les caractéristiques techniques ou technologiques peuvent nous échapper ?
+## Comment mettre au travail des objets dont le fonctionnement, les caractéristiques techniques ou technologiques peuvent nous échapper ?
 
-Pour cette séance nous aurons le plaisir d’accueillir Marie-Lise Buisson, doctorante en 3ème année de thèse en SIC au sein du GRIPIC Sorbonne Université sous la direction de Caroline Marti. Lors de sa présentation, elle reviendra sur la question suivante : comment mettre au travail des objets dont le fonctionnement, les caractéristiques techniques ou technologiques peuvent nous échapper ?
+Pour cette séance nous aurons le plaisir d’accueillir Marie-Lise Buisson, doctorante en 3ème année de thèse en SIC au sein du GRIPIC Sorbonne Université sous la direction de Caroline Marti. Lors de sa présentation, elle reviendra sur la question suivante : comment mettre au travail des objets dont le fonctionnement, les caractéristiques techniques ou technologiques peuvent nous échapper ?
 
 Ses recherches portent sur la façon dont se construit l’autorité sociale des acteurs économiques dans le cadre des logiques marchandes. Elle questionne, sur le terrain de l'alimentation, la « fabrique du consommateur » à la lumière des prétentions d'une multitude d'acteurs à orienter les individus sur les marchés par l’entremise de dispositifs spécifiques.
  
@@ -35,6 +34,4 @@ Le séminaire se déroulera en deux parties. D’abord nous écouterons pendant 
 
 ## Calendrier 
 
-- 25/04/2023 : Aurélie Sansen (doctorante Gripic) et Victor Ecrement (ingénieur de recherche CERES)
-- 30/05/2023 : Marie-Lise Buisson (doctorante Gripic) 
-- 13/062023 : Ivanne Hermant (doctorante Sorbonne)
+- 13/062023 : Ivanne Hermant (doctorante Sorbonne)
