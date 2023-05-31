@@ -1,8 +1,7 @@
 ---
-title: Journée d'études "Travailler avec les images" - 8 juin 2023
-author: edouard
+title: Journée d'études "Recherche d’Information Temporelle : Usages et Expérimentations Linguistiques" - 9 juin 2023author: edouard
 event: true
-abstract: 'Le CERES organise une journée d’études intitulée "Recherche d’Information Temporelle. Usages et Expérimentations Linguistiques", qui se tiendra le vevdredi 9 juin 2023, de 9h à 15h30, à la Maison de la Recherche de Sorbonne Université (28 rue Serpente, 75006, Paris).'
+abstract: 'Le CERES organise une journée d’études intitulée "Recherche d’Information Temporelle : Usages et Expérimentations Linguistiques", qui se tiendra le vevdredi 9 juin 2023, de 9h à 15h30, à la Maison de la Recherche de Sorbonne Université (28 rue Serpente, 75006, Paris).'
 tags:
     - journée d'études
     - approche historique
