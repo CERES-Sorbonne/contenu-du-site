@@ -4,6 +4,7 @@ author : ceres
 abstract: Rapport sur le cadre juridique applicable à l’usage de données issues de réseaux socio-numériques à des fins de recherche scientifique
 tags:
     - rgpd
+    - données personnelles
     - données web
     - réseaux sociaux
 ---

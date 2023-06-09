@@ -2,6 +2,7 @@
 title: Atelier RGPD / PGD, réponses aux questions
 author : ceres
 tags:
+    - données personnelles
     - rgpd
 ---
 

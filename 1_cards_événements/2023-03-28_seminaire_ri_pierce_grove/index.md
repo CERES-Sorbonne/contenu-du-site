@@ -4,6 +4,7 @@ event: true
 tags: 
     - séminaire doctoral
     - scraping
+    - données personnelles
     - rgpd
     - entretiens
 abstract: "Pour ce premier séminaire doctoral de 2023, l'équipe de doctorant·es CERES accueille Ri Pierce-Grove, qui parlera de la manière dont elle utilise la méthode des data-prompting interviews dans le cadre d'une recherche sur les plateformes vidéos."

@@ -2,6 +2,7 @@
 title: RGPD et sciences sociales
 author: ceres
 tags:
+    - données personnelles
     - rgpd
 sound: https://dropsu.sorbonne-universite.fr/s/qkRZWtpSpDLRpzF/download/Podcast_8_RGPD_JulienRossi.mp3
 ---
