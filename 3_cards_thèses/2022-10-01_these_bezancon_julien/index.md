@@ -2,12 +2,12 @@
 title: Détection et production de défigements linguistiques dans les réseaux sociaux assistées par les sciences participatives - fertilisation croisée entre traitement informatique et analyse linguistique
 tags:
     - figement
-    - défigement
+    - défigements
     - textométrie
     - épistémologie
-    - linguistique
-    - informatique
 ---
+
+![](letters.jpg)
 
 **Candidat·e :** Julien Bezançon
 

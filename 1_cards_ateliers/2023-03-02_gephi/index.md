@@ -3,7 +3,7 @@ title: Atelier Gephi
 author: ceres
 tags:
     - gephi
-    - réseaux
+    - graphes de réseaux
     - visualisation
 event: true
 ---

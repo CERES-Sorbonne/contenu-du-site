@@ -2,6 +2,7 @@
 title: Atelier PGD, RGPD et archivages des données personnelles dans les recherches en SHS
 author: ceres
 tags:
+    - données personnelles
     - rgpd
 ---
 

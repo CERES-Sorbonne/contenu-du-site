@@ -3,6 +3,7 @@ title: Extraction de données sur Instagram
 author: ceres
 tags:
     - réseaux sociaux
+    - instagram
 sound: https://dropsu.sorbonne-universite.fr/s/zFzXk6aZsbW4o4A/download/Podcast_9_Marine_Buffard.mp3
 ---
 

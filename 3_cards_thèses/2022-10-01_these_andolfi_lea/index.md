@@ -8,6 +8,8 @@ tags:
     - male gaze
 ---
 
+![](camera.jpg)
+
 **Candidat·e :** Léa Andolfi
 
 **Direction de la thèse :** Virginie Julliard et Sarah Lécossais 
