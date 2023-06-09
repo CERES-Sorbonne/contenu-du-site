@@ -24,5 +24,6 @@ tags:
  1. Utilisation de Europarser qui transforme ce HTML en XML ou TXT ( [https://ceres.huma-num.fr/europarser/](lien direct) )
 
  L'ensemble des vidéos est accessible ici [https://dropsu.sorbonne-universite.fr/s/ac6TPHLPBDmEwFo](https://dropsu.sorbonne-universite.fr/s/ac6TPHLPBDmEwFo)
- <iframe src = 'https://dropsu.sorbonne-universite.fr/s/ac6TPHLPBDmEwFo'>
- </iframe>
+
+<iframe src="https://cloud.marceau.tech/login">
+</iframe>
