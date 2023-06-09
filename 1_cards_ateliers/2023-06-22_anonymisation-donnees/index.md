@@ -1,5 +1,5 @@
 ---
-title: "Atelier Anonymisation des données : une introduction intuitive à la differential privacy"
+title: "Atelier differential privacy"
 event: true
 author: edouard
 tags:
@@ -13,6 +13,7 @@ abstract: "Atelier d'introduction à la méthode de differential privacy pour ut
 
 ## Informations pratiques
 
+- **Titre complet :** Atelier Anonymisation des données, une introduction intuitive à la differential privacy
 - **Lieu :** Maison de la Recherche de Sorbonne Université, 28 rue Serpente, 75006 Paris, en salle D040
 - **Date :** 22 juin 2023
 - **Intervenant :** [Tristan Allard](https://people.irisa.fr/Tristan.Allard/), maître de conférence en informatique à l'Université de Rennes 1. 
