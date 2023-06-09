@@ -45,27 +45,24 @@ tags:
  Gaël Lejeune vous explique dans les vidéos suivantes comment extraire un corpus d'Europresse en html et pouvoir le transformer en XML (pour l'outil de textométrie TXM par exemple) ou en txt :
  1. Connexion Europresse
  <video width="320" height="240" controls>
-    <source src="https://dropsu.sorbonne-universite.fr/s/ac6TPHLPBDmEwFo/download?path=%2F&files=1_D%C3%A9finir_Mots_Cl%C3%A9s.mkv&downloadStartSecret=zj8oqilj36d" type="video/mp4">
+    <source src="https://dropsu.sorbonne-universite.fr/s/ac6TPHLPBDmEwFo/download?path=%2F&files=Parsing_1_Connexion_europresse.mkv&downloadStartSecret=h5v4qd5fojj">
     Download the
-    <a href="https://dropsu.sorbonne-universite.fr/s/ac6TPHLPBDmEwFo/download?path=%2F&files=1_D%C3%A9finir_Mots_Cl%C3%A9s.mkv&downloadStartSecret=zj8oqilj36d">MP4</a>
+    <a href="https://dropsu.sorbonne-universite.fr/s/ac6TPHLPBDmEwFo/download?path=%2F&files=Parsing_1_Connexion_europresse.mkv&downloadStartSecret=h5v4qd5fojj">MP4</a>
     video.
 </video>
  1. Récupérer via la version classique un corpus en html
  <video width="320" height="240" controls>
-    <source src="https://dropsu.sorbonne-universite.fr/s/ac6TPHLPBDmEwFo/download?path=%2F&files=1_D%C3%A9finir_Mots_Cl%C3%A9s.mkv&downloadStartSecret=zj8oqilj36d" type="video/mp4">
+    <source src="https://dropsu.sorbonne-universite.fr/s/ac6TPHLPBDmEwFo/download?path=%2F&files=Parsing_2_Format-html.mkv&downloadStartSecret=xxpf79vvs2j" type="video/mp4">
     Download the
-    <a href="https://dropsu.sorbonne-universite.fr/s/ac6TPHLPBDmEwFo/download?path=%2F&files=1_D%C3%A9finir_Mots_Cl%C3%A9s.mkv&downloadStartSecret=zj8oqilj36d">MP4</a>
+    <a href="https://dropsu.sorbonne-universite.fr/s/ac6TPHLPBDmEwFo/download?path=%2F&files=Parsing_2_Format-html.mkv&downloadStartSecret=xxpf79vvs2j">MP4</a>
     video.
 </video>
  1. Utilisation de Europarser qui transforme ce HTML en XML ou TXT : [https://ceres.huma-num.fr/europarser/](https://ceres.huma-num.fr/europarser/) 
-
- L'ensemble des vidéos est accessible ici [https://dropsu.sorbonne-universite.fr/s/ac6TPHLPBDmEwFo](https://dropsu.sorbonne-universite.fr/s/ac6TPHLPBDmEwFo)
- 
- 
  <video width="320" height="240" controls>
-    <source src="https://dropsu.sorbonne-universite.fr/s/ac6TPHLPBDmEwFo/download?path=%2F&files=1_D%C3%A9finir_Mots_Cl%C3%A9s.mkv&downloadStartSecret=zj8oqilj36d" type="video/mp4">
+    <source src="https://dropsu.sorbonne-universite.fr/s/ac6TPHLPBDmEwFo/download?path=%2F&files=Parsing_3_Europarser.mkv&downloadStartSecret=mzb6xo36a7" type="video/mp4">
     Download the
-    <a href="https://dropsu.sorbonne-universite.fr/s/ac6TPHLPBDmEwFo/download?path=%2F&files=1_D%C3%A9finir_Mots_Cl%C3%A9s.mkv&downloadStartSecret=zj8oqilj36d">MP4</a>
+    <a href="https://dropsu.sorbonne-universite.fr/s/ac6TPHLPBDmEwFo/download?path=%2F&files=Parsing_3_Europarser.mkv&downloadStartSecret=mzb6xo36a7">MP4</a>
     video.
 </video>
 
+ L'ensemble des vidéos est accessible ici [https://dropsu.sorbonne-universite.fr/s/ac6TPHLPBDmEwFo](https://dropsu.sorbonne-universite.fr/s/ac6TPHLPBDmEwFo)
