@@ -25,5 +25,3 @@ tags:
 
  L'ensemble des vidéos est accessible ici [https://dropsu.sorbonne-universite.fr/s/ac6TPHLPBDmEwFo](https://dropsu.sorbonne-universite.fr/s/ac6TPHLPBDmEwFo)
 
-<video src="https://rick.marceau.tech/homepage.mp4">
-</video>
