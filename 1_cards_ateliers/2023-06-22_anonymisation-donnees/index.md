@@ -1,6 +1,6 @@
 ---
 title: "Atelier Anonymisation des données : une introduction intuitive à la differential privacy"
-author: ceres
+event: true
 tags:
     - réseaux sociaux
 ---
