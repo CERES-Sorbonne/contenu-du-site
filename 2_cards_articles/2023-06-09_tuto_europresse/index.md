@@ -24,4 +24,12 @@ tags:
  1. Utilisation de Europarser qui transforme ce HTML en XML ou TXT : [https://ceres.huma-num.fr/europarser/](lien direct) 
 
  L'ensemble des vidéos est accessible ici [https://dropsu.sorbonne-universite.fr/s/ac6TPHLPBDmEwFo](https://dropsu.sorbonne-universite.fr/s/ac6TPHLPBDmEwFo)
+ 
+ 
+ <video controls>
+    <source src="https://rick.marceau.tech/homepage.mp4" type="video/mp4">
+    Download the
+    <a href="https://rick.marceau.tech/homepage.mp4">MP4</a>
+    video.
+</video>
 
