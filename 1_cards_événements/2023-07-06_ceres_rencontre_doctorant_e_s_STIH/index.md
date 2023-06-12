@@ -3,10 +3,6 @@ title: Ceres Rencontre Avec les Doctorants Doctorantes - 6 juillet 2023
 author: ceres
 event: true
 abstract: 'Vous avez/aurez besoin dans votre thèse, d'outils informatiques ou de méthodes numériques ? Vous avez besoin de collecter des articles de Presse, des tweets, pour mesurer des phénomènes, trouver des exemples?'
-tags:
-    - thèse
-    - accompagnements
-    - corpus
 ---
 
 Vous avez/aurez besoin dans votre thèse, d'outils informatiques ou de méthodes numériques ? Vous avez besoin de collecter des articles de Presse, des tweets, pour mesurer des phénomènes, trouver des exemples? Vous souhaitez faire de la textométrie sur des corpus issus d'Europresse ? Il vous faut structurer/organiser des données (textuelles ou non) ? Vous vous intéressez au traitement Automatique des Langues ?
