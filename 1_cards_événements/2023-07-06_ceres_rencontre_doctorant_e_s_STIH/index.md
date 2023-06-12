@@ -2,7 +2,10 @@
 title: Ceres Rencontre Avec les Doctorants Doctorantes - 6 juillet 2023
 author: ceres
 event: true
-abstract: 'Vous avez/aurez besoin dans votre thèse, d'outils informatiques ou de méthodes numériques ? Vous avez besoin de collecter des articles de Presse, des tweets, pour mesurer des phénomènes, trouver des exemples?'
+abstract: 'Le CERES organise une journée d’études intitulée "Travailler avec les images", qui se tiendra le jeudi 8 juin 2023, de 9h à 17h, à la Maison de la Recherche de Sorbonne Université (28 rue Serpente, 75006, Paris).'
+tags:
+    - journée d'études
+    - images
 ---
 
 Vous avez/aurez besoin dans votre thèse, d'outils informatiques ou de méthodes numériques ? Vous avez besoin de collecter des articles de Presse, des tweets, pour mesurer des phénomènes, trouver des exemples? Vous souhaitez faire de la textométrie sur des corpus issus d'Europresse ? Il vous faut structurer/organiser des données (textuelles ou non) ? Vous vous intéressez au traitement Automatique des Langues ?
