@@ -1,5 +1,5 @@
 ---
-title: "Cours : Quelques outils de visualisation de données"
+title: "Cours : outils de visualisation de données"
 abstract: "Cet article présente quelques logiciels de visualisation de données à travers des exemples de graphiques et leurs usages possibles en sciences sociales. Il est issu du cours de méthodes numériques proposé par Virginie Julliard, Félix Alié, Édouard Bouté et Victor Ecrement aux étudiant·es du master recherche du CELSA. Il est disponible en CC BY-SA 4.0, vous pouvez donc l'adapter en nous citant."
 author: victor
 tags:
