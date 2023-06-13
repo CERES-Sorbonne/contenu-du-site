@@ -9,6 +9,12 @@ tags:
 
 ![big](01octoparse.jpg)
 
+## Introduction
+
+Le 20 juin 2023, le CERES a organisé un atelier au sujet de l'outil Octoparse, qui permet de réaliser du scraping de site web. Disposant d'une interface graphique et de scripts pré-enregistrés, cet outil peut s'avérer intéressant pour les débutant·es en scraping, mais également efficace pour des profils intermédiaires souhaitant récolter des données web rapidement.
+
+Nous vous proposons ci-dessous un tutoriel tiré de la réalisation de cet atalier qui vous permettra d'apprendre à prendre en main Octoparse. Bonne pratique !
+
 ## Prérequis
 
 ### Créer un compte Octoparse
