@@ -5,6 +5,7 @@ abstract: "Découvrir l’outil Octoparse, permettant d’effectuer du scraping,
 tags:
     - scraping
     - données web
+    - tutoriel
 ---
 
 ![big](01octoparse.jpg)
