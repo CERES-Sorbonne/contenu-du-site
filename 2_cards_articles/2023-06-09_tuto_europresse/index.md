@@ -7,6 +7,7 @@ tags:
     - presse
     - europresse
     - txm
+    - corpus
 ---
 
 ## Résumé
