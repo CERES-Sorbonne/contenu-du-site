@@ -1,5 +1,5 @@
 ---
-title: "Cours : Bruits, tri, nettoyage, indexation, exploration de corpus avec Notion"
+title: "Cours de méthodes numériques : Bruits, tri, nettoyage, indexation, exploration de corpus avec Notion"
 abstract: "Cet article offre une introduction sous forme de tutoriel au nettoyage, à l'indexation, au tri et à l'exploration de corpus textuels. Il est issu du cours de méthodes numériques proposé par Virginie Julliard, Félix Alié, Édouard Bouté et Victor Ecrement aux étudiant·es du master recherche du CELSA. Il est disponible en CC BY-SA 4.0, vous pouvez donc l'adapter en nous citant."
 author: victor
 tags:
