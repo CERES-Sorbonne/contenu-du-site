@@ -1,16 +1,16 @@
 ---
-title: Atelier RGPD / PGD, réponses aux questions
+title: Guide RGPD / PGD et SHS
 author : ceres
 tags:
     - données personnelles
     - rgpd
+    - données web
+    - réseaux sociaux
 ---
 
 ![](rgpd.png)
 
-L’[atelier RGPD/PGD](../2021-11-19_pgd_rgpd_donnees_personnelles/), a été animé par Julien Rossi, Cécile Arènes et Océane Valencia.
-
-Les réponses des intervenant·es aux problématiques de recherche posées par les participants durant cet atelier concernaient le :
+Un [atelier RGPD/PGD](../../ateliers/2021-11-19_pgd_rgpd_donnees_personnelles/), a été animé par Julien Rossi, Cécile Arènes et Océane Valencia. Différentes problématiques de recherche ont été soulevées par les participants durant cet atelier. Celles-ci concernaient les sujets suivants :
 
 1. Statut des images
 2. Travail sur les réseaux
@@ -18,7 +18,9 @@ Les réponses des intervenant·es aux problématiques de recherche posées par l
 4. Données sensibles
 5. Questions diverses
 
-Vous pouvez également [accéder aux réponse au format pdf](http://memes.sorbonne-universite.fr/wp-content/uploads/2022/02/RGPD_PGD_Rossi_Arenes_Valencia_-fevrier-2022.pdf)
+Ce guide fournit plusieurs éléments de réponses sur ces sujets.
+
+Pour aller plus loin, un rapport concernant le cadre juridique applicable à l'usage des données issues des réseaux socio-numériques à des fins de recherche scientifique a également été rédigé par Julien Rossi. Il est à retrouver [ici](../../articles//2023-05-09_rapport_shs_sous_contraintes/).
 
 ## 1. Statut des images
 
