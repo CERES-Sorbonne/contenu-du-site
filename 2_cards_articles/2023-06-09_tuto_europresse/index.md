@@ -3,10 +3,10 @@ title: "Tutoriel Europresse : de la requête à la collecte"
 author: ceres
 abstract: "Tutoriel expliquant le requêtage  sur la plateforme d'articles de Presse Europresse et comment en extraire un corpus qui puisse servir dans des outils de textométrie."
 tags:
-    - Tutoriel
-    - Presse
-    - Europresse
-    - TXM
+    - tutoriel
+    - presse
+    - europresse
+    - txm
 ---
 
 ## Résumé
