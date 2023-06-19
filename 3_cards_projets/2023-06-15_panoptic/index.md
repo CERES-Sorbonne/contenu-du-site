@@ -46,6 +46,10 @@ Développé par le CERES, *Panoptic* est un outil de visualisation, d’explorat
 
 À terme, nous aimerions qu'il soit aussi facile d'installer Panoptic que n'importe quel autre logiciel. Mais nous n'avons pas encore pris le temps de construire un installeur, donc il vous faudra suivre les étapes suivantes.
 
+</aside>
+
+<aside>
+
 **Attention :** le logiciel auquel vous avez accès est toujours un prototype en développement. Certaines fonctions ne sont pas encore disponibles et il est probable que vous rencontriez des bugs. Nous vous recommandons donc pour le moment de ne pas vous reposer dessus pour votre travail de recherche, et de ne l'utiliser que pour faie des tests.
 
 </aside>
