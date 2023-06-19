@@ -1,5 +1,5 @@
 ---
-title: 'Outil CERES : Europarser'
+title: 'Outil CERES : Europarser'
 author: ceres
 tags:
     - presse

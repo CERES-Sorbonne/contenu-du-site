@@ -1,5 +1,5 @@
 ---
-title: 'Outil CERES : Panoptic'
+title: 'Outil CERES : Panoptic'
 author: ceres
 tags:
     - images
@@ -36,7 +36,7 @@ Développé par le CERES, *Panoptic* est un outil de visualisation, d’explorat
 
 ![big](reco.gif)
 
-### Cas d'usage : mettre une image hors corpus
+### Cas d'usage : mettre une image hors corpus
 
 ![big](hors_corpus.gif)
 
@@ -50,7 +50,7 @@ Développé par le CERES, *Panoptic* est un outil de visualisation, d’explorat
 
 <aside>
 
-**Attention :** le logiciel auquel vous avez accès est toujours un prototype en développement. Certaines fonctions ne sont pas encore disponibles et il est probable que vous rencontriez des bugs. Nous vous recommandons donc pour le moment de ne pas vous reposer dessus pour votre travail de recherche, et de ne l'utiliser que pour faie des tests.
+**Attention :** le logiciel auquel vous avez accès est toujours un prototype en développement. Certaines fonctions ne sont pas encore disponibles et il est probable que vous rencontriez des bugs. Nous vous recommandons donc pour le moment de ne pas vous reposer dessus pour votre travail de recherche, et de ne l'utiliser que pour faire des tests.
 
 </aside>
 

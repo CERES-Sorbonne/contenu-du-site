@@ -1,5 +1,5 @@
 ---
-title: 'Rapport : La recherche en SHS au croisement de multiples contraintes'
+title: 'Rapport : La recherche en SHS au croisement de multiples contraintes'
 author : ceres
 abstract: Rapport sur le cadre juridique applicable à l’usage de données issues de réseaux socio-numériques à des fins de recherche scientifique
 tags:

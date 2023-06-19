@@ -10,7 +10,7 @@ tags:
 
 ![](rgpd.png)
 
-Un [atelier RGPD/PGD](../../ateliers/2021-11-19_pgd_rgpd_donnees_personnelles/), a été animé par Julien Rossi, Cécile Arènes et Océane Valencia. Différentes problématiques de recherche ont été soulevées par les participants durant cet atelier. Celles-ci concernaient les sujets suivants :
+Un [atelier RGPD/PGD](../../ateliers/2021-11-19_pgd_rgpd_donnees_personnelles/), a été animé par Julien Rossi, Cécile Arènes et Océane Valencia. Différentes problématiques de recherche ont été soulevées par les participants durant cet atelier. Celles-ci concernaient les sujets suivants :
 
 1. Statut des images
 2. Travail sur les réseaux

@@ -1,5 +1,5 @@
 ---
-title: 'Outil CERES : OCRES'
+title: 'Outil CERES : OCRES'
 author: ceres
 tags:
     - OCR

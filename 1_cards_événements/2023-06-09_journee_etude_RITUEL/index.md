@@ -15,7 +15,7 @@ Le programme complet de la journée est à retrouver [au lien suivant](JE-CERES-
 
 Merci de vous inscrire [au lien suivant](https://framaforms.org/inscription-journee-detudes-ceres-recherche-dinformation-temporelle-usages-et-experimentations) pour pouvoir participer à la journée. 
 
-**Organisation :**
+**Organisation :**
 
 - Edouard Bouté (CERES, Sorbonne Université)
 - Gaël Lejeune (STIH, CERES, Sorbonne Université)

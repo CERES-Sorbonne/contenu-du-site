@@ -1,5 +1,5 @@
 ---
-title: 'Outil CERES : Restweet'
+title: 'Outil CERES : Restweet'
 author: ceres
 tags:
     - réseaux sociaux
