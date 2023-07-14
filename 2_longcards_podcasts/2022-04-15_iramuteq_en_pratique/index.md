@@ -4,7 +4,7 @@ author: ceres
 tags: 
     - iramuteq
     - textométrie
-sound: https://dropsu.sorbonne-universite.fr/s/ZHQCwZNSSwdzPtj/download/Podcast_2_Iramuteq_AdelineWrona.mp3
+sound: https://dropsu.sorbonne-universite.fr/s/LkCoq6SZZFmJ7ky/download?path=%2FPODCASTS&files=Podcast_2_Iramuteq_AdelineWrona.mp3
 ---
 
 ![](iramuteq.png)

@@ -4,7 +4,7 @@ author: ceres
 tags:
     - presse
     - europresse
-sound: https://dropsu.sorbonne-universite.fr/s/QnTe4XfQkaBtcpT/download/Podcast_4_Europresse_Gael_Lejeune.mp3
+sound: https://dropsu.sorbonne-universite.fr/s/LkCoq6SZZFmJ7ky/download?path=%2FPODCASTS&files=Podcast_4_Europresse_Gael_Lejeune.mp3
 ---
 
 ![](europresse.png)

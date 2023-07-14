@@ -4,7 +4,7 @@ author: ceres
 tags:
     - données personnelles
     - rgpd
-sound: https://dropsu.sorbonne-universite.fr/s/qkRZWtpSpDLRpzF/download/Podcast_8_RGPD_JulienRossi.mp3
+sound: https://dropsu.sorbonne-universite.fr/s/LkCoq6SZZFmJ7ky/download?path=%2FPODCASTS&files=Podcast_8_RGPD_JulienRossi.mp3
 ---
 
 ![](rgpd.png)

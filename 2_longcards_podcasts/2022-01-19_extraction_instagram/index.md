@@ -4,7 +4,7 @@ author: ceres
 tags:
     - réseaux sociaux
     - instagram
-sound: https://dropsu.sorbonne-universite.fr/s/zFzXk6aZsbW4o4A/download/Podcast_9_Marine_Buffard.mp3
+sound: https://dropsu.sorbonne-universite.fr/s/LkCoq6SZZFmJ7ky/download?path=%2FPODCASTS&files=Podcast_9_Marine_Buffard.mp3
 ---
 
 ![](instagram.png)

@@ -1,7 +1,7 @@
 ---
 title: 'Méthodes de clustering'
 author: ceres
-sound: https://dropsu.sorbonne-universite.fr/s/xxzwCd4noFeykJX/download/Podcast_6_OutilDeClustering.mp3
+sound: https://dropsu.sorbonne-universite.fr/s/LkCoq6SZZFmJ7ky/download?path=%2FPODCASTS&files=Podcast_6_OutilDeClustering.mp3
 tags:
     - clustering
 ---

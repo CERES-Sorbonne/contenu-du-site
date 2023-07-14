@@ -4,7 +4,7 @@ author: ceres
 tags:
     - presse
     - europresse
-sound: https://dropsu.sorbonne-universite.fr/s/Co4t6xTZW6NnQDn/download/Podcast_5_Europresse_Thibault_Grison.mp3
+sound: https://dropsu.sorbonne-universite.fr/s/LkCoq6SZZFmJ7ky/download?path=%2FPODCASTS&files=Podcast_5_Europresse_Thibault_Grison.mp3
 ---
 
 ![](europresse.png)
