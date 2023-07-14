@@ -4,7 +4,7 @@ author: ceres
 tags:
     - iramuteq
     - textométrie
-sound: https://dropsu.sorbonne-universite.fr/s/L9ifb7RqF9wTaBZ/download/Podcast_1_Iramuteq_RenaudDebailly_Rendu020921.mp3
+sound: https://dropsu.sorbonne-universite.fr/s/LkCoq6SZZFmJ7ky/download?path=%2FPODCASTS&files=Podcast_1_Iramuteq_RenaudDebailly_Rendu020921.mp3
 ---
 
 ![](iramuteq.png)
