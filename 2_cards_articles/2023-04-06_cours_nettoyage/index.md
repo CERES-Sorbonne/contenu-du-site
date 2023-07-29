@@ -133,14 +133,12 @@ On peut avoir envie de prioriser les tweets qu’on veut voir en premier. Par ex
 Dans une nouvelle propriété `Formule`, copier-coller la formule suivante :
 
 ```
-python
 concat(if(contains(prop("Tweet"), "cancer"), "[cancer]  ", ""), if(contains(prop("Tweet"), "cell"), "[cell]  ", ""), if(contains(prop("Tweet"), "seminar"), "[seminar]  ", ""), if(contains(prop("Tweet"), "paper"), "[paper]  ", ""), if(contains(prop("Tweet"), "research"), "[research]  ", ""), if(contains(prop("Tweet"), "immunolog"), "[immunology]  ", ""), if(contains(prop("Tweet"), "radiation"), "[radiation]  ", ""), if(contains(prop("Tweet"), "biomark"), "[biomarker]  ", ""), if(contains(prop("Tweet"), "molecul"), "[molecule]  ", ""), if(contains(prop("Tweet"), "breast"), "[breast]  ", ""))
 ```
 
 Les formules Notion ne tolèrent pas les retours à la ligne, les tabulations et les espaces multiples donc elle n’est pas très lisible. Voici à quoi elle ressemble avec quelques retours à la ligne.
 
 ```
-python
 concat(
     if(contains(prop("Tweet"), "cancer"), "[cancer]  ", ""), 
     if(contains(prop("Tweet"), "cell"), "[cell]  ", ""), 
