@@ -4,6 +4,7 @@ author: ceres
 ---
 
 **Bourses de thèse CERES 2023**
+
 En 2023, le CERES a attribué deux bourses de thèse dans le cadre de son programme doctoral en lien avec le développement des méthodes numériques à Sorbonne Université. Parmi les cinq propositions initiales retenues, et suite au classement des candidat·es réalisé par un jury, les deux thèses financées pour trois ans à partir de septembre 2023 sont les suivantes :
 
 ***Titre complet :*** Saisir l'argument la « liberté d'expression » sur les réseaux sociaux, entre circulation et emballement : Apports croisés des méthodes numériques et de la psychologie sociale
