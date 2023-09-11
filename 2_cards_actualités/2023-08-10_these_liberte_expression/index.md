@@ -1,5 +1,5 @@
 ---
-stitle: 'Bourse de thèse : lauréates 2023'
+title: 'Bourse de thèse : lauréates 2023'
 author: ceres
 ---
 
