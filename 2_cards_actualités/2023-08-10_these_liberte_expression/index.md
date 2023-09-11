@@ -1,6 +1,7 @@
 ---
 title: 'Bourse de thèse : lauréates 2023'
 author: ceres
+abstract: "En 2023, le CERES a attribué deux bourses de thèse dans le cadre de son programme doctoral en lien avec le développement des méthodes numériques à Sorbonne Université."
 ---
 
 **Bourses de thèse CERES 2023**
