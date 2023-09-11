@@ -6,6 +6,8 @@ tags:
     - outils CERES
 ---
 
+![](bobine.png)
+
 Développé par le CERES, *Pellipop* est un outil en ligne de commande Python qui permet de découper des vidéos en images fixes. Le détail de l'installation et des paramétrages possible est disponible [ici](https://pypi.org/project/pellipop/).
 
 1. Il faut noter que Pellipop s'appuie sur un langage de programmation appelé Python, qu'il faut avoir déjà téléchargé pour pouvoir l'utiliser. Si vous n'avez jamais téléchargé Python, vous pouvez [obtenir la dernière version sur le site officiel](https://www.python.org/downloads/).
