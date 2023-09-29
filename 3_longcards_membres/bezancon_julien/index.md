@@ -25,3 +25,6 @@ abstract: doctorant
 ### Articles dans des revues scientifiques à comité de lecture
 
 2022\. Aurélie Névéol, Yoann Dupont, Julien Bezançon et Karën Fort, « French CrowS-Pairs: Extending a challenge dataset for measuring social bias in masked language models to a language other than English (https://aclanthology.org/2022.acl-long.583/) », *ACL*, n° 583, vol. 60, pp 8521–8531.
+
+## Site web
+[julienbez.github.io](https://julienbez.github.io/)
