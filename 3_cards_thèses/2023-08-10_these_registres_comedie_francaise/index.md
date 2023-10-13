@@ -1,5 +1,7 @@
 ---
 title: 'Édition, exploration et exploitation numériques des registres d’assemblées de la Comédie-Française (1680-1921)'
+tags:
+    - Humanités numériques
 ---
 
 ![](Lettres_Maison de la recherche.jpg)
