@@ -6,14 +6,15 @@ tags:
     - outils CERES
 ---
 
-![panoptic](panoptic.png)
-![big](panoptic_screenshot.png)
+![verysmall](panoptic.png)
 
 ## En bref
 
 Développé par le CERES, *Panoptic* est un outil de visualisation, d’exploration et d'annotation de grands corpus d’images. Cet outil intègre notamment des algorithmes de groupage d'images par similarité (MobileNet, average hash, sha1), ce qui permet d'aider l'usager·e dans le tri et l'exploration. L’outil propose par ailleurs diverses options de filtrage, de recherche et d'annotation, permettant la création, l'analyse et l’exportation de sous-corpus.
 
 [Le code est en libre accès](https://github.com/CERES-Sorbonne/Panoptic) sous la [Mozilla public license 2.0](https://github.com/CERES-Sorbonne/Panoptic/blob/main/LICENSE).
+
+![big](panoptic_screenshot.png)
 
 ## Quelques fonctions
 
