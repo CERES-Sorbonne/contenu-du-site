@@ -7,6 +7,8 @@ tags:
 abstract: "SciTok est un outil de web scraping pour la recherche en sciences sociales."
 ---
 
+![scitok](scitok.png)
+
 ![big](Scitok-1.png)
 
 Yannick Zelle, dans le cadre de son stage au CERES et de son master à la Heinrich Heine University Düsseldorf, a développé l'outil de web scraping pour TikTok : [SciTok](https://github.com/Lazel102/SciTok.git).

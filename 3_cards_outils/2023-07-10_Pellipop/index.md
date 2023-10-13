@@ -6,7 +6,7 @@ tags:
     - outils CERES
 ---
 
-![](bobine.png)
+![](pellipop.png)
 
 Développé par le CERES, *Pellipop* est un outil en ligne de commande Python qui permet de découper des vidéos en images fixes. Le détail de l'installation et des paramétrages possible est disponible [ici](https://pypi.org/project/pellipop/).
 

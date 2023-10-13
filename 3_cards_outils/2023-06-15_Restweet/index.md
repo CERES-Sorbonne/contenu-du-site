@@ -5,7 +5,7 @@ tags:
     - réseaux sociaux
     - outils CERES
 ---
-
+![Restweet](twitter.png)
 ![big](restweet.png)
 
 Développé par le CERES, RESTWEET est un outil de collecte massive sur le long terme de données issues de la plateforme Twitter. Il intègre une interface graphique permettant d’explorer les données à l’aide de graphiques, d’un grand nombre de filtres/requêtes et d’options de recherche. RESTWEET collecte, en plus du texte des tweets, les images et les vidéos publiées.

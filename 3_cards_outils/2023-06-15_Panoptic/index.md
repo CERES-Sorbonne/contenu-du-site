@@ -6,6 +6,7 @@ tags:
     - outils CERES
 ---
 
+![panoptic](panoptic.png)
 ![big](panoptic_screenshot.png)
 
 ## En bref
