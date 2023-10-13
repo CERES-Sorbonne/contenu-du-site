@@ -21,20 +21,15 @@ title: Membrestest
         <img src="julliard_virginie.jpg" alt="Virginie Julliard" style="max-width: 250px;">
     </div>
     <div class="text-container">
-        <p>
-
-**Poste au CERES** : Directrice
-
-**Titre et discipline** : Professeure des universités en sciences de l'information et de la communication
-
-**Laboratoire de rattachement** : [GRIPIC](https://www.gripic.fr/)
-
-**Thèmes de recherche** : production médiatique du genre ; débats publics ; dispositifs d'écriture numérique ; méthodes numériques
-
-CV institutionnel : [accès](https://www.gripic.fr/utilisateur/virginie-julliard)
-        </p>
+        <h2>Virginie Julliard</h2>
+        <p><strong>Poste au CERES</strong>: Directrice</p>
+        <p><strong>Titre et discipline</strong>: Professeure des universités en sciences de l'information et de la communication</p>
+        <p><strong>Laboratoire de rattachement</strong>: <a href="https://www.gripic.fr/">GRIPIC</a></p>
+        <p><strong>Thèmes de recherche</strong>: production médiatique du genre ; débats publics ; dispositifs d'écriture numérique ; méthodes numériques</p>
+        <p>CV institutionnel : <a href="https://www.gripic.fr/utilisateur/virginie-julliard">accès</a></p>
     </div>
 </div>
+
 
 <div class="image-and-text">
     <div class="image-container">
