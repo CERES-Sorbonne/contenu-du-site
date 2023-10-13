@@ -1,6 +1,5 @@
 ---
 title: 'Édition, exploration et exploitation numériques des registres d’assemblées de la Comédie-Française (1680-1921)'
-author: ceres
 ---
 
 ![](Lettres_Maison de la recherche.jpg)
