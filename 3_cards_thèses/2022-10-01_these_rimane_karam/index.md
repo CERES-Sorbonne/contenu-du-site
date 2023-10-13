@@ -10,7 +10,7 @@ author: ceres
 
 ![](book.jpg)
 
-**Candidat·e :** Rimane Karam
+**Candidate :** Rimane Karam
 
 **Direction de la thèse :** co-dirigée par Iyas Hassan (SU) et Julien Dufour (ENS Ulm)
 

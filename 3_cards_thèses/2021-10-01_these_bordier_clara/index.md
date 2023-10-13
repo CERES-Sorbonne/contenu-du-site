@@ -10,7 +10,7 @@ tags:
 
 ![](media.jpg)
 
-**Candidat·e :** Clara Bordier
+**Candidate :** Clara Bordier
 
 **Direction de la thèse :** Pascal Froissart
 

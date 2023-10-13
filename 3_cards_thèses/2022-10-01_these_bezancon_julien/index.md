@@ -9,7 +9,7 @@ tags:
 
 ![](letters.jpg)
 
-**Candidat·e :** Julien Bezançon
+**Candidat :** Julien Bezançon
 
 **Direction de la thèse :** Gaël Lejeune, Gilles Siouffi, Antoine Gautier
 

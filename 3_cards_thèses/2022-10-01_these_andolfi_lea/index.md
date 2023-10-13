@@ -10,7 +10,7 @@ tags:
 
 ![](camera.jpg)
 
-**Candidat·e :** Léa Andolfi
+**Candidate :** Léa Andolfi
 
 **Direction de la thèse :** Virginie Julliard et Sarah Lécossais 
 
