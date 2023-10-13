@@ -1,5 +1,5 @@
 ---
-title: Membres (vtest)
+title: Membres vtest
 ---
 
 |           |           |
