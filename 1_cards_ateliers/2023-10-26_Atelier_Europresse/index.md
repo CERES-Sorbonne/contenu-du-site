@@ -32,7 +32,7 @@ Pour la partie collecte, vous pouvez vous référer au [tutoriel](https://ceres.
 
 Quelques problèmes identifiés que nous creuserons pour les prochaines fois :
 
-- Le chiffrage du nombre de résultats donné par Europresse
+- Le nombre de résultats donné par Europresse
 - Le questionnement sur la racinisation/lemmatisation des requêtes par le moteur Europresse
 - L'extraction automatique de l'horodatage
 - L'extraction automatique des rubriques
