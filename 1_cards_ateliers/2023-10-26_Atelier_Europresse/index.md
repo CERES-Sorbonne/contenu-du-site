@@ -27,10 +27,14 @@ tags:
 4. L'outil [Europarser](https://ceres.huma-num.fr/europarser) pour extraire des données structurées à partir des sorties Html d'Europresse
 5. L'exploitation de ces données dans Excel, TXM ...
 
+Pour la partie collecte, vous pouvez vous référer au [tutoriel](https://ceres.sorbonne-universite.fr/articles/2023-06-09_tuto_europresse/) que nous avons mis en ligne par ailleurs.
+
+
 Quelques problèmes identifiés que nous creuserons pour les prochaines fois :
 
 - Le chiffrage du nombre de résultats dans Europresse
-- Le questionnement sur la racinisation/lemmatisation des requêtes
-- L'extraction des rubriques
+- Le questionnement sur la racinisation/lemmatisation des requêtes par le moteur Europresse
+- L'extraction automatique de l'horodatage
+- L'extraction automatique des rubriques
 
 
