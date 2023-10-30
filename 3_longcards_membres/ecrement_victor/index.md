@@ -1,13 +1,13 @@
 ---
 title: Victor Ecrement
-abstract: Ingénieur d'études, masterant en design à l'ENSCI
+abstract: Ingénieur d'études de 2022 à 2023
 ---
 
 ![](victor-ecrement.jpg)
 
 **Poste au CERES** : Ingénieur d'études
 
-**Titre et discipline** : masterant en design à l'ENSCI
+**Titre et discipline** : Designer et doctorant en sciences de l'information et de la communication et sociologie
 
 **Laboratoire de rattachement :** [CERES](https://ceres-sorbonne.github.io/)
 
