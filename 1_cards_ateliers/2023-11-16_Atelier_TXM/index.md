@@ -1,5 +1,5 @@
 ---
-title: Atelier à venir : TXM le 16/11 16h-18h
+title: Atelier TXM le 16/11 16h-18h
 author: ceres
 tags:
     - txm
@@ -9,7 +9,6 @@ tags:
 event: true
 ---
 
-![](TXM-logo.png)
 <aside>
 
  [Diapos de l'atelier](./CERES-TXM.pdf) 
