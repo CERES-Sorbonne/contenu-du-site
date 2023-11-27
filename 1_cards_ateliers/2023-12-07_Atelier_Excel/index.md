@@ -11,7 +11,7 @@ event: true
 
 <aside>
 
- [Inscrition gartuite mais obligatoire](https://framaforms.org/inscription-atelier-excel-07122023-1700823913) 
+ [Inscription gratuite mais obligatoire](https://framaforms.org/inscription-atelier-excel-07122023-1700823913) 
 
 </aside>
 
