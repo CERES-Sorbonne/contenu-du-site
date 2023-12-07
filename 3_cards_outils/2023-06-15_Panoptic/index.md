@@ -56,7 +56,7 @@ Développé par le CERES, *Panoptic* est un outil de visualisation, d’explorat
 
 </aside>
 
-1. Panoptic s'appuie sur un langage de programmation appelé Python, qu'il faut avoir déjà téléchargé pour pouvoir l'utiliser. Si vous n'avez jamais téléchargé Python, vous pouvez [obtenir la dernière version sur le site officiel](https://www.python.org/downloads/).
+1. Panoptic s'appuie sur un langage de programmation appelé Python, qu'il faut avoir déjà téléchargé pour pouvoir l'utiliser. Si vous n'avez jamais téléchargé Python, vous pouvez [obtenir la dernière version sur le site officiel](https://www.python.org/downloads/). **Attention :** Il faut au minimum avoir la version de Python 3.9. Les versions antérieures, ainsi que les différentes distributions de Python 2 ne fonctionnent pas pour Panoptic.
 2. Ouvrez une fenêtre de terminal. C'est une application présente sur tous les ordinateurs, que vous trouverez probablement dans votre dossier d'applications. Elle s'appelle souvent "Terminal" ou "Invite de commande".
 3. Tapez ou copiez-collez `pip install panoptic` puis appuyez sur la touche `Entrée`. Panoptic devrait s'installer.
 4. Tapez `panoptic` puis appuyez sur la touche `Entrée` pour lancer le logiciel. À l'avenir, vous pourrez relancer Panoptic de cette manière.
