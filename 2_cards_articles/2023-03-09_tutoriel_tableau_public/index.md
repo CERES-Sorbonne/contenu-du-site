@@ -96,8 +96,8 @@ Commençons par réaliser un histogramme simple pour savoir combien d’entrepri
 
 - Pour projeter ces champs dans l’espace Visualisation, il suffit de "glisser-déposer" le champ correspondant situé à gauche dans la liste `Données/Tables` dans la section `Colonnes` ou `Lignes` située en haut de la page : 
     ![small](LignesColonnes.png)
-    - En `Colonnes`, on choisit le champ `Date Creation Unite Legale`.
-    - En`Lignes`, on choisit un champ pré-calculé par Tableau Public qui se situe également dans la zone `Tables`, et qui s’intitule `donnees-atelier-tableau public.csv (Total)`. Ce champ pré-calculé correspond au nombre de données disponibles dans le CSV. Si, dans la colonne nommée `Date Creation Unite Legale`, la valeur `1970` apparaît 100 fois, alors ce champ pré-calculé contient cette valeur.
+    - En `Colonnes`, on choisit le champ `Date Creation Unite Legale`. Automatiquement, le logiciel indique dans le champ "Colonnes" que les données concernées sont un ensemble d'années.
+    - En`Lignes`, on choisit un champ pré-calculé par Tableau Public qui se situe également dans la zone `Tables`, et qui s’intitule `entreprises-francaises.csv (Total)`. Ce champ pré-calculé correspond au nombre de données disponibles dans le CSV. Si par exemple, dans la colonne nommée `Date Creation Unite Legale`, la valeur `1970` apparaît 100 fois, alors ce champ pré-calculé contient cette valeur 100.
 
 Votre visualisation apparaît alors automatiquement à l’écran.
 
@@ -107,7 +107,7 @@ Tableau Public propose plusieurs options pour la taille de la visualisation. Par
 |-|-|
 | ![small](vueweb.png) | ![small](vuedesktop.png) |
 
-Une fois que la visualisation est ainsi projetée, on s’aperçoit qu’il y a un énorme pic de créations d’entreprises en 1900. C’est probablement parce qu’à la création de la base de données, les entreprises qui avaient été créées au 18ème siècle ont été comptées comme ayant été créées en 1900. Ce choix d’inscription des informations par l’institution dans la base de données peut être considéré comme un défaut, qui produit un bruit à corriger. Pour faire disparaître ce bruit, il suffit de créer un filtre pour masquer les données associées à l’année 1900, ainsi que les valeurs `null` (qui indiquent une case vide, c’est-à-dire une année de création non indiquée).
+Une fois que la visualisation est projetée, on s’aperçoit qu’il y a un énorme pic de créations d’entreprises en 1900. C’est probablement parce qu’à la création de la base de données, les entreprises qui avaient été créées au 19ème siècle ont été comptées comme ayant été créées en 1900. Ce choix d’inscription des informations par l’institution dans la base de données peut être considéré comme un défaut, qui produit un bruit à corriger. Pour faire disparaître ce bruit, il suffit de créer un filtre pour masquer les données associées à l’année 1900, ainsi que les valeurs `null` (qui indiquent une case vide, c’est-à-dire une année de création non indiquée).
 
 Tableau Public offre plusieurs options pour réaliser des filtres : 
 
@@ -132,9 +132,9 @@ On sait désormais combien d’entreprise ont été créées chaque année. Cepe
 L’un des intérêts de Tableau Public est qu’il est possible, dans une même visualisation, de superposer des visualisations. On peut donc ici ajouter aux histogrammes déjà présents une courbe cumulative, nous donnant l’information que nous cherchons.
 
 - Pour ajouter une courbe cumulative :
-    - Glissez-déposez à nouveau le champ `donnees-atelier-tableau public.csv` dans le champ `ligne` : un deuxième graphique, identique au premier, apparaît.
-    - Il est cependant possible de les fusionner/superposer en faisant un clic droit sur l’axe des ordonnées (l’axe vertical à gauche), puis en sélectionnant l’option `Axe double`.
-    - On a l’impression qu’il n’y a plus qu’un seul graphique. Pour se convaincre qu’il s’agit bien d’une superposition, on peut voir que dans la section `repères` (Espace C), il y a deux champs `donnees-atelier-tableau public.csv`. En cliquant sur l’un ou sur l’autre, on peut changer la couleur et la forme de l’un des deux graphiques :
+    - Glissez-déposez à nouveau le champ `entreprises-francaises.csv` dans le champ `ligne` : un deuxième graphique, identique au premier, apparaît.
+    - Il est cependant possible de les fusionner/superposer en faisant un clic droit sur le champ que vous venez de déposer et qui apparaît en vert dans le champ `Lignes`, puis en sélectionnant l’option `Axe double`.
+    - On a l’impression qu’il n’y a plus qu’un seul graphique. Pour se convaincre qu’il s’agit bien d’une superposition, on peut voir que dans la section `repères` (Espace C), il y a deux champs `entreprises-francaises.csv`. En cliquant sur l’un ou sur l’autre, on peut changer la couleur et la forme de l’un des deux graphiques :
         - Pour faire apparaître la courbe cumulative, dans ce champ `repères`, affichez sous forme de ligne la deuxième propriété donnees-atelier-tableau public.csv
         - Toujours dans le champ `repères`, ajustez les couleurs pour bien distinguer les graphiques.
         - Pour l’instant, nous avons une courbe. Pour que celle-ci soit cumulative, il faut ajouter un `calcul de table rapide` nommé `Total cumulé` , ce qui permet d’afficher la nouvelle ligne ajoutée à l’écran d’une nouvelle manière, en donnant à voir le `total cumulé` du nombre d’entreprises créées sur la période :
@@ -153,7 +153,7 @@ Une fois tout cela sélectionné, fermez la fenêtre contextuelle dans laquelle 
 Pour rendre la visualisation plus facilement explorables, plusieurs modifications peuvent encore être réalisées. Tableau Public donne la possibilité d’afficher certaines informations de façon redondante — en couleur et en texte par exemple. Ce logiciel permet aussi d’afficher des informations supplémentaires au survol, via les infobulles précédemment mentionnées. Nous pouvons nous servir de ces options :
 
 - Pour ajouter des étiquettes aux barres, il faut aller dans la zone `repères`, cliquer sur le bloc qui correspond au graphique en histogramme, cliquer sur `étiquette`, puis choisir `afficher les étiquettes de repères`.
-- Toujours dans cette zone `repères`, se trouve le paramètre `infobulles`, qui est modifiable à la main. Lorsque vous cliquez sur ce paramètre, une fenêtre contextuelle s’ouvre, dans laquelle vous pouvez par exemple supprimer certaines informations affichées, ou bien réinitialiser ce qui doit être affiché.
+- Toujours dans cette zone `repères`, se trouve le paramètre `infobulles`, qui est modifiable à la main. Lorsque vous cliquez sur ce paramètre, une fenêtre contextuelle s’ouvre, dans laquelle vous pouvez par exemple supprimer certaines informations affichées, ou bien réinitialiser ce qui doit être affiché dans les infobulles qui apparaissent au survol des différents points du graphique.
 
 ### Créer des histogrammes restreints
 
@@ -169,7 +169,7 @@ Une fois que cet histogramme avec courbes cumulatives est créé, on peut souhai
     
     On sélectionne le champ `Categorie Entreprise` (dans la partie gauche de la fenêtre), que l’on glisse-dépose dans l’option `Couleur`, du repère de l’histogramme.
     
-    A droite, apparaît la légende qui décrit à quoi correspond chaque couleur qui s’est ajoutée à l’histogramme. 
+    A droite de la fenêtre, apparaît désormais la légende qui décrit à quoi correspond chaque couleur qui s’est ajoutée à l’histogramme. 
     
 3. Restreindre ce qui est affiché sur l’histogramme à un seul type d’entreprises.
     
@@ -184,7 +184,7 @@ Une fois que cet histogramme avec courbes cumulatives est créé, on peut souhai
     1. Réaffichez tous les types d’entreprises en les sélectionnant tous dans le filtre cliquable à droite.
     2. Supprimez la courbe cumulative qui existe déjà, en faisant un clic droit sur l’élément correspondant dans le champ `lignes`, en haut de la page, et en choisissant l’option `supprimer`.
     
-    L’idée ici est de refaire ce que nous avons fait plus tôt pour afficher la courbe cumulative du nombre d’entreprises créées, mais cette fois par type d’entreprises. Il faut donc refaire le même processus pour faire apparaître ces différentes courbes cumulatives : glisser-déposer l’élément `donnees-atelier-tableau public.csv` dans le champ lignes ; sélection de `axe double` en cliquant droit sur l’ordonnée ; transformation de l’histogramme en ligne via le champ `repères` d’un des deux histogrammes, "clic gauche" sur le triangle de l’élément dans le champ `lignes`, puis `calcul de table rapide` et `total cumulé`.
+    L’idée ici est de refaire ce que nous avons fait plus tôt pour afficher la courbe cumulative du nombre d’entreprises créées, mais cette fois par type d’entreprises. Il faut donc refaire le même processus pour faire apparaître ces différentes courbes cumulatives : glisser-déposer l’élément `entreprises-francaises.csv` dans le champ lignes ; sélectionner `axe double` en cliquant droit sur la nouvelle étiquette que vous venez de créer dans le champ `lignes` ; transformer l’histogramme en ligne via le champ `repères` d’un des deux histogrammes, "cliquer gauche" sur le triangle de l’élément dans le champ `lignes`, puis `calcul de table rapide` et `total cumulé`.
     
 5. Restreindre la période de temps affichée à l’écran, pour plus de visibilité.
     
@@ -194,8 +194,8 @@ Une fois que cet histogramme avec courbes cumulatives est créé, on peut souhai
 
 ## Pour aller plus loin
 
-- Aller jeter un oeil à [Tableau public — Public sector gallery](https://www.tableau.com/interactive-public-sector-gallery) pour trouver de l’inspiration en regardant les travaux de spécialistes de visualisation de données.
-- Utiliser Tableau Public sur d’autres jeux de données.
+- N'hésitez pas à aller jeter un oeil à [Tableau public — Public sector gallery](https://www.tableau.com/interactive-public-sector-gallery) pour trouver de l’inspiration en regardant des travaux de visualisation de données déjà réalisés par autrui et partagés sur la plateforme.
+- Utilisez Tableau Public avec vos propres jeux de données pour voir ce que vous pouvez en faire !
 
 <aside>
 
