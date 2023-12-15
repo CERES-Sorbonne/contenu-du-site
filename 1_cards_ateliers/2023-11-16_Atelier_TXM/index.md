@@ -1,5 +1,5 @@
 ---
-title: Atelier TXM le 16/11 16h-18h
+title: Atelier TXM
 author: ceres
 tags:
     - txm

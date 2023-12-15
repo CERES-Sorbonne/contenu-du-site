@@ -1,8 +1,9 @@
 ---
-title: "Cours de méthodes numériques : Collecter un corpus, appréhender un terrain"
+title: "Collecter un corpus, appréhender un terrain"
 abstract: "Cet article offre une introduction à la collecte de corpus numérisés ou en terrain numérique. Il est issu du cours de méthodes numériques proposé par Virginie Julliard, Félix Alié, Édouard Bouté et Victor Ecrement aux étudiant·es du master recherche du CELSA. Il est disponible en CC BY-SA 4.0, vous pouvez donc l'adapter en nous citant."
 author: felix
 tags:
+    - cours
     - scraping
     - collecte
     - formats de données

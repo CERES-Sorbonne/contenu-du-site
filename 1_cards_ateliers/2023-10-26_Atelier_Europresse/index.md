@@ -1,5 +1,5 @@
 ---
-title: "Atelier Europresse"
+title: Atelier Europresse
 author: ceres
 abstract: "Atelier sur l'utilisation des données d'Europresse et l'interaction avec des outils de textométrie."
 tags:

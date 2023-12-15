@@ -1,5 +1,5 @@
 ---
-title: "Atelier : Anonymisation des données"
+title: "Atelier Anonymisation des données"
 event: true
 author: ceres
 tags:

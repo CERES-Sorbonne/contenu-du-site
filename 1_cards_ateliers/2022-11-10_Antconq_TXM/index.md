@@ -1,5 +1,5 @@
 ---
-title: Atelier Antconc/TXM
+title: Atelier Textométrie
 author: ceres
 tags:
     - antconc

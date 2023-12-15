@@ -1,8 +1,9 @@
 ---
-title: "Cours : traitement automatique de langue"
+title: Le traitement automatique de langue
 author: gael
 abstract: "Gaël Lejeune met à disposition ses cours de traitement automatique de langues (TAL) sur Git."
 tags:
+    - cours
     - textométrie
 ---
 
