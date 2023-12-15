@@ -2,9 +2,9 @@
 title: Atelier TXM
 author: ceres
 tags:
+    - atelier
     - txm
     - textométrie
-    - atelier
     - analyse de textes
 event: true
 ---
