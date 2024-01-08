@@ -8,7 +8,7 @@ tags:
 event: true
 ---
 
-![](tableau-public.png)
+![](atelier_tableau_public.png)
 
 ## Informations
 
