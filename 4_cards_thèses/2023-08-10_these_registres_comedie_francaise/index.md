@@ -4,7 +4,7 @@ tags:
     - Humanités numériques
 ---
 
-![](Lettres_Maison de la recherche.jpg)
+![](these-5.png)
 
 **Candidate :** Marine Tiger
 

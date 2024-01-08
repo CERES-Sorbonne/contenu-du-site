@@ -7,8 +7,7 @@ tags:
     - épistémologie
 ---
 
-![](letters.jpg)
-
+![](these-3.png)
 **Candidat :** Julien Bezançon
 
 **Direction de la thèse :** Gaël Lejeune, Gilles Siouffi, Antoine Gautier

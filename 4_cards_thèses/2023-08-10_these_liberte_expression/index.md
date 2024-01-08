@@ -4,7 +4,7 @@ tags:
     - RSN
 ---
 
-![](Lettres_Maison de la recherche.jpg)
+![](these-4.png)
 
 **Candidate :** Adélie Laruncet
 
