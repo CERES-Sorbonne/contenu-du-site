@@ -8,7 +8,7 @@ tags:
 
 **Candidate :** Adélie Laruncet
 
-**Direction de la thèse :** Nelly Quemener (Professeure des universités en Sciences de l'information et de la communication, Sorbonne Université) et Yvette Assilaméhou-Kunz (maîtresse de conférences en Psychologie sociale, Sorbonne Nouvelle)
+**Direction de la thèse :** Nelly Quemener (CELSA/GRIPIC) et Yvette Assilaméhou-Kunz (Sorbonne Nouvelle/Irméccen)
 
 **Titre complet :** Saisir l'argument la « liberté d'expression » sur les réseaux sociaux, entre circulation et emballement : Apports croisés des méthodes numériques et de la psychologie sociale
 

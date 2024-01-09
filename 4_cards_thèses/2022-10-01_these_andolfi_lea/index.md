@@ -12,7 +12,7 @@ tags:
 
 **Candidate :** Léa Andolfi
 
-**Direction de la thèse :** Virginie Julliard et Sarah Lécossais 
+**Direction de la thèse :** Virginie Julliard (CELSA/GRIPIC) et Sarah Lécossais (Sorbonne Paris Nord/LabSIC)
 
 [**Accéder au CV**](../../membres/andolfi_lea)
 

@@ -12,7 +12,7 @@ tags:
 
 **Candidate :** Clara Bordier
 
-**Direction de la thèse :** Pascal Froissart
+**Direction de la thèse :** Pascal Froissart (CELSA/GRIPIC)
 
 [**Accéder au CV**](../../membres/bordier_clara)
 

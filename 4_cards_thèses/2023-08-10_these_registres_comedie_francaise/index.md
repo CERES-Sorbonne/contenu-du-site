@@ -8,7 +8,7 @@ tags:
 
 **Candidate :** Marine Tiger
 
-**Direction de la thèse :** Florence Naugrette (Professeure des universités en Histoire du théâtre, Sorbonne Universitéet) et Sara Harvey (Professeure associée en Lettres, Université Victoria, Canada)
+**Direction de la thèse :** Florence Naugrette (Sorbonne Université/Cellf) et Sara Harvey (Université Victoria, Canada)
 
 **Titre complet :** Édition, exploration et exploitation numériques des registres d’assemblées de la Comédie-Française (1680-1921)
 

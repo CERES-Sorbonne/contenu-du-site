@@ -12,7 +12,7 @@ author: ceres
 
 **Candidate :** Rimane Karam
 
-**Direction de la thèse :** co-dirigée par Iyas Hassan (SU) et Julien Dufour (ENS Ulm)
+**Direction de la thèse :** co-dirigée par Iyas Hassan (SU/Orient & Méditerranée) et Julien Dufour (ENS Ulm)
 
 **CV :** voir [ici](../../membres/karam_rimane)
 
