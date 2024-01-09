@@ -10,7 +10,11 @@ tags:
     - corpus
 ---
 
+![](atelier_europresse.png)
+
 Europresse est une base de données d'archivage d'articles de presse et de contenus informationnels issus du web. Son utilisation est courante dans la recherche en SHS lorsque l'on souhaite réaliser des analyses du traitement médiatique de discours de presse.
+
+![](europresse.png)
 
 ## Première version de l'atelier : Automatiser et faciliter la collecte d'un corpus sur Europresse
 
