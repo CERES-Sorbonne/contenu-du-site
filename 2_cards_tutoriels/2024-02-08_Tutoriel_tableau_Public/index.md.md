@@ -83,7 +83,7 @@ L’enjeu de ce tutoriel est de comparer, à l’aide de plusieurs visualisation
 - Pour faire apparaître le contenu du fichier CSV, appuyez sur `MAJ Auto` si l’option vous est proposée en bas à droite de l’écran. Vous pouvez alors remarquer que le fichier est bien importé. À gauche de l’écran est indiqué le lien qui vient d’être réalisé avec le fichier CSV importé, sous le titre `Connexions`.
 
 <aside>
-💡 **Attention, il ne faut pas déplacer le fichier importé dans votre ordinateur, au risque de perdre la connexion réalisée !**
+💡 Attention, il ne faut pas déplacer le fichier importé dans votre ordinateur, au risque de perdre la connexion réalisée !
 
 </aside>
 
@@ -117,12 +117,12 @@ L’enjeu de ce tutoriel est de comparer, à l’aide de plusieurs visualisation
 
 </aside>
 
-- Dès que vous avez cliqué sur `Publier`, vous êtes normalement automatiquement redirigé vers l’onglet au sein duquel nous allons désormais pouvoir créer des visualisations. Si ce n’est pas le cas, **en bas à gauche, il faut appuyer sur l’icone suivant pour créer une nouvelle feuille de calcul**, ****dans laquelle nous allons créer la visualisation. Cela peut parfois prendre quelques minutes, c’est normal.
+- Dès que vous avez cliqué sur `Publier`, vous êtes normalement automatiquement redirigé vers l’onglet au sein duquel nous allons désormais pouvoir créer des visualisations. Si ce n’est pas le cas, **en bas à gauche, il faut appuyer sur l’icone suivant pour créer une nouvelle feuille de calcul**, dans laquelle nous allons créer la visualisation. Cela peut parfois prendre quelques minutes, c’est normal.
 
 ![](66mgz6b6.bmp)
 
 <aside>
-💡 **Pour patienter, voici un descriptif de ce que contient chaque colonne conservée du CSV. Il n’est pas obligatoire de lire cette partie pour suivre ce tutoriel, cela permet simplement de détailler la manière dont le CSV avec lequel on travail a été construit :**
+💡 Pour patienter, voici un descriptif de ce que contient chaque colonne conservée du CSV. Il n’est pas obligatoire de lire cette partie pour suivre ce tutoriel, cela permet simplement de détailler la manière dont le CSV avec lequel on travail a été construit :
 
 3 colonnes sont associées aux images :
 
@@ -205,7 +205,7 @@ On a besoin de ces différentes manières de formater l’information dans le CS
 
 Nous arrivons désormais dans la fenêtre principale de *Tableau Public* où nous allons pouvoir produire des visualisations. Nous remettons ici pour illustration cette fenêtre principale avec ces différents espaces.
 
-## Partie A/ L**a diffusion dans le temps des deux groupes d’images du corpus *(Découverte des fonctionnalités principales de Tableau Public)***
+## Partie A/ La diffusion dans le temps des deux groupes d’images du corpus *(Découverte des fonctionnalités principales de Tableau Public)*
 
 ![](Untitled13.png)
 
@@ -234,7 +234,7 @@ Pour commencer, il faut choisir les données à visualiser, à gauche. **Ce qui 
 - Comment compter le nombre de fois qu’une image est partagée à une date précise ? Vous aurez peut-être remarqué lors de l’action précédente qu’en changeant la nature de l’étiquette `Tweet Creation Date 0` dans le champ `Colonnes`, celle-ci qui était `bleue` est devenue `verte` ! En fait, dans *Tableau Public*, les étiquettes peuvent avoir deux rôles : une `dimension` (représentée par du bleu) ou une `mesure` (représentée par du vert).
 
 <aside>
-💡 **Quelle est la différence entre une dimension et une mesure ?**
+💡 Quelle est la différence entre une dimension et une mesure ?
 
 La documentation de *Tableau Public* indique :
 
@@ -290,7 +290,7 @@ Pour résumer, lorsque l’étiquette `Tweet Creation Date 0` est une `dimension
 
 ![](Untitled25.png)
 
-## Partie B/ Les comptes Twitter investis dans le partage d’images ***(Rebelote et découverte des fonctionnalités d’affichage de Tableau Public)***
+## Partie B/ Les comptes Twitter investis dans le partage d’images *(Rebelote et découverte de fonctionnalités d’affichage de Tableau Public)*
 
 Dans cette partie, on souhaite produire une nouvelle visualisation. Cette fois-ci, on veut regarder qui a publié des tweets contenant les images de notre corpus. Plus précisément, on veut réussir à projeter ces données dans le temps, tout en mettant au coeur de la visualisation le nombre de followers qu’a chacun des comptes investi dans la mise en ligne des images sur la plateforme. L’idée ici est de regarder si le niveau de visibilité d’une image est lié au nombre de followers du compte qui la partage, et/ou si le moment de publication d’une image joue dans sa visibilité (plus on est dans les premiers à publier une image, plus c’est notre tweet qui aura de la visibilité ?). Le résultat à obtenir ressemble à cela : 
 
@@ -349,7 +349,7 @@ Dans cette partie, on souhaite produire une nouvelle visualisation. Cette fois-c
     - Dans un cas (boyard 2), c’est le “haut” de l’espace public qui partage les images dans un premier temps. C’est l’inverse dans l’autre cas (Rodrigues-visage).
     - Dans un cas, l’ensemble de la visibilité des images du groupe semblent dues aux tweets du “haut” de l’espace public (boyard 2). Dans l’autre, cela semble moins évident, quelques plus petits comptes ayant un cercle d’une plus importante taille. **On va approfondir cette constatation dans la troisième et dernière partie de ce tutoriel en produisant une autre visualisation, focalisée sur le taux de partage de chaque tweet.**
 
-## Partie C/ Les publications les plus partagées en fonction du nombre de followers ***(fonctionnalités plus avancées de Tableau Public)***
+## Partie C/ Les publications les plus partagées en fonction du nombre de followers *(fonctionnalités plus avancées de Tableau Public)*
 
 Dans cette troisième partie, on cherche à observer à quel point chacun des tweets ont été partagés. On veut comparer le taux de partage avec le nombre de followers de chaque compte. Le résultat à obtenir ressemble à cela : 
 
@@ -387,8 +387,8 @@ Dans cette troisième partie, on cherche à observer à quel point chacun des tw
 
 - On voudrait que les histogrammes empilés prennent tout l’écran, par soucis de clarté. *Tableau Public* propose plusieurs options pour la taille de la 
 visualisation. Ici, on préférera une `Vue entière` pour voir toutes les données dans la fenêtre. Pour ajuster cela, il faut cliquer dans boutons en haut de l’écran sur celui qui ressemble à un rectangle entouré par deux traits, et choisis `Vue entière` :
-    
-    ![k07v17w0.bmp](k07v17w0.bmp)
+
+![](k07v17w0.bmp)
     
 - On ajuste ensuite la taille des histogrammes en cliquant, sous `Repères` dans `Taille` et en choisissant 99% (afin de laisser un léger blanc entre chaque histogramme).
 
@@ -414,7 +414,7 @@ visualisation. Ici, on préférera une `Vue entière` pour voir toutes les donn�
     - Glissez-déposez `Followers 0` (qui correspond aux followers des comptes qui retweetent/citent) sur `Infobulles` dans `Etiquette`. Modifiez la `Somme` en `Maximum`, puisqu’on ne veut que la valeur la plus importante.
 - On peut désormais consulter les `infobulles` pour recueillir ces informations. Il aurait été pertinent de récupérer le nom du follower associé au nombre de followers, pour savoir quel compte important a retweeté ou cité le tweet, malheureusement *Tableau Public* ne permet pas de faire ce type d’association (que l’on peut en revanche faire avec des formules *Excel*). La visualisation est terminée.
 
-## Partie D/ Le tableau de bord pour afficher plusieurs feuilles de visualisation ***(fonctionnalités plus avancées de Tableau Public)***
+## Partie D/ Le tableau de bord pour afficher plusieurs feuilles de visualisation *(fonctionnalités plus avancées de Tableau Public)*
 
 Pour terminer, créons un `Tableau de bord`. Le tableau de bord est utile pour projeter dans un même espace plusieurs feuilles de visualisations, et ainsi comparer différentes visualisations/analyser à partir de différentes manières de projeter les données. Pour créer cet espace, il faut cliquer en bas à gauche sur l’icone suivant : 
 
