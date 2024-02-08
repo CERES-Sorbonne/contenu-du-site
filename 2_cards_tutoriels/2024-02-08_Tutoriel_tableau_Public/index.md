@@ -30,7 +30,7 @@ Tableau public nécessite donc un temps d’apprentissage plus long que la plupa
 
 Ce logiciel sera très utile aux chercheur·euses en sciences humaines et sociales qui souhaitent visualiser et explorer des données complexes.
 
-![](5qh379ji.png)
+![](5qh379ji.bmp)
 
 # Mise en place
 
