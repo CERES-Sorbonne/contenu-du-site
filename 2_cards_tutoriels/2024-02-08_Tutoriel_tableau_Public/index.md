@@ -30,7 +30,7 @@ Tableau public nécessite donc un temps d’apprentissage plus long que la plupa
 
 Ce logiciel sera très utile aux chercheur·euses en sciences humaines et sociales qui souhaitent visualiser et explorer des données complexes.
 
-![](5qh379ji.bmp)
+![](5qh379ji.png)
 
 # Mise en place
 
@@ -145,31 +145,34 @@ Les informations qui suivent sont associées au tweets également. Cependant, el
 
 - *Status* : l’information présente dans cette colonne indique le type de tweet récolté :
     - **o / o-@** : il s’agit d’un tweet simple contenant une image. “o” est un indicatif personnel pour “original”. Le “@” indique que le premier élément de texte du tweet est une mention d’un compte. Voir par exemple : [https://twitter.com/i/web/status/1091759134041690113](https://twitter.com/i/web/status/1091759134041690113)
-    <details markdown='1'><summary>Toggle</summary>
-    ![](Untitled7.png)
-    <br/>
-    <img src="Untitled7.png"/>
-    </details> 
+        <details markdown='1'><summary>Cliquez pour voir l'image</summary>
+        <img src="Untitled7.png"/>
+        </details> 
 
     - **RT** : il s’agit d’un *retweet*. Le tweet d’origine est ici repartagé par quelqu’un d’autre tel quel, sans aucun ajout de texte. Voir : [https://twitter.com/i/web/status/1091809245996158976](https://twitter.com/i/web/status/1091809245996158976)
-        
-        ![](Untitled8.png)
+        <details markdown='1'><summary>Toggle</summary>
+        <img src="Untitled8.png"/>
+        </details> 
         
     - **Q-SI** : l’image se trouve dans un tweet qui est cité. A la différence d’un retweet, la personne qui cite ajoute du texte dans son partage du tweet d’origine. L’indication Q-SI que je propose signifie *Quote - Sans Image* : l’image n’est pas dans la citation, mais dans le tweet qui est cité). Voir : [https://twitter.com/i/web/status/1091761109411999750](https://twitter.com/i/web/status/1091761109411999750)
-        
-        ![](Untitled9.png)
+        <details markdown='1'><summary>Toggle</summary>
+        <img src="Untitled9.png"/>
+        </details> 
         
     - **Q-RT-SI** : il s’agit du retweet d’un Q-SI. Cette circulation implique forcément trois personnes. Dans l’exemple, le *PCF* qui a publié un premier tweet (pour annoncer ce qui est arrivé à Louis Boyard), qui s’est lui-même cité (pour dénoncer l’usage des LBD), ce qui a été retweeté par le *PCF Vienne*. Voir : [https://twitter.com/i/web/status/1091753626282934272](https://twitter.com/i/web/status/1091753626282934272)
-        
-        ![](Untitled10.png)
+        <details markdown='1'><summary>Cliquez pour voir l'image</summary>
+        <img src="Untitled10.png"/>
+        </details> 
         
     - **Q** : L’image se trouve cette fois directement dans la citation qui est faite du tweet. (dans le seul exemple du corpus étudié, le tweet qui est cité a malheureusement été supprimé : “ce post n’est pas disponible” ; mais la citation avec l’image est toujours présente). Voir : [https://twitter.com/i/web/status/1089212160985706498](https://twitter.com/i/web/status/1089212160985706498)
-        
-        ![](Untitled11.png)
+        <details markdown='1'><summary>Cliquez pour voir l'image</summary>
+        <img src="Untitled11.png"/>
+        </details> 
         
     - **Q-RT** : il s’agit d’un retweet de citation où l’image de référence se situe directement dans la citation. L’image de référence est celle de Louis Boyard partagée par l’*AFP* avec le pied entouré d’un cercle rouge (et non pas celle partagée par *Pierre Tremblay*). Trois personnes sont à nouveau impliquées dans la circulation ici : le tweet d’origine par *Pierre Tremblay*, la citation par l’*AFP Factuel*, le retweet par *Katia Auger*. [https://twitter.com/i/web/status/1092192035241689088](https://twitter.com/i/web/status/1092192035241689088)
-        
-        ![](Untitled12.png)
+        <details markdown='1'><summary>Cliquez pour voir l'image</summary>
+        <img src="Untitled12.png"/>
+        </details> 
         
     - **rep / thread** : *rep* (”réponse”) ou *thread* (”fil”) indique que le tweet contenant l’image est posé en réponse à un tweet précédent, d’une autre personne (dans le cas de *rep*), d’un de ses propres tweets (dans le cas de *thread*).
         
