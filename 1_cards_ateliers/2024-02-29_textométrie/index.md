@@ -1,5 +1,5 @@
 ---
-title: Ateliers Textométrie
+title: Ateliers Textométrie : 29/02 Sketch Engin : 29/02 Sketch Engine
 author: ceres
 tags:
     - atelier 
@@ -17,9 +17,9 @@ Le prochain atelier dédié à la textométrie aura lieu le jeudi 29/02/2024 de 
 
 </aside>
 
-## TXM et Antconq
+## TXM et Antconc
 
-Les deux outils TXM et Antconq ont fait l'objet de plusieurs ateliers proposés par le CERES, les 21 octobre 2021, 10 novembre 2022 et 26 novembre 2023.
+Les deux outils TXM et Antconc ont fait l'objet de plusieurs ateliers proposés par le CERES, les 21 octobre 2021, 10 novembre 2022 et 26 novembre 2023.
 
 ### Description des enjeux de ces ateliers :
 
@@ -46,4 +46,4 @@ Un atelier a été proposé le 9 février 2023 par Julien Bezançon et Fatou Sow
 
 Sketch Engine est un outil en ligne qui permet de faire des requêtes dans des corpus textuels en près de 100 langues différentes. Si les fonctionnalités de Sketch Engine sont globalement équivalentes à celles d'outils de textométrie comme TXM ou Hyperbase, la disponibilité immédiate de nombreux corpus constituent le gros point fort de l'outil. Il est à noter que Sketch Engine est un outil qui nécessite une licence (payante au bout de 30 jours).
 
-un atelier a été proposé et animé par Antoine Gautier (STIH) le 29/02/2024.
+Un atelier animé par Antoine Gautier (STIH) a lieu le 29/02/2024.
