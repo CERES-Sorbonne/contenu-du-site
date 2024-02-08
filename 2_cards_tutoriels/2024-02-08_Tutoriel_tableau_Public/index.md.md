@@ -1,5 +1,5 @@
 ---
-title: "Atelier Tableau Public : cas d’étude de la circulation des images en ligne"
+title: "Atelier Tableau Public : visualiser la circulation des images en ligne"
 author: edouard
 tags:
     - tutoriel
@@ -13,7 +13,7 @@ tags:
 # Atelier Tableau Public : cas d’étude de la circulation des images en ligne
 
 <aside>
-💡 Il est à noter que ce tutoriel propose de reproduire des résultats de recherche partagés lors du congrès de la SFSIC en 2023. Voir [Bouté E. (2023). « Militantisme transplateforme : la répression policière des Gilets jaunes entre Facebook et Twitter », *XXIIIème Congrès de la Sfsic : la numérisation des sociétés*. Bordeaux. 14-15-16 juin 2023.](Boute_Edouard_-_texte_SFSIC_2023.pdf)[Boute Edouard - texte SFSIC 2023.pdf]
+💡 Il est à noter que ce tutoriel propose de reproduire des résultats de recherche partagés lors du congrès de la SFSIC en 2023. Voir [Bouté E. (2023). « Militantisme transplateforme : la répression policière des Gilets jaunes entre Facebook et Twitter », *XXIIIème Congrès de la Sfsic : la numérisation des sociétés*. Bordeaux. 14-15-16 juin 2023](Boute_Edouard_-_texte_SFSIC_2023.pdf)
 
 </aside>
 
@@ -24,7 +24,7 @@ tags:
 
 # Description de Tableau Public
 
-[](https://public.tableau.com/app/)* est un logiciel en ligne gratuit qui permet de créer des visualisations interactives, hautement personnalisables et accessibles en ligne. Sa particularité est que les visualisations ne sont pas construites selon des diagrammes standards, mais de manière modulaire, ce qui permet de tester différentes manières de représenter et spatialiser les données et/ou métadonnées.
+*[Tableau Public](https://public.tableau.com/app/)* est un logiciel en ligne gratuit qui permet de créer des visualisations interactives, hautement personnalisables et accessibles en ligne. Sa particularité est que les visualisations ne sont pas construites selon des diagrammes standards, mais de manière modulaire, ce qui permet de tester différentes manières de représenter et spatialiser les données et/ou métadonnées.
 
 Tableau public nécessite donc un temps d’apprentissage plus long que la plupart des autres logiciels de visualisation, mais offre plus de flexibilité, en intégrant par exemple des fonctions de traitement de données (recherche d’occurrences, concaténation, catégorisation automatique). Il est particulièrement intéressant d’utiliser ce logiciel pour construire des interfaces d’exploration de corpus ou de bases de données.
 
@@ -43,12 +43,9 @@ Créer un compte *Tableau Public* en vous rendant sur [*Tableau Public*](http://
 ![](w28qzh9k.bmp)
 
 - **A - Espace Données :** c’est ici que sont listés tous les champs qui composent le jeu de données importé dans le logiciel (l’ensemble du contenu des colonnes d’un fichier CSV par exemple). Chaque champ possède un logo décrivant son type de données (nombre, texte, date) et porte le nom de l’en-tête de chaque colonne du fichier importé. Les champs en bleu sont ceux présents directement dans le jeu de données. Les champs en vert sont des champs calculés par tableau public. Certains champs sont pré-calculés, d’autres peuvent être calculés par vos soins au cours de l’utilisation du logiciel (moyennes, sommes, nombre de données identiques…).
-- **B - Espace Filtres :** ici sont affichés tous les filtres appliquées aux données projetées dan l’espace F, selon les éléments déposés dans les champs D. C’est ici que l’on peut décider
-d’exclure certaines valeurs de notre visualisation (dans l’exemple ci-dessus, on voit que les données sont projetées entre des bornes temporelles allant de 1950 à 2023, mais le fichier importé contient des dates s’étendant au-delà de ces bornes : celles-ci ont été effacées de
-la visualisation proposée via l’opération de filtrage).
+- **B - Espace Filtres :** ici sont affichés tous les filtres appliquées aux données projetées dan l’espace F, selon les éléments déposés dans les champs D. C’est ici que l’on peut décider d’exclure certaines valeurs de notre visualisation (dans l’exemple ci-dessus, on voit que les données sont projetées entre des bornes temporelles allant de 1950 à 2023, mais le fichier importé contient des dates s’étendant au-delà de ces bornes : celles-ci ont été effacées de la visualisation proposée via l’opération de filtrage).
 - **C - Espace Repères :** c’est ici que l’on personnalise l’aspect de la visualisation, le type de visualisation, le choix des couleurs, de la taille des éléments, etc. On peut modifier ces attributs globalement (en sélectionnant l’onglet `Tout`) ou bien localement (n°1 ou n°2 sur l’image ci-dessus).
-- **D - Espace Lignes et Colonnes :** c’est ici que l’on choisit, à partir de l’ensemble de données importées et affichées dans l’espace A, quelles données on souhaite afficher sur la visualisation.
-Les champs que l’on fait glisser dans la partie `Colonnes` sont projetées en abscisses (l’axe horizontal). Les données mises dans la partie `lignes` sont projetées en ordonnées (l’axe vertical).
+- **D - Espace Lignes et Colonnes :** c’est ici que l’on choisit, à partir de l’ensemble de données importées et affichées dans l’espace A, quelles données on souhaite afficher sur la visualisation. Les champs que l’on fait glisser dans la partie `Colonnes` sont projetées en abscisses (l’axe horizontal). Les données mises dans la partie `lignes` sont projetées en ordonnées (l’axe vertical).
 - **E - Espace Onglets :** tout à gauche de cet espace se trouve l’ongle `Source de données`, où sont gérées les données importées. Les autres onglets vous permettent de naviguer entre les différentes visualisations que vous créez (car à partir d’un même jeu de données, vous pouvez multiplier les visualisations). Les trois onglets les plus à droite vous permettent de créer de nouvelles feuilles de visualisation.
 - **F - Espace Visualisation :** il s’agit de l’espace principal, où s’affiche la visualisation présente dans l’onglet sélectionné. Les visualisations créées sont entièrement interactives. En survolant ou en cliquant sur le graphique créé, il est possible d’afficher des informations contextuels, de déclencher des actions, ou encore d’ajouter des filtres de façon dynamique (en faisant un clic droit sur des valeurs affichées sur le graphique par exemple).
 - **G - Espace Légendes et Filtres cliquables :** cet espace est `optionnel` et ne s’affiche pas par défaut. Il s’y affiche les légendes lorsque, par exemple, des groupements par couleurs sont effectués, comme dans l’exemple présent à l’image. C’est également ici que peuvent être affichés des filtres dynamiques – une fois ceux-ci choisis dans la section B – qui permettent de changer rapidement ce qui est affiché à l’écran dans l’espace F.
@@ -65,7 +62,7 @@ Il s’agit d’un fichier CSV qui contient 6187 lignes (dont une première lign
     
 - Le groupe “Rodrigues-visage” (qui contient 121 images) ;
     
-    ![](Untitled%201.png)
+    ![](Untitled1.png)
     
 
 Après avoir été regroupées ensemble, ces images similaires ont été réassociées à un certain nombre de métadonnées des tweets (auteur, date…) dans lesquelles elles avaient été partagées (leur contexte de circulation). Une même image pouvant évidemment être partagée à plusieurs reprises, nous avons donc un total de 6186 tweets associés à ces 140 images (2338 pour le groupe “boyard 2”, 3848 pour le groupe “Rodrigues-visage”). Le résultat de cette association entre groupes d’images et métadonnées de tweets est contenu dans le CSV suivant, que vous pouvez télécharger pour réaliser le tutoriel :
@@ -90,14 +87,14 @@ L’enjeu de ce tutoriel est de comparer, à l’aide de plusieurs visualisation
 
 </aside>
 
-![](Untitled%202.png)
+![](Untitled2.png)
 
 - En bas à gauche, on retrouve l’ensemble des entêtes du fichier CSV d’origine avec le `nom du champ` indiqué dans le CSV, ainsi que le `type` des valeurs inscrite dans chaque colonne (texte, nombres, dates…). Les autres informations ne nous intéressent pas ici.
 - Dans la partie en bas à droite de l’écran, toutes les données présentes dans le fichier CSV sont affichées sous la forme d’un tableau. Vous pouvez parcourir les données dans cette zone. Certaines colonnes ne sont pas utiles pour le présent travail : `Tags descriptifs(multi tags)`, `HS(checkbox)`, `Sha1` (attention, pas `Sha1[string]` qu’il faut garder), `Folder Img Id`, `Img Steak Id`, `Location`, `Lang`, `Tweet Creation Timestamp 0`, `location1`, `lang1`, `location2`, `lang2`.  Ainsi, pour simplifier la lecture et le parcours des données, **on va masquer ces données qui ne nous intéressent pas.** Pour masquer un champ, il faut cliquer sur le petit triangle qui apparaît en haut à droite de chaque colonne du tableau lorsque vous les survolez avec la souris (ou bien faire un clic droit), puis choisir `masquer`. Il reste bien sûr possible de réafficher des champs masqués en cliquant sur la roue de paramètres située à droite du tableau puis en demandant d’`afficher les champs masqués`.
 
-![](Untitled%203.png)
+![](Untitled3.png)
 
-![](Untitled%204.png)
+![](Untitled4.png)
 
 - Il peut aussi être intéressant de renommer certains champs pour leur donner plus de sens. De la même manière que pour le masquage, en affichant les propriétés d’une colonne, on peut choisir l’option `Renommer`. Ici on va renommer les champs suivants :
     - `Key` en `Nom de l’image`
@@ -105,7 +102,7 @@ L’enjeu de ce tutoriel est de comparer, à l’aide de plusieurs visualisation
     - `nom dossier H(multi tags)` : `Groupe d’images`
 - Une fois les champs non intéressants pour le tutoriel masqués et certains champs renommés, nous allons dans un premier temps sauvegarder le travail en cliquant en haut à droite sur `Publier sous…`. Au bout de quelques secondes, une fenêtre contextuelle apparaît dans laquelle on peut nommer son projet. Il faut cliquer sur `Publier` pour terminer.
     
-    ![](Untitled%205.png)
+    ![](Untitled5.png)
     
 
 <aside>
@@ -116,7 +113,7 @@ L’enjeu de ce tutoriel est de comparer, à l’aide de plusieurs visualisation
 <aside>
 💡 Attention, il faut noter qu’une fois publié (ce qui est nécessaire pour enregistrer), votre travail est rendu public. Il est possible de masquer les visualisations produites en vous rendant sur votre profil, puis sous l’onglet `Visualisations` cliquer sur les trois points `…` et désélectionner `Afficher la visualisation dans le profil`. Le projet se mettra automatiquement sous l’onglet `Masqué` de votre profil après avoir réalisé cette action.
 
-![](Untitled%206.png)
+![](Untitled6.png)
 
 </aside>
 
@@ -149,27 +146,27 @@ Les informations qui suivent sont associées au tweets également. Cependant, el
 - *Status* : l’information présente dans cette colonne indique le type de tweet récolté :
     - **o / o-@** : il s’agit d’un tweet simple contenant une image. “o” est un indicatif personnel pour “original”. Le “@” indique que le premier élément de texte du tweet est une mention d’un compte. Voir par exemple : [https://twitter.com/i/web/status/1091759134041690113](https://twitter.com/i/web/status/1091759134041690113)
         
-        ![](Untitled%207.png)
+        ![](Untitled7.png)
         
     - **RT** : il s’agit d’un *retweet*. Le tweet d’origine est ici repartagé par quelqu’un d’autre tel quel, sans aucun ajout de texte. Voir : [https://twitter.com/i/web/status/1091809245996158976](https://twitter.com/i/web/status/1091809245996158976)
         
-        ![](Untitled%208.png)
+        ![](Untitled8.png)
         
     - **Q-SI** : l’image se trouve dans un tweet qui est cité. A la différence d’un retweet, la personne qui cite ajoute du texte dans son partage du tweet d’origine. L’indication Q-SI que je propose signifie *Quote - Sans Image* : l’image n’est pas dans la citation, mais dans le tweet qui est cité). Voir : [https://twitter.com/i/web/status/1091761109411999750](https://twitter.com/i/web/status/1091761109411999750)
         
-        ![](Untitled%209.png)
+        ![](Untitled9.png)
         
     - **Q-RT-SI** : il s’agit du retweet d’un Q-SI. Cette circulation implique forcément trois personnes. Dans l’exemple, le *PCF* qui a publié un premier tweet (pour annoncer ce qui est arrivé à Louis Boyard), qui s’est lui-même cité (pour dénoncer l’usage des LBD), ce qui a été retweeté par le *PCF Vienne*. Voir : [https://twitter.com/i/web/status/1091753626282934272](https://twitter.com/i/web/status/1091753626282934272)
         
-        ![](Untitled%2010.png)
+        ![](Untitled10.png)
         
     - **Q** : L’image se trouve cette fois directement dans la citation qui est faite du tweet. (dans le seul exemple du corpus étudié, le tweet qui est cité a malheureusement été supprimé : “ce post n’est pas disponible” ; mais la citation avec l’image est toujours présente). Voir : [https://twitter.com/i/web/status/1089212160985706498](https://twitter.com/i/web/status/1089212160985706498)
         
-        ![](Untitled%2011.png)
+        ![](Untitled11.png)
         
     - **Q-RT** : il s’agit d’un retweet de citation où l’image de référence se situe directement dans la citation. L’image de référence est celle de Louis Boyard partagée par l’*AFP* avec le pied entouré d’un cercle rouge (et non pas celle partagée par *Pierre Tremblay*). Trois personnes sont à nouveau impliquées dans la circulation ici : le tweet d’origine par *Pierre Tremblay*, la citation par l’*AFP Factuel*, le retweet par *Katia Auger*. [https://twitter.com/i/web/status/1092192035241689088](https://twitter.com/i/web/status/1092192035241689088)
         
-        ![](Untitled%2012.png)
+        ![](Untitled12.png)
         
     - **rep / thread** : *rep* (”réponse”) ou *thread* (”fil”) indique que le tweet contenant l’image est posé en réponse à un tweet précédent, d’une autre personne (dans le cas de *rep*), d’un de ses propres tweets (dans le cas de *thread*).
         
@@ -210,7 +207,7 @@ Nous arrivons désormais dans la fenêtre principale de *Tableau Public* où nou
 
 ## Partie A/ L**a diffusion dans le temps des deux groupes d’images du corpus *(Découverte des fonctionnalités principales de Tableau Public)***
 
-![](Untitled%2013.png)
+![](Untitled13.png)
 
 ### 1/ Choisir les données à visualiser
 
@@ -218,21 +215,21 @@ Pour commencer, il faut choisir les données à visualiser, à gauche. **Ce qui 
 
 - On commence donc par glisser-déposer les `étiquettes` à visualiser depuis la zone située à gauche de l’écran `Données/Tables` vers les champs `Colonnes` ou `Lignes` (en haut au milieu) : ici, dans les deux champs, on glisse-dépose l’étiquette `Tweet Creation Date 0` qui contient toutes les dates où les images ont été partagées. Quelque chose apparaît dans la zone de l’écran prévue pour l’affichage de la visualisation :
 
-![](Untitled%2014.png)
+![](Untitled14.png)
 
 ### 2/ Donner forme aux données à visualiser
 
 - Toutefois, ce qui s’affiche n’est pas encore vraiment ce que l’on recherche. Deux constatations. D’abord, il y a un bug avec l’affichage de “`valeur null`" : cela signifie qu’une valeur n’est pas indiquée correctement dans le CSV importé : on va pouvoir la supprimer directement dans *Tableau Public*, en cliquant droit sur `valeur null` et en sélectionnant `Exclure`. Cela ne la supprime pas, mais crée un filtre qui la rend invisible. Ce filtre vient d’apparaître juste à gauche de ce tableau, dans la zone `Filtres`.
     
-    ![](Untitled%2015.png)
+    ![](Untitled15.png)
     
 - Deuxième constatation : les dates ne s’affichent pas de la meilleure des manières manières : il est simplement affiché l’année `2019` dans la zone de visualisation. En fait, lorsque l’on a glissé-déposé l’étiquette `Tweet Creation Date 0` dans les zones `Colonnes` et `Lignes`, l’étiquette a été automatiquement renommée `ANNEE(Tweet Creation Data 0)`. *Tableau Public* a automatiquement fait une proposition d’affichage des dates en années. Mais, on peut changer la manière de représenter les données en cliquant sur le petit triangle qui apparaît lorsque l’on survole `ANNEE(Tweet Creation Data 0)` dans le champ `Colonnes` : Trimestre, mois, jour, heure… Ici, on va choisir l’option `Jour` **(attention : choisir le bon `Jour`, il y en a deux)**.
     
-    ![](Untitled%2016.png)
+    ![](Untitled16.png)
     
 - Il y a du mieux. Cependant nous n’avons d’informations très intéressantes qui apparaissent, mais simplement un indicatif à chaque fois qu’il existe une donnée à une date.
     
-    ![](Untitled%2017.png)
+    ![](Untitled17.png)
     
 - Comment compter le nombre de fois qu’une image est partagée à une date précise ? Vous aurez peut-être remarqué lors de l’action précédente qu’en changeant la nature de l’étiquette `Tweet Creation Date 0` dans le champ `Colonnes`, celle-ci qui était `bleue` est devenue `verte` ! En fait, dans *Tableau Public*, les étiquettes peuvent avoir deux rôles : une `dimension` (représentée par du bleu) ou une `mesure` (représentée par du vert).
 
@@ -258,15 +255,15 @@ Pour résumer, lorsque l’étiquette `Tweet Creation Date 0` est une `dimension
 
 - Pour compter le nombre de fois que chaque date apparaît dans le corpus, il faut donc transformer la `dimension` en `mesure`. Il suffit de cliquer sur `ANNEE(Tweet Creation Data 0)` dans le champ `Lignes` et d’aller sous `Mesure`. Plusieurs options sont sélectionnables : on choisit `Total`. Une courbe s’affiche.
 
-![](Untitled%2018.png)
+![](Untitled18.png)
 
-![](Untitled%2019.png)
+![](Untitled19.png)
 
 - Afin de transformer cette courbe en `histogrammes empilés`, plus adaptés à la représentation de telles données, on se rend dans la zone `Repères` située à gauche de la courbe. Dans cette zone, on peut effectuer plusieurs modifications : `Couleur`, `Taille`, `Etiquette`... Pour modifier ces éléments, on peut à nouveau glisser-déposer des étiquettes de la zone `Données/Tables` située à gauche de l’écran, sur l’une des options proposées. Trois actions sont à réaliser : 1/ Changer la courbe et histogramme (en cliquant sur le petit à côté de `Automatique` et en choisissant `Barre`, 2/ Glisser-déposer l’étiquette `Groupe d'images` sur l’option `Couleur`, 3/ Fixer la `Taille` sur `75%`. Cela permet d’obtenir un résultat satisfaisant. Vous remarquerez au passage qu’une `légende` est apparue à la droite de l’écran pour décrire ce que représentent les deux couleurs attribuées.
 
-![](Untitled%2020.png)
+![](Untitled20.png)
 
-![](Untitled%2021.png)
+![](Untitled21.png)
 
 - On sait désormais combien d’images ont été partagées chaque jour. On voudrait avoir une vue plus globale en affichant le `total cumulé` d’images que cela représente. Comment faire ?
     - Ajoutez à nouveau `Tweet Creation Date 0` dans le champ `Lignes`.
@@ -279,25 +276,25 @@ Pour résumer, lorsque l’étiquette `Tweet Creation Date 0` est une `dimension
         
     - Ajoutez des informations concernant cette courbe. Rendez-vous dans `Repères`, puis dans les repères de `CPT(Tweet Creation...Δ`, cliquez sur `Etiquette` et cochez `Afficher les étiquettes de repère`. Des pourcentages s’affichent à chaque date où il y a une évolution.
         
-        ![](Untitled%2022.png)
+        ![](Untitled22.png)
         
     - Donnez une couleur à la courbe et ajoutez-là à la légende. Depuis la zone `Données/Tables`, glissez-déposez l’étiquette `Noms de mesures` dans `Couleurs` (sous `Repères`, dans les repères de `CPT(Tweet Creation...Δ`). Cliquez ensuite sur ce même `Couleur` et choisissez `Modifier les couleurs`. Quand vous cliquez sur le seul élément qui apparaît à l’écran, définissez comme couleur personnalisée le rouge (code à indiquer : ff2d00). Fermez cette fenêtre. La légende est bien apparue à la droite de l’écran.
 
-![](Untitled%2023.png)
+![](Untitled23.png)
 
 - On voudrait réaliser une dernière action sur cette feuille de calcul. Comme on peut le constater, des images des deux groupes ont re-circulé, très peu intensément, après le 7 février. Ces éléments ne nous intéressent pas forcément, on peut donc les `filtrer`. Pour ce faire, on clique-droit sur l’étiquette `JOUR(Tweet Creation Data 0)` dans le champ `Colonnes` et on sélectionne `Afficher le filtre`, qui apparaît désormais à droite. On peut glisser le filtre de fin vers la gauche jusqu’au 7 février 2019.
     
-    ![](Untitled%2024.png)
+    ![](Untitled24.png)
     
 - Constatez-vous quelque chose qui a changé dans ce qui est affiché, après avoir filtrées les données les plus récentes ? Et oui, les pourcentages se sont mis à jour ! Seules les données affichées sont prises en compte pour les calculs.
 
-![](Untitled%2025.png)
+![](Untitled25.png)
 
 ## Partie B/ Les comptes Twitter investis dans le partage d’images ***(Rebelote et découverte des fonctionnalités d’affichage de Tableau Public)***
 
 Dans cette partie, on souhaite produire une nouvelle visualisation. Cette fois-ci, on veut regarder qui a publié des tweets contenant les images de notre corpus. Plus précisément, on veut réussir à projeter ces données dans le temps, tout en mettant au coeur de la visualisation le nombre de followers qu’a chacun des comptes investi dans la mise en ligne des images sur la plateforme. L’idée ici est de regarder si le niveau de visibilité d’une image est lié au nombre de followers du compte qui la partage, et/ou si le moment de publication d’une image joue dans sa visibilité (plus on est dans les premiers à publier une image, plus c’est notre tweet qui aura de la visibilité ?). Le résultat à obtenir ressemble à cela : 
 
-![](Untitled%2026.png)
+![](Untitled26.png)
 
 **On doit retrouver dans la visualisation :**
 
@@ -319,30 +316,30 @@ Dans cette partie, on souhaite produire une nouvelle visualisation. Cette fois-c
 - Glissez-déposez l’étiquette `folowers PO` dans le champ `Lignes` en haut au milieu. Automatiquement, *Tableau Public* décide de projeter cette information en faisant un `somme`. Pourquoi ? En fait, dans le CSV, si une personne a été retweeté 100 fois, son nombre de followers apparaîtra 100 fois également. *Tableau Public* propose une solution pour gérer les multiples apparitions de cette valeur qui n’est pas la bonne. Il faut donc modifier la manière de représenter cette donnée, en cliquant droit dessus, de sélectionner `Mesure` puis `Moyenne`.
 - Définissez la manière de donner à voir ce que vous projetez en allant dans la zone du milieu `Repères`, puis en cliquant sur `Automatique` et en sélectionnant `Cercle` à la place. Chaque point représente un tweet original publié par un membre de la plateforme X qui a partagé l’une des images du corpus.
 
-![](Untitled%2027.png)
+![](Untitled27.png)
 
 - Créez un premier filtre pour ne voir que les tweets associés à un seul groupe d’images à la fois. Pour ce faire, glissez-déposez depuis la zone `Données/Tables` l’étiquette `Groupe d'images` dans la zone du milieu sous `Filtres`. Faites `OK` dans la fenêtre qui s’ouvre. Puis, cliquez droit sur ce filtre au milieu et sélectionnez `Afficher le filtre`. Le filtre apparaît alors à droite. Dans cette zone, il est modifiable. On va changer le type de filtre en faisant un clic droit dessus et en sélectionnant `Valeur unique (liste)`. Au choix, on peut désormais afficher le groupe d’images “boyard 2” ou “Rodrigues-visage”.
 
-![](Untitled%2028.png)
+![](Untitled28.png)
 
-![](Untitled%2029.png)
+![](Untitled29.png)
 
 - Clarifions maintenant ce qui s’affiche au centre de l’écran. Faites apparaître le nom du compte qui a publié le tweet affiché à l’écran en faisant glisser l’étiquette `user name PO` depuis la zone `Données/Tables` vers la zone `Repères`, sur `Etiquette` :
 
-![](Untitled%2030.png)
+![](Untitled30.png)
 
 - Définissez la taille des points en fonction du nombre de repartage de chacun des tweets. Pour ce faire, glissez-déposez depuis `Données/Tables` `tweet creation date PO` vers `Repères` dans le carré `Taille`. Une fois que vous avez réalisé cette action, une étiquette nommée `tweet creation date PO` apparaît dans cette zone `Repères`. Faites un clic droit sur cette étiquette, choisissez `Mesure` puis `Total`. Cela permet de compter et d’afficher le nombre total de fois que chaque tweet original a été retweeté ou cité. Enfin, grossissez légèrement les différents points affichés en cliquant sur `Taille` dans `Repères` et en fixant la valeur sur `35%`.
 
-![](Untitled%2031.png)
+![](Untitled31.png)
 
 - On ne voit pas grand chose, car l’écart du nombre de followers entre Jean-Luc Mélenchon, tout en haut avec près de 2 millions de followers, et ceux des autres, plus de 10x inférieurs, rend illisible tout ce qui se passe en bas de la visualisation. On va donc changer l’échelle d’affichage pour préférer une échelle logarithmique en base 10, qui a l’avantage d’échelonner les valeurs en mettant la même distance entre 1 et 10, 10 et 100, 100 et 1 000… 100 000 et 1 000 000, etc. Cela permet de clarifier la visualisation lorsque les écarts de valeurs sont si grands. Pour ce faire, faites un clic droit sur l’ordonnée, puis `Modifier l'axe...`. Dans la fenêtre qui apparaît, sous `Echelle`, choisissez `Logarithmique`, puis fermez cette fenêtre. La projection est déjà plus claire.
 
-![](Untitled%2032.png)
+![](Untitled32.png)
 
 - Faites également apparaître l’heure de publication du tweet. Afficher cette information est redondant, car la projection des données est déjà temporelle. Cependant, certaines données étant très rapprochées, cela permet de mieux voir l’ordre des publications. Cette fois, on va récupérer l’étiquette dans le champ `Colonnes` (car on veut la valeur calculée selon sa date exacte). **Attention**, si l’on glisse depuis Colonnes `tweet creation date PO`, cela va déplacer/supprimer cette étiquette. Il faut donc **glisser-déposer tout en maintenant la touche `ctrl`** (sous Windows/Linux) ou `cmd` (sous mac) depuis `Colonnes` vers `Etiquette`.
 - Toujours dans cette optique de bien clarifier l’ordre de publication des tweets, on va désormais attribuer une couleur à chacun des cercles, en fonction de l’heure de publication, et afficher la légende en triant bien l’ensemble des éléments qu’elle contient par ordre de l’horodatage de la publication. Glissez-déposez `user name PO` depuis la zone `Données/Tables` vers `Repères` sous `Couleur`. La légende est automatiquement apparue à droite de l’écran dans la zone prévue pour son affichage. Pour l’instant, la légende est triée dans l’ordre alphabétique des comptes. Cliquez sur cette légende et faites `trier...`, puis sous `Trier par` choisissez `Champ`. Dans `Nom du champ`, choisissez `tweet creation date PO`, et sous `Agrégation`, choisissez `Minimum` (un même compte peut faire plusieurs tweet. Lorsqu’il y a plusieurs dates associées à un compte, en sélectionnant Minimum, on décide de prioriser le premier tweet publié pour l’affichage dans la légende. Si l’on avait choisi maximum, on aurait priorisé le dernier tweet d’un même compte). Fermez la fenêtre. Cliquez à nouveau sur la légende et cliquez sur `Modifier les couleurs...`. Choisissez le `Cercle chromatique` et cliquez sur `Choisir la palette`, puis fermez cette fenêtre.
 
-![](Untitled%2033.png)
+![](Untitled33.png)
 
 - Ajoutez deux filtres pour terminer la visualisation. Le premier est un filtre temporel qui permet de se focaliser sur le premier moment de la circulation des images du groupe d’images, ici les tweets associés au groupe “boyard 2”. On voudrait seulement afficher les tweets publiés les 2 et 3 février 2019. Glissez-déposez ****l’étiquette `tweet creation date PO` depuis `Données/Tables` vers `Filtres`. Une fenêtre apparaît. Sélectionnez `Plage de dates` puis faites `suivant`. Faites `OK` sans rien changer. Puis, cliquez sur ce filtre qui vient d’apparaître dans `Filtres` : `tweet cration date PO` et sélectionnez `Afficher le filtre`. Il apparaît alors à droite, avec les autres filtres et éléments de légende. Vous pouvez faire évoluer la position du curseur pour changer la plage de dates affichée. Choisissez le 2 février à gauche, et le 3 février à droite pour laisser apparaître le compte “imhotep1338” comme dernier compte ayant publié.
 - Pour terminer, renommez le titre de la visualisation, qui se situe en haut à gauche de l’espace de visualisation. Le titre doit actuelle être `Feuille X` ou `Sheet X`. Lorsque vous double-cliquez dessus, une fenêtre apparaît où vous pouvez gérer le police d’écriture ou encore la couleur du titre. Vous pouvez également définir un titre précis, par exemple : “Nombre de *followers* des comptes selon l'heure de publication de chaque image”.
@@ -356,7 +353,7 @@ Dans cette partie, on souhaite produire une nouvelle visualisation. Cette fois-c
 
 Dans cette troisième partie, on cherche à observer à quel point chacun des tweets ont été partagés. On veut comparer le taux de partage avec le nombre de followers de chaque compte. Le résultat à obtenir ressemble à cela : 
 
-![](Untitled%2034.png)
+![](Untitled34.png)
 
 **On doit retrouver dans la visualisation :**
 
@@ -378,7 +375,7 @@ Dans cette troisième partie, on cherche à observer à quel point chacun des tw
     
     - On va procéder ainsi pour toutes les autres valeurs, afin d’avoir au total 7 groupes :
         
-        ![](Untitled%2035.png)
+        ![](Untitled35.png)
         
     - Une fois que l’on a réalisé ces groupes, on peut fermer la fenêtre.
 - Glissez-déposez depuis `Données/Tables` `followers PO (copie) (groupe)` dans le champ `Colonne`.
@@ -386,7 +383,7 @@ Dans cette troisième partie, on cherche à observer à quel point chacun des tw
 - Glissez-déposez `user name PO` depuis `Données/Tables` vers `Repères` dans `Couleur`.
 - On crée à nouveau un filtre sur le groupe d’images, pour sélectionner l’un ou l’autre des groupes. A la différence de ce que nous avons fait dans la partie précédente, cette fois, nous pouvons décider d’afficher les deux groupes en même temps, comme un seul. Pour ce faire, il faut glisser-déposer l’étiquette `Groupe d'images` dans `Filtres`, puis faire `OK`. Cliquez droit dessus et faites `Afficher le filtre`. Celui-ci apparaît désormais à droite de l’écran. On le laisse dans la forme qu’il a déjà, et on clique, au choix sur “boyard 2” et/ou “Rodrigues-visage”. Pour la suite de l’exercice, je laisse le filtre sur “Rodrigues-visage” seulement. Voilà ce qui doit s’afficher à l’écran à cette étape :
 
-![](Untitled%2036.png)
+![](Untitled36.png)
 
 - On voudrait que les histogrammes empilés prennent tout l’écran, par soucis de clarté. *Tableau Public* propose plusieurs options pour la taille de la 
 visualisation. Ici, on préférera une `Vue entière` pour voir toutes les données dans la fenêtre. Pour ajuster cela, il faut cliquer dans boutons en haut de l’écran sur celui qui ressemble à un rectangle entouré par deux traits, et choisis `Vue entière` :
@@ -395,22 +392,22 @@ visualisation. Ici, on préférera une `Vue entière` pour voir toutes les donn�
     
 - On ajuste ensuite la taille des histogrammes en cliquant, sous `Repères` dans `Taille` et en choisissant 99% (afin de laisser un léger blanc entre chaque histogramme).
 
-![](Untitled%2037.png)
+![](Untitled37.png)
 
 - Il s’agit désormais d’afficher différentes informations pour rendre cette visualisation compréhensible :
     - On glisse-dépose `user name PO` sur `Etiquette`.
     - On glisse-dépose `CPT(tweet creation date PO)` depuis le champ `Ligne` en pensant à bien maintenir enfoncer la touche **ctrl/cmd** (sinon, cela enlève l’étiquette du champ Lignes, et ce n’est pas ce que l’on veut ici), vers `Etiquette`.
     - Sous `Repères`, on clique sur `Etiquette`, puis `Modifier l'étiquette`. Une fenêtre s’ouvre. On supprime le saut de ligne pour tout avoir sur une seule ligne, on inverse les deux valeurs, et on change la couleur de la seconde pour la rendre légèrement plus grise, comme suit, puis on fait `OK` :
         
-        ![](Untitled%2038.png)
+        ![](Untitled38.png)
         
     - On trie l’affichage des valeurs dans les histogrammes empilés en cliquant droit, dans `Repères` sur l’un des deux `user name PO`, puis sur `Trier` et `Champ`. On vérifie que dans `Nom du champ`, `tweet creation date PO` est bien indiqué, et dans `Agrégation`, il y a bien `Total`. En `ordre de tri`, on sélectionne `Ordre décroissant`, puis on ferme la fenêtre.
         
-        ![](Untitled%2039.png)
+        ![](Untitled39.png)
         
 - Pour terminer, on va afficher deux dernières informations pertinentes pour l’analyse dans les `Infobulles`. Il s’agit d’une fonctionnalité sous `Repères` que nous n’avons pas encore exploré. Les `infobulles` apparaissent lorsque la souris passe sur une valeur du graphique :
 
-![](Untitled%2040.png)
+![](Untitled40.png)
 
 - On souhaite ajouter dans ces infobulles le nombre de followers du compte, ainsi que le nombre de followers du plus gros compte ayant retweeté ou cité le tweet. Pourquoi ? Parce que l’on constate que, dans le cas du groupe d’images “Rodrigues-visage”, le “bas” de l’espace public, sous les 10 000 followers, a réussi à donner une importante visibilité à l’image qui nous intéresse (environ 40%, ce qui n’est pas négligeable). D’abord parce que les comptes qui se sont mobilisés sont nombreux. Ensuite parce que certains d’entre eux ont publié des tweets qui se sont trouvés assez massivement partagés : Dorian_RT, JoLegentil ou encore ClaraTwittiner69. L’hypothèse la plus probable concernant cette visibilité accrue pour des petits comptes est qu’au moins un compte plus important leur a donné de la visibilité en partageant leur tweet. On va donc le vérifier en ajoutant les deux informations susmentionnés :
     - Glissez-déposez `followers PO` sur `Infobulles` dans `Etiquette`. Modifiez la `Somme` en `Moyenne`.
@@ -421,20 +418,20 @@ visualisation. Ici, on préférera une `Vue entière` pour voir toutes les donn�
 
 Pour terminer, créons un `Tableau de bord`. Le tableau de bord est utile pour projeter dans un même espace plusieurs feuilles de visualisations, et ainsi comparer différentes visualisations/analyser à partir de différentes manières de projeter les données. Pour créer cet espace, il faut cliquer en bas à gauche sur l’icone suivant : 
 
-![](Untitled%2041.png)
+![](Untitled41.png)
 
 Cet espace apparaît :
 
-![](Untitled%2042.png)
+![](Untitled42.png)
 
 - On va y glisser les feuilles (depuis la gauche de l’écran) produites lors des étapes B et C seulement, pour avoir quelque chose qui ressemble à ce qui suit :
 
-![](Untitled%2043.png)
+![](Untitled43.png)
 
 - La subtilité est de supprimer de l’affichage l’un des deux filtres sur l’étiquette `Groupe d’images`, de ne garder par exemple que celui qui ne permet de faire que des sélections uniques. Ensuite, il faut cliquer sur ce filtre `Groupes d'images` du `Tableau de bord`, puis ouvrir les options en cliquant sur le petit triangle qui est apparu, et sous `Appliquer aux feuilles de calcul`, choisir `Toutes celles qui utilisent cette source de données`. Ainsi, en changeant l’élément filtré, on change ce que l’on fait apparaître dans les deux graphiques.
 - Par ailleurs, si l’on clique sur une des valeurs projetées dans la visualisation, cela la met en `surbrillance` dans les différents espaces du Tableau de bord. Il faut recliquer dessus pour la déselectionner :
 
-![](Untitled%2044.png)
+![](Untitled44.png)
 
 # Conclusion
 
