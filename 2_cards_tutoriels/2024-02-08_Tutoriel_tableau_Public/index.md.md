@@ -145,9 +145,11 @@ Les informations qui suivent sont associées au tweets également. Cependant, el
 
 - *Status* : l’information présente dans cette colonne indique le type de tweet récolté :
     - **o / o-@** : il s’agit d’un tweet simple contenant une image. “o” est un indicatif personnel pour “original”. Le “@” indique que le premier élément de texte du tweet est une mention d’un compte. Voir par exemple : [https://twitter.com/i/web/status/1091759134041690113](https://twitter.com/i/web/status/1091759134041690113)
-        
-        ![](Untitled7.png)
-        
+        <details>
+            <summary>Voir la capture d'écran du tweet</summary> 
+            ![](Untitled7.png)
+        </details>
+
     - **RT** : il s’agit d’un *retweet*. Le tweet d’origine est ici repartagé par quelqu’un d’autre tel quel, sans aucun ajout de texte. Voir : [https://twitter.com/i/web/status/1091809245996158976](https://twitter.com/i/web/status/1091809245996158976)
         
         ![](Untitled8.png)
