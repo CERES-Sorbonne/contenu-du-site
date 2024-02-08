@@ -30,7 +30,7 @@ Tableau public nécessite donc un temps d’apprentissage plus long que la plupa
 
 Ce logiciel sera très utile aux chercheur·euses en sciences humaines et sociales qui souhaitent visualiser et explorer des données complexes.
 
-![](5qh379ji.bmp)
+![](5qh379ji.png)
 
 # Mise en place
 
@@ -145,10 +145,11 @@ Les informations qui suivent sont associées au tweets également. Cependant, el
 
 - *Status* : l’information présente dans cette colonne indique le type de tweet récolté :
     - **o / o-@** : il s’agit d’un tweet simple contenant une image. “o” est un indicatif personnel pour “original”. Le “@” indique que le premier élément de texte du tweet est une mention d’un compte. Voir par exemple : [https://twitter.com/i/web/status/1091759134041690113](https://twitter.com/i/web/status/1091759134041690113)
-        <details>
-            <summary>Voir la capture d'écran du tweet</summary> 
-            ![](Untitled7.png)
-        </details>
+    <details markdown='1'><summary>Toggle</summary>
+    ![](Untitled7.png)
+    <br/>
+    <img src="Untitled7.png"/>
+    </details> 
 
     - **RT** : il s’agit d’un *retweet*. Le tweet d’origine est ici repartagé par quelqu’un d’autre tel quel, sans aucun ajout de texte. Voir : [https://twitter.com/i/web/status/1091809245996158976](https://twitter.com/i/web/status/1091809245996158976)
         
@@ -444,3 +445,5 @@ A partir d’un cas concret, nous avons pu apprendre à utiliser *Tableau Public
 Parfois, il faut plusieurs tentatives pour réussir à projeter ce que l’on veut de la manière dont on le veut. Moins intuitif qu’*Excel*, *Tableau Public* nécessite un coût d’entrée peut-être plus important, mais son importante modularité (par exemple colorer un graphique en fonction de certaines données qui ne sont pas projetées dans le graphique pour expliciter plus d’informations d’un seul coup d’oeil) peut valoir ce coût en fonction des objectifs du travail mené. Par ailleurs, lorsque l’on travaille avec un grand nombre de données temporelles, *Excel* peut s’avérer inefficace. C’est personnellement ce qui m’a conduit à utiliser *Tableau Public*, qui permet de gérer beaucoup plus facilement un grand nombre de données.
 
 Un tutoriel écrit par Edouard Bouté, reprenant plusieurs éléments descriptifs du fonction de *Tableau Public* d'un précédent tutoriel coécrit par Félix Alié, Edouard Bouté et Victor Ecrement.
+
+<details markdown='1'><summary>Toggle</summary> blabla </details> 
