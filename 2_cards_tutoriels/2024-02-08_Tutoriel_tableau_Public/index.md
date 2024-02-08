@@ -12,10 +12,7 @@ tags:
 
 # Atelier Tableau Public : cas d’étude de la circulation des images en ligne
 
-<aside>
-💡 Il est à noter que ce tutoriel propose de reproduire des résultats de recherche partagés lors du congrès de la SFSIC en 2023. Voir [Bouté E. (2023). « Militantisme transplateforme : la répression policière des Gilets jaunes entre Facebook et Twitter », *XXIIIème Congrès de la Sfsic : la numérisation des sociétés*. Bordeaux. 14-15-16 juin 2023](Boute_Edouard_-_texte_SFSIC_2023.pdf)
-
-</aside>
+Il est à noter que ce tutoriel propose de reproduire des résultats de recherche partagés lors du congrès de la SFSIC en 2023. Voir [Bouté E. (2023). « Militantisme transplateforme : la répression policière des Gilets jaunes entre Facebook et Twitter », *XXIIIème Congrès de la Sfsic : la numérisation des sociétés*. Bordeaux. 14-15-16 juin 2023](Boute_Edouard_-_texte_SFSIC_2023.pdf)
 
 <aside>
 💡 De légères variations dans l’interface de *Tableau Public* peuvent exister entre la version *online* (en ligne) et la version *desktop* (logiciel). Par ailleurs, le logiciel étant régulièrement maintenu à jour, de légères variations peuvent également exister entre la version à jour sur laquelle vous travaillez et la version présentée dans ce tutoriel.
