@@ -1,5 +1,5 @@
 ---
-title: Ateliers Textométrie : 29/02 Sketch Engin : 29/02 Sketch Engine
+title: Ateliers Textométrie 29/02 Sketch Engine
 author: ceres
 tags:
     - atelier 
