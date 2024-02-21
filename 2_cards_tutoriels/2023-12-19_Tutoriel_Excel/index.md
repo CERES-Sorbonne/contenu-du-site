@@ -1,5 +1,5 @@
 ---
-title: "Excel : quels usages en SHS ?"
+title: "Excel : usages en SHS"
 author: edouard
 tags:
     - tutoriel

@@ -1,5 +1,5 @@
 ---
-title: "Atelier Tableau Public : visualiser la circulation des images en ligne"
+title: "Tableau Public : visualiser la circulation des images en ligne"
 author: edouard
 tags:
     - tutoriel
@@ -445,5 +445,3 @@ A partir d’un cas concret, nous avons pu apprendre à utiliser *Tableau Public
 Parfois, il faut plusieurs tentatives pour réussir à projeter ce que l’on veut de la manière dont on le veut. Moins intuitif qu’*Excel*, *Tableau Public* nécessite un coût d’entrée peut-être plus important, mais son importante modularité (par exemple colorer un graphique en fonction de certaines données qui ne sont pas projetées dans le graphique pour expliciter plus d’informations d’un seul coup d’oeil) peut valoir ce coût en fonction des objectifs du travail mené. Par ailleurs, lorsque l’on travaille avec un grand nombre de données temporelles, *Excel* peut s’avérer inefficace. C’est personnellement ce qui m’a conduit à utiliser *Tableau Public*, qui permet de gérer beaucoup plus facilement un grand nombre de données.
 
 Un tutoriel écrit par Edouard Bouté, reprenant plusieurs éléments descriptifs du fonction de *Tableau Public* d'un précédent tutoriel coécrit par Félix Alié, Edouard Bouté et Victor Ecrement.
-
-<details markdown='1'><summary>Toggle</summary> blabla </details> 
