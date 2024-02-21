@@ -11,7 +11,7 @@ event: true
 
 <aside>
 
-Le prochain atelier dédié aux visualisations sous Tableau Public aura lieu le jeudi 08/02/2024 de 16h30 à 18h30 à la Maison de la Recherche de Sorbonne Université. Cet atelier, présenté par Edouard Bouté (CERES) pourra être suivi en présentiel ou en visio. Lien d'inscription : [cliquez ici](https://framaforms.org/inscription-atelier-tableau-public-08022024-1704811982)
+Le prochadernierin atelier dédié aux visualisations sous Tableau Public a eu lieu le jeudi 08/02/2024 de 16h30 à 18h30 à la Maison de la Recherche de Sorbonne Université. Cet atelier a été présenté par Edouard Bouté (CERES).
 
 </aside>
 

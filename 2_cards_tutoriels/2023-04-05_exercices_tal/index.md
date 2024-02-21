@@ -1,5 +1,5 @@
 ---
-title: Le traitement automatique de langue
+title: Le traitement automatique des langues
 author: gael
 abstract: "Gaël Lejeune met à disposition ses cours de traitement automatique de langues (TAL) sur Git."
 tags:
@@ -13,7 +13,7 @@ Image empruntée à [Brewbooks sur Flickr](https://www.flickr.com/photos/brewboo
 
 ## Description
 
-[Ce dépôt Git](https://github.com/rundimeco/Exercices_TAL-NLP) vise à rassembler des supports de cours pouvant faire office de tutoriels sur différentes tâches de TAL (Traitement automatique de langues), qui peuvent être utilisés à différents niveaux.
+[Ce dépôt Git](https://github.com/rundimeco/Exercices_TAL-NLP) vise à rassembler des supports de cours pouvant faire office de tutoriels sur différentes tâches de TAL (Traitement automatique des langues), qui peuvent être utilisés à différents niveaux.
 
 Ces cours n'ont pas vocation à constituer des approches état de l'art ni des manières optimales de programmer (que ce soit en temps de calcul ou en organisation du code) et surtout pas des recettes toutes faites. Par contre ils ont été conçus pour :
 

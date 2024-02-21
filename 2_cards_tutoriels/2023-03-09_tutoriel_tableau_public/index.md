@@ -1,5 +1,5 @@
 ---
-title: "Tableau Public pour les SHS"
+title: "Tableau Public pour les SHS (ancienne version)"
 author: ceres
 abstract: "Un court tutoriel pour commencer à utiliser Tableau Public. Il s'agit d'un logiciel en ligne gratuit qui permet de créer des visualisations interactives, hautement personnalisables et accessibles en ligne. Sa particularité est que les visualisations ne sont pas construites selon des diagrammes standards, mais de manière modulaire, permettant de tester différentes manières de représenter et spatialiser les métadonnées."
 tags:
