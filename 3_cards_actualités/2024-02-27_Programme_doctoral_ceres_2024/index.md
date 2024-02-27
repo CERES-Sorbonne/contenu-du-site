@@ -1,5 +1,5 @@
 ---
-title: 'Bourse de thèse : lauréates 2023'
+title: 'Appel à projets - Programme doctoral 2024'
 tags:
     - thèse
     - bourse
