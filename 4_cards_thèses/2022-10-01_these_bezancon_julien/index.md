@@ -10,7 +10,7 @@ tags:
 ![](these-3.png)
 **Candidat :** Julien Bezançon
 
-**Direction de la thèse :**Gilles Siouffi, Encadrants: Antoine Gautier, Gaël Lejeune (SU/STIH)
+**Direction de la thèse :** Gilles Siouffi, Encadrants: Antoine Gautier, Gaël Lejeune (SU/STIH)
 
 [**Accéder au CV**](../../membres/bezancon_julien)
 
