@@ -14,7 +14,7 @@ event: true
 
 Plusieurs ateliers autour de l'outil Gephi sont animés par le CERES. Un premier a eu lieu le 14 avril 2022, un deuxième le 2 mars 2023.
 
-Le prochain atelier aura lieu le 28 mars 2024, en présentiel, à la Maison de la Rerche de Sorbonne Université.
+Le prochain atelier aura lieu le **28 mars 2024**, en présentiel, à la Maison de la Rerche de Sorbonne Université. **[Pour vous inscrire, cliquez ici](https://framaforms.org/inscription-atelier-gephi-28032024-1710328866)**
 
 ## Gephi
 
