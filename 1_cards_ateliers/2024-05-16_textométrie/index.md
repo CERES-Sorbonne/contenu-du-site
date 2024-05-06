@@ -1,5 +1,5 @@
 ---
-title: Ateliers TXM (niveau 2) 16/05
+title: Ateliers Textométrie 16/05 TXM niveau 2
 author: ceres
 tags:
     - atelier 
