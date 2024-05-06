@@ -7,6 +7,18 @@ tags:
 event: true
 ---
 
+## Prochain atelier : TXM Niveau 2.
+
+Pouvoir analyser automatiquement des corpus textuels afin d’en tirer des statistiques et pouvoir faire des recherches précises de certaines expressions sont deux des enjeux de la textométrie. Concrètement, il peut s’agir de rechercher les contextes d’apparition de mots ou d’expressions, comparer la fréquence de différentes expressions ou encore comparer des corpus pour trouver automatiquement ce qui les différencie.
+
+Le CERES a organisé de nombreux ateliers d'initiation sur le sujet. Cet atelier vise à proposer un approfondissement sur l'outil TXM. **Il s'adresse donc en particulier à un public qui a déjà suivi un atelier/tutoriel TXM (au CERES, en ligne ou ailleurs), ou quipratique déjà les fonctions de base de l'outil.**
+
+Formulaire d'inscription pour l'atelierTXM (niveau 2) du  (16h30-18h30) animé par Gaël Lejeune (STIH/CERES).
+
+L'atelier se déroulera le **jeudi 16/05/2024 de 16h30 à 18h30** en salle D117 à la Maison de la Recherche de Sorbonne Université, 28 rue Serpente, 75006, Paris. Il sera animé par Gaël Lejeune.
+
+Merci de vous inscrire pour participer à l'atelier, [en cliquant ici.](https://framaforms.org/inscription-atelier-txm-niveau-2-16052024-1715014039)
+
 ![](ateliers_textometrie.png)
 
 De nombreux outils de textométrie, en particulier de TAL (Traitement Automatique du Langage Naturel) sont régulièrement présentés dans le cadre des ateliers CERES. Le TAL est une des disciplines dans laquelle le CERES est très actif. Les outils listés ci-dessous sont ceux qui ont fait l'objet d'ateliers.
