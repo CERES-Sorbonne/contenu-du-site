@@ -1,5 +1,5 @@
 ---
-title: Ateliers Textométrie 29/02 Sketch Engine
+title: Ateliers TXM (niveau 2) 16/05
 author: ceres
 tags:
     - atelier 
