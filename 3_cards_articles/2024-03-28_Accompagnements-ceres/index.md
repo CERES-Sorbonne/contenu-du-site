@@ -1,5 +1,5 @@
 ---
-title: 'Communications et publications appuyées par le CERES'
+title: 'Travaux appuyés par le CERES'
 author : ceres
 tags:
     - méthodes numériques
