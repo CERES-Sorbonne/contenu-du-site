@@ -1,8 +1,6 @@
 ---
 title: "TXM : Analyser un corpus de presse"
-author: 
-  - gael
-  - marceau
+author: [gael, marceau]
 tags:
     - tutoriel
     - presse
