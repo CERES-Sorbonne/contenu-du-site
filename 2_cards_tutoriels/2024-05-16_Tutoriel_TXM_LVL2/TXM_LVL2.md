@@ -11,7 +11,7 @@ tags:
 
 # TXM - Niveau 2
 ## Progression
-Nous pouvons utiliser TXM pour étudier la progression de l'utilisation d'un mot au cours du temps. Dans le corpus [Europresse-Prigojine](https://cdn.marceau-h.fr/prigo, nous allons évaluer l'évolution de certains usages au fil du temps et des présidents grâce à la fonction **progression**.
+Nous pouvons utiliser TXM pour étudier la progression de l'utilisation d'un mot au cours du temps. Dans le corpus <a href="https://cdn.marceau-h.fr/prigojine.xml" download>Europresse-Prigojine</a>, nous allons évaluer l'évolution de certains usages au fil du temps et des présidents grâce à la fonction **progression**.
 
 1. Dans un premier temps, comparez l'évolution de l'usage de ces 3 mots: `Ukraine`, `Afrique` et `Wagner`. Il est possible d'ajouter les mots un par un en les recherchant successivement. Notez-vous quelque chose d'intéressant ?
 
