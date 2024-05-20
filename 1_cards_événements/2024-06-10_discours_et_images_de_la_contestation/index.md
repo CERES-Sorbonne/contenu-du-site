@@ -1,5 +1,5 @@
 ---
-title: Colloque "Disours et images de la violence contestataire"
+title: Colloque Disours et images de la violence contestataire
 author: ceres
 event: true
 abstract: 'Ce colloque est organisé par des membres du CEMTI (Paris 8) et du CERES.'
