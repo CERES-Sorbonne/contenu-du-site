@@ -10,6 +10,6 @@ tags:
 ---
 <aside>
 
- [Le programme du colloque et toutes les informations nécessaires sont accessibles en cliquant sur ce lien](./JProgramme-ImagesDiscoursContestation.pdf) 
+ [Le programme du colloque et toutes les informations nécessaires sont accessibles en cliquant sur ce lien](./Programme-ImagesDiscoursContestation.pdf) 
 
 </aside>
