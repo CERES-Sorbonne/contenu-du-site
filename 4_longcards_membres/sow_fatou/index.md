@@ -4,7 +4,7 @@ abstract: Ingénieure d'études au CERES Et Masterante en Langue et Informatique
 ---
 # Fatou Sow #
 
-**Poste au CERES** : Ingénieure d'études
+**Poste au CERES** : Ingénieure d'études 2022/2023
 
 **Titre et discipline** : Masterante en Sciences du Langage : Langue et Informatique
 
