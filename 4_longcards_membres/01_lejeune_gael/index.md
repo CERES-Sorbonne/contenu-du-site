@@ -1,6 +1,6 @@
 ---
 title: Gaël Lejeune
-abstract: Directeur adjoint du CERES - Maître de Conférences en Informatique
+abstract: Directeur adjoint du CERES - Maître de Conférences HDR en Informatique
 ---
 
 ![](lejeune_gael.png)
@@ -23,7 +23,7 @@ abstract: Directeur adjoint du CERES - Maître de Conférences en Informatique
 
 ## Publications
 
-[CV Scholar](https://scholar.google.fr/citations?user=32Mc2GwAAAAJ&hl=fr)
+Pour une liste à jour : [CV Scholar](https://scholar.google.fr/citations?user=32Mc2GwAAAAJ&hl=fr)
 
 2022\. Avec Khoa Nguyen and Thierry Delahaut and Emanuela Boros  and Antoine Doucet, "[Contextualizing Emerging Trends in Financial News Articles](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-2022-emnlp/accepted-papers?authuser=0)"
 
