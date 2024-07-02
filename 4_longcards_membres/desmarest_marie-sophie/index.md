@@ -1,4 +1,3 @@
-
 ---
 title: Marie-Sophie Desmarest
 abstract: Assistante de Recherche
@@ -6,7 +5,7 @@ abstract: Assistante de Recherche
 
 ![](MSD-photo-CERES-2024.png)
 
-**Poste au CERES** : Assistante de recherche (Depuis 2022)
+**Poste au CERES** : Assistante de recherche (Depuis 2023)
 
 **Titre et discipline** : Masterante en Traitement Automatique des Langues
 

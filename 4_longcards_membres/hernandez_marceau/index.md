@@ -5,7 +5,7 @@ abstract: Assistant de recherche au CERES - masterant
 
 ![](hernandez_marceau.jpg)
 
-**Poste au CERES** : Assistant de recherche
+**Poste au CERES** : Assistant de recherche (depuis 2022)
 
 **Titre et discipline** : masterant
 
