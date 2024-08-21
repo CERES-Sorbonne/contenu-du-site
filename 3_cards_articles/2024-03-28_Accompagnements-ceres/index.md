@@ -7,11 +7,13 @@ tags:
 
 ## Livres, articles et actes
 
-Julien, B., Lejeune, G. (2023). « Reconnaissance de défigements dans des tweets en français par des mesures de similarité sur des alignements textuels ». In _Actes de CORIA-TALN 2023 : Actes de la 30e Conférence sur le Traitement Automatique des Langues Naturelles (TALN)__, volume 1 : travaux de recherche originaux - articles longs_, pages 56–67, Paris : France. ATALA.
+Bezançon, J., Lejeune, G. (2023). « Reconnaissance de défigements dans des tweets en français par des mesures de similarité sur des alignements textuels », _Actes de CORIA-TALN 2023 : Actes de la 30e Conférence sur le Traitement Automatique des Langues Naturelles (TALN)__, volume 1 : travaux de recherche originaux - articles longs_, pages 56–67, Paris : France. ATALA.
 
 Bouté E. (2023). « Militantisme transplateforme : la répression policière des Gilets jaunes entre Facebook et Twitter », _XXIIIème Congrès de la Sfsic : la numérisation des sociétés_, IUT Bordeaux-Montaigne, Bordeaux. 14-15-16 juin 2023.
 
 Bouté E., Julliard, V., Alié, F., Godicke, D., Écrement, V., Pailler, F. (2024). « Panoptic, un outil d’exploration par similarité de vastes corpus d’images », _Colloque annuel de l’Association francophone des humanités numériques Humanistica_. FLSH-UMI, Meknès (Maroc). 3 et 7-8-9 mai 2024.
+
+Couffignal, G. (2024). « Les anges parlent-ils occitan ? Analyse d’un corpus de noëls toulousains de la seconde moitié du xviiie siècle », _Humanités numériques_ n°9, URL : http://journals.openedition.org/revuehn/4043
 
 Grison, T., Julliard, V., Alié, F., et Ecrement, V. (2023). « La modération abusive sur Twitter. Étude de cas sur l’invisibilisation des contenus LGBT et TDS en ligne ». _Réseaux_, n° 237/1 : 119‑149. 
 
