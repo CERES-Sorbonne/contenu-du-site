@@ -22,7 +22,8 @@ Exemple : **Etude sémiotique de représentations picturales**. Un chercheur est
 ## Analyser des jeux de données textuels
 
 ## Structurer, formater, préparer, enrichir des données pour des outils de textométrie
-
+<!-- - Schaeffer-Lacroix, Eva. 2024. [« Adverbs as markers of women's objectification events in audio descriptions of English feature films »](https://hal.science/hal-04631271v1), _JADT 2024 - 17es Journées internationales d'Analyse statistique des Données Textuelles_, Bruxelles, 25 au 27 Juin 2024. -->
+<!-- - Couffignal, Gilles. 2024.[ « Les anges parlent-ils occitan ? Analyse d’un corpus de noëls toulousains de la seconde moitié du xviiie siècle »](http://journals.openedition.org/revuehn/4043). _Humanités numériques_ n° 9. -->
 
 
 <!-- 
