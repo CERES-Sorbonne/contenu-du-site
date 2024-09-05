@@ -14,7 +14,7 @@ Cette section propose ainsi une collection de publications scientifiques qui ré
 
 - Couffignal, Gilles. 2024.[ « Les anges parlent-ils occitan ? Analyse d’un corpus de noëls toulousains de la seconde moitié du xviiie siècle »](http://journals.openedition.org/revuehn/4043). _Humanités numériques_ n° 9.
 
-- Grison, Thibault, Virginie Julliard, Félix Alié et Victor Ecrement. 2023. « La modération abusive sur Twitter. Étude de cas sur l’invisibilisation des contenus LGBT et TDS en ligne ». _Réseaux_, n° 237/1 : 119‑149.
+- Grison, Thibault, Virginie Julliard, Félix Alié et Victor Ecrement. 2023. [« La modération abusive sur Twitter. Étude de cas sur l’invisibilisation des contenus LGBT et TDS en ligne »](https://shs.cairn.info/revue-reseaux-2023-1-page-119?lang=fr). _Réseaux_, n° 237/1 : 119‑149.
 
 ## Chapitres d'ouvrages
 
