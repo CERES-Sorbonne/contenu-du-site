@@ -12,9 +12,15 @@ Cette section propose ainsi une collection de publications scientifiques qui ré
 
 ## Articles 
 
-- Couffignal, Gilles. 2024.[ « Les anges parlent-ils occitan ? Analyse d’un corpus de noëls toulousains de la seconde moitié du xviiie siècle »](http://journals.openedition.org/revuehn/4043), _Humanités numériques_ n°9.
+- Couffignal, Gilles. 2024.[ « Les anges parlent-ils occitan ? Analyse d’un corpus de noëls toulousains de la seconde moitié du xviiie siècle »](http://journals.openedition.org/revuehn/4043). _Humanités numériques_ n° 9.
 
-- Grison, Thibault, Virginie Julliard, Félix Alié et Victor Ecrement. 2023. « La modération abusive sur Twitter. Étude de cas sur l’invisibilisation des contenus LGBT et TDS en ligne ». _Réseaux_, n° 237/1 : 119‑149. 
+- Grison, Thibault, Virginie Julliard, Félix Alié et Victor Ecrement. 2023. « La modération abusive sur Twitter. Étude de cas sur l’invisibilisation des contenus LGBT et TDS en ligne ». _Réseaux_, n° 237/1 : 119‑149.
+
+## Chapitres d'ouvrages
+
+- Grison, Thibault. 2024. [« Playing Hide and Seek with Algorithms in the “Gay TikTok”: From Shadowbanning to Platform Affordances »](https://www.degruyter.com/document/doi/10.1515/9783111311371-013/html). Dans _Online Virality: Spread and Influence_, sous la direction de Valérie Schafer et fred Pailler, 249-268. Berlin : De Gruyter Oldenbourg.
+
+- Julliard, Virginie, fred Pailler, Félix Alié et Victor Ecrement. 2024. [« The Wonb, the Banknote and the Trolley. Elements of French Anti-Gender Visual Culture »](https://www.degruyter.com/document/doi/10.1515/9783111311371-011/html). Dans _Online Virality: Spread and Influence_, sous la direction de Valérie Schafer et fred Pailler, 207-226. Berlin : De Gruyter Oldenbourg.
 
 ## Actes
 
