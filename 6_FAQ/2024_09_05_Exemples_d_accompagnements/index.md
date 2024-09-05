@@ -1,5 +1,5 @@
 ---
-title: 'Exemples d'accompagnements réalisés par le CERES'
+title: "Exemples d'accompagnements réalisés par le CERES"
 author: ceres
 tags:
     - accompagnements
@@ -19,12 +19,16 @@ Qu'ils soient nativement numériques ou numérisés, les grands corpus d'images,
 
 Exemple : **Etude sémiotique de représentations picturales**. Un chercheur est venu nous voir, ses tableaux Excels sous le bras, pour analyser des récits picturaux de BD, à partir d'annotations purement textuels. En échangeant avec lui autour du développement de Panoptic, il a décidé de numériser des BD ou d'en récupérer dans des bibliothèques numériques, et de les découper vignette par vignette. Nous l'avons ensuite accompagner sur l'utilisation de Panoptic pour ses images, ainsi que sur la restructuration de ses tableaux d'annotations pour en faire des métadonnées à importer dans Panoptic, permettant de donner du sens aux images importées en les associant à leurs annotations. Voir : Sähn, Thomas et Marceau Hernandez. 2023. « De l’opposition à l’altérité. la sémiotique comme base d’une analyse automatisée des représentations picturales », Congrès de l’AGES : Altérités dans l’espace germanophone, Paris, 16-17-18 novembre 2023. 
 
+## Analyser des jeux de données textuels
+
+## Structurer, formater, préparer, enrichir des données pour des outils de textométrie
+
+
+
 <!-- 
-- Récupérer des données de réseaux sociaux (Link Trolley), paragraphe qui décrit ce qui a été fait pour sébastien.
-- Analyser des jeux de données textuelles
 - Apprendre à utiliser un outil informatique en recherche (link vers les Ateliers et Tuto)
 - Transformer des scans de documents historiques en texte, Antonomaz par exemple
-- Structurer, formater, enrichir des données pour des outils de textométrie (Link Lacroix, Couffignal) -->
+-  (Link Lacroix, Couffignal) -->
 
 <!-- Exemple 1 : **Récupérer des tweets en lien avec le mouvement anti-genre français**. Pour étudier le développement de langages visuels vernaculaires par le mouvement anti-genre français en ligne, des chercheur·euses ont eu besoin de collecter des tweets à ce sujet. Nous les avons collectés en fonction de mots-clés prédéfinis  -->
 <!-- - Julliard, Virginie, fred Pailler, Félix Alié et Victor Ecrement. 2024. [« The Wonb, the Banknote and the Trolley. Elements of French Anti-Gender Visual Culture »](https://www.degruyter.com/document/doi/10.1515/9783111311371-011/html). Dans _Online Virality: Spread and Influence_, sous la direction de Valérie Schafer et fred Pailler, 207-226. Berlin : De Gruyter Oldenbourg. -->
