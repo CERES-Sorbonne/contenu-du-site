@@ -20,7 +20,7 @@ Un [atelier RGPD/PGD](../../ateliers/2021-11-19_pgd_rgpd_donnees_personnelles/),
 
 Ce guide fournit plusieurs éléments de réponses sur ces sujets.
 
-Pour aller plus loin, un rapport concernant le cadre juridique applicable à l'usage des données issues des réseaux socio-numériques à des fins de recherche scientifique a également été rédigé par Julien Rossi. Il est à retrouver [ici](../../articles//2023-05-09_rapport_shs_sous_contraintes/).
+Pour aller plus loin, un rapport concernant le cadre juridique applicable à l'usage des données issues des réseaux socio-numériques à des fins de recherche scientifique a également été rédigé par Julien Rossi. Il est à retrouver [ici](../../actualites//2023-05-09_rapport_shs_sous_contraintes/).
 
 ## 1. Statut des images
 
