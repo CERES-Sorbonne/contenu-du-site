@@ -1,4 +1,6 @@
 ---
+uuid: 323ec94e-9fc1-46b6-b5e0-50e32fb0c0ee
+
 title: "A écouter sur France Culture : Manifestation 3.0 : la lutte sociale en réseaux"
 tags:
     - réseaux sociaux

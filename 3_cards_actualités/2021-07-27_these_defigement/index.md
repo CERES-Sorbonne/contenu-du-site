@@ -1,4 +1,6 @@
 ---
+uuid: 57402fa8-3e0f-47cc-85c1-9a66ec23feec
+
 title: 'Bourse de thèse : Détection et production de défigements linguistiques'
 author: ceres
 tags:

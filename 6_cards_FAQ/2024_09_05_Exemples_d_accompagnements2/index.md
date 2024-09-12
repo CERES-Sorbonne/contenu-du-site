@@ -1,4 +1,6 @@
 ---
+uuid: 663d454e-c3dd-408a-9044-1d5bbc03635a
+
 title: "Bis: Exemples d'accompagnements réalisés par le CERES"
 author: ceres
 tags:

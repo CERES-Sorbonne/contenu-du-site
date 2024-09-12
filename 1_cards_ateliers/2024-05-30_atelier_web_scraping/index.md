@@ -1,4 +1,6 @@
 ---
+uuid: ec911b5c-bf9b-492c-8999-182dbcdf26df
+
 title: Atelier Web Scraping
 author: edouard
 tags:

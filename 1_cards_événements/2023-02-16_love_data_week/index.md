@@ -1,4 +1,6 @@
 ---
+uuid: a812caa5-01c5-42d6-b241-7e5174306f0b
+
 title: 'Atelier pendant la Love Data Week'
 author: ceres
 event: true

@@ -1,4 +1,6 @@
 ---
+uuid: 34dbdbd7-b360-4ac6-b359-d78a66408799
+
 title: 'Iramuteq avec Adeline Wrona'
 author: ceres
 tags: 

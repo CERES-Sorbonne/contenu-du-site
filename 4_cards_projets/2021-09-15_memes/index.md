@@ -1,4 +1,6 @@
 ---
+uuid: dc61d630-9770-40ac-badb-91f5886a9ba1
+
 title: Projet Memes
 author: ceres
 abstract: "Le projet Memes (Extraction automatique et analyse par Myriadisation d’Expressions Semi-figées) était un projet émergence SU (2019-2021). Le projet vise à étudier les expressions figées (ou phraséologismes) et leur détournement (défigement) à des fins humoristiques notamment. Trois objectifs avaient été définis : repérer des défigements sur Twitter et les classer, en tirer des règles de génération et annoter via crowdsourcing. Les parties 1 et 2 correspondent au périmètre du post-doctorat de Lichao Zhu (aujourd’hui post doctorant au LLF, Paris Diderot). La partie 3 n’a pas pu être réalisée (problème d’ingénierie) mais le projet pourrait rebondir via le projet de contrat doctoral proposé à CERES (G. Siouffi directeur, K. Fort et G. Siouffi co-directeurs)."

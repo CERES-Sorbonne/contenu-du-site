@@ -1,4 +1,6 @@
 ---
+uuid: ea257b03-6cc7-46f5-bf7b-0a68ae6b0382
+
 title: Julien Bezançon
 abstract: doctorant
 ---

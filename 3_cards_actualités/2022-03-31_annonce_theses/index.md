@@ -1,4 +1,6 @@
 ---
+uuid: 319f86a6-53c2-4a39-8649-df81d22a6711
+
 title: 'Projets retenus pour le programme doctoral méthodes numériques'
 author: ceres
 abstract: 'Dans le cadre du programme doctoral Méthodes numériques pour les thèses en LSHS, proposé par CERES, 6 projets ont été retenus au terme de la première phase de sélection.'

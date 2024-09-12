@@ -1,4 +1,6 @@
 ---
+uuid: 0dcef96e-a754-4944-a005-e9665a621fed
+
 title: 'Lancement du CERES'
 author: ceres
 ---

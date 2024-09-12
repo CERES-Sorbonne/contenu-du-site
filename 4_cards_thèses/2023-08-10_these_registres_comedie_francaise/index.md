@@ -1,4 +1,6 @@
 ---
+uuid: d467f7aa-58d9-439a-b044-05e7820569fc
+
 title: 'Édition, exploration et exploitation numériques des registres d’assemblées de la Comédie-Française (1680-1921)'
 tags:
     - Humanités numériques

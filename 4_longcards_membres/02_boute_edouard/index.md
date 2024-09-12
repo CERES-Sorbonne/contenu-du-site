@@ -1,4 +1,6 @@
 ---
+uuid: 19fd7092-a2c4-40f2-a28c-e26489410bea
+
 title: Edouard Bouté
 author: edouard
 abstract: Ingénieur de Recherche SHS - docteur en Sciences de l'information et de la communication

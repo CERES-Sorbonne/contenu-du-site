@@ -1,4 +1,6 @@
 ---
+uuid: ed1fc30c-ba3b-4cd3-8efa-9ad53a82436d
+
 title: Journée d'études "Recherche d’Information Temporelle. Usages et Expérimentations Linguistiques" - 9 juin 2023
 author: edouard
 event: true

@@ -1,4 +1,6 @@
 ---
+uuid: 10ec89b6-aa2c-4ff4-aebf-13f948455838
+
 title: Atelier Musiconis
 author: ceres
 tags:

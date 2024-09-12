@@ -1,4 +1,6 @@
 ---
+uuid: 1c808d15-d54d-47cd-b831-7f5550f13483
+
 title: Marceau Hernandez
 abstract: Assistant de recherche au CERES - masterant
 ---

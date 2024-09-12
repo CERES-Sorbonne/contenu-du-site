@@ -1,4 +1,6 @@
 ---
+uuid: e4e8ace7-f7a5-43ad-a5fc-79411f139f30
+
 title: Détection et production de défigements linguistiques dans les réseaux sociaux assistées par les sciences participatives - fertilisation croisée entre traitement informatique et analyse linguistique
 tags:
     - figement

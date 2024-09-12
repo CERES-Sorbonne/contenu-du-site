@@ -1,4 +1,6 @@
 ---
+uuid: cbfd56e4-483e-4170-8472-9662376e0d4e
+
 title: Actualités
 ---
 

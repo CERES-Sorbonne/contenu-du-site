@@ -1,4 +1,6 @@
 ---
+uuid: c8487d40-b95a-474a-9f4e-c3723bc06255
+
 title: journée d’études "Travailler avec les images en mouvement"
 author: ceres
 event: true

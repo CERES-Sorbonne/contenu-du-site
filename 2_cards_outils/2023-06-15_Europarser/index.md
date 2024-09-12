@@ -1,4 +1,6 @@
 ---
+uuid: 2497aeae-4d7a-4587-a665-394efcafdf9c
+
 title: 'Outil CERES : Europarser'
 author: ceres
 tags:
