@@ -13,25 +13,26 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '16'  # Change si besoin
-
-      - name: Install UUID package
-        run: npm install uuid
+#      - name: Set up Node.js
+#        uses: actions/setup-node@v3
+#        with:
+#          node-version: '16'  # Change si besoin
+#
+#      - name: Install UUID package
+#        run: npm install uuid
 
       - name: Check for new files and add UUID to frontmatter
         run: |
           # Liste les fichiers ajoutés lors du dernier commit
-          new_files=$(git diff --diff-filter=A --name-only HEAD~1 -- HEAD)
+          new_files=$(git diff --diff-filter=A --name-only)
+          #HEAD~1 -- HEAD)
 
           for file in $new_files; do
             # Vérifie si le fichier a un frontmatter (typique des fichiers Markdown)
             if [[ "$file" == *.md || "$file" == *.markdown ]]; then
               # Ajoute un UUID si le frontmatter n'en contient pas
               if ! grep -q 'uuid:' "$file"; then
-                uuid=$(npx uuid)
+                uuid=$(uuidgen)
                 sed -i "1i---\nuuid: $uuid\n---" "$file"
                 echo "UUID ajouté au fichier: $file"
               fi
