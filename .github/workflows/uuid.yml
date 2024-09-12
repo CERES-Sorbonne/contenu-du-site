@@ -13,14 +13,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-#      - name: Set up Node.js
-#        uses: actions/setup-node@v3
-#        with:
-#          node-version: '16'  # Change si besoin
-#
-#      - name: Install UUID package
-#        run: npm install uuid
-
       - name: Check for new files and add UUID to frontmatter
         run: |
           # Liste les fichiers ajoutés lors du dernier commit
@@ -39,27 +31,27 @@ jobs:
             fi
           done
 
-#      - name: Commit and push changes
-#        run: |
-#          git config user.name "github-actions[bot]"
-#          git config user.email "github-actions[bot]@users.noreply.github.com"
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Vérifie s'il y a des modifications à commit
+          if [[ $(git status --porcelain) ]]; then
+            git add .
+            git commit -m "Add UUID to new files [skip ci]"  # Message pour éviter le déclenchement en boucle
+            git push
+          fi
+
+#      - name: Update the files
+#        uses: stefanzweifel/git-auto-commit-action@v5
+#        with:
+#          commit_message: "Add UUID to new files [skip ci]"
+#          file_pattern: "."
+#          status_options: '--untracked-files=no'
 #
-#          # Vérifie s'il y a des modifications à commit
-#          if [[ $(git status --porcelain) ]]; then
-#            git add .
-#            git commit -m "Add UUID to new files [skip ci]"  # Message pour éviter le déclenchement en boucle
-#            git push
-#          fi
-
-      - name: Update the about.py file
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Add UUID to new files [skip ci]"
-          file_pattern: "."
-          status_options: '--untracked-files=no'
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ env.REF }}
+#      - name: Push changes
+#        uses: ad-m/github-push-action@master
+#        with:
+#          github_token: ${{ secrets.GITHUB_TOKEN }}
+#          branch: ${{ env.REF }}
