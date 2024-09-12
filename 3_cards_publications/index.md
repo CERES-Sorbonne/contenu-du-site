@@ -24,11 +24,11 @@ Cette section propose ainsi une collection de publications scientifiques qui ré
 
 ## Actes
 
-- Bouté Edouard, Virginie Julliard, Félix Alié, David Godicke, Victor Écrement et fred pailler. 2024. « PANOPTIC, un outil d’exploration par similarité de vastes corpus d’images », _Colloque annuel de l’Association francophone des humanités numériques Humanistica_.
+- Bouté Edouard, Virginie Julliard, Félix Alié, David Godicke, Victor Écrement et fred pailler. 2024. [« PANOPTIC, un outil d’exploration par similarité de vastes corpus d’images »](https://hal.science/hal-04687627), _Colloque annuel de l’Association francophone des humanités numériques Humanistica_.
 
 - Bezançon, Julien et Gaël Lejeune. 2023. [« Reconnaissance de défigements dans des tweets en français par des mesures de similarité sur des alignements textuels »](https://hal.science/hal-04130174/), Dans _Actes de CORIA-TALN 2023 : Actes de la 30e Conférence sur le Traitement Automatique des Langues Naturelles (TALN), volume 1 : travaux de recherche originaux - articles longs_. 56–67.
 
-- Bouté, Edouard. 2023. « Militantisme transplateforme : la répression policière des Gilets jaunes entre Facebook et Twitter », _Actes du XXIIIème Congrès de la Sfsic : la numérisation des sociétés, Volume 1_.. 175-185.
+- Bouté, Edouard. 2023. [« Militantisme transplateforme : la répression policière des Gilets jaunes entre Facebook et Twitter »](https://edouardboute.github.io/files/Boute_SFSIC2023.pdf), _Actes du XXIIIème Congrès de la Sfsic : la numérisation des sociétés, Volume 1_.. 175-185.
 
 ## Colloques, journées d'études, congrès et séminaires
 
