@@ -31,7 +31,7 @@ jobs:
               # Ajoute un UUID si le frontmatter n'en contient pas
               if ! grep -q 'uuid:' "$file"; then
                 uuid=$(uuidgen)
-                sed -i "1i---\nuuid: $uuid\n---" "$file"
+                sed -i '0,/---/{s/---/---\nuuid: '"$uuid"'\n/}' "$file" 
                 echo "UUID ajouté au fichier: $file"
               fi
             fi
