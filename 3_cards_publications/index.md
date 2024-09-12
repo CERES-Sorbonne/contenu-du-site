@@ -34,9 +34,15 @@ Cette section propose ainsi une collection de publications scientifiques qui ré
 
 - Andolfi Léa, Edouard Bouté et Virginie Julliard. 2024. « Analyser des documents audiovisuels numériques dans un espace dédié : comparaison d’un corpus de vidéos courtes issues du web et d’un corpus de films », _Colloque international du consortium Huma-Num Canevas : Des corpus audiovisuels en Humanités. Méthodes, expériences, résultats_, MSH Paris Nord, 30-31 mai 2024.
 
-- Bordier, Clara, Matthis Matej, Adélie Laruncet, Marceau Hernandez et Gaël Lejeune. 2024. « Plongée dans le lexique du Conspirationnisme dans la presse nationale française », _JADT 2024 - 17es Journées internationales d'Analyse statistique des Données Textuelles_, Bruxelles, 25 au 27 juin 2024
+- Bordier, Clara, Matthis Matej, Adélie Laruncet, Marceau Hernandez et Gaël Lejeune. 2024. « Plongée dans le lexique du Conspirationnisme dans la presse nationale française », _JADT 2024 - 17es Journées internationales d'Analyse statistique des Données Textuelles_, Bruxelles, 25 au 27 juin 2024.
+
+- Bouté Edouard. 2024. « Saisir la circulation des biens informationnls dans un contexte transplateforme. Le cas des vidéos de violences policières », _Séminaire du groupe de travail Enjeux sociaux, mutations et pouvoirs de la vidéo du consortium Canevas_, Paris, 27 septembre 2024.
 
 - Bouté Edouard, Virginie Julliard. 2024. « Enjeux de collecte et d’exploration de corpus plurisémiotiques issus de Twitter. Le cas de la diffusion de l’idéologie du "grand remplacement" », _Colloque Analyser les réseaux socionumériques : questionner les méthodes_, Université de Toulouse Jean Jaurès, 28-29 mars 2024.
+
+- Karam Rimane. 2024.  « Les étiqueteurs morpho-syntaxiques appliqués au moyen arabe du Roman de Baybars : les limites du numérique comme objet de recherche ? », _Journée des jeunes chercheur.e.s en études aréales. Corpus oraux, écrits, artistiques : les humanités numériques pour tou.te.s ?_, Campus Condorcet, Aubervilliers, 12 janvier 2024.
+
+- Karam Rimane. 2024. « Les langues arabes dans les outils numériques d’analyse textuelle d’aujourd’hui : changement de paradigme et nouvelles limites », _Atelier des doctorants d'Orient et Méditerranée, Sorbonne Université (Irbimma)_, Paris, 23 janvier 2024.
 
 - Martinc, Matej, Adélie Laruncet, Clara Bordier, Marceau Hernandez, Senja Pollak et Gaël Lejeune. 2024. « The Evolution of Bias in French News Media: How Does Political Orientation Affect Semantic Change? », _JADT 2024 - 17es Journées internationales d'Analyse statistique des Données Textuelles_, Bruxelles, 25 au 27 juin 2024
 
