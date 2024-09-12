@@ -24,8 +24,10 @@ jobs:
           echo "$new_files"
 
           for file in $new_files; do
+            echo "Vérification du fichier: $file"
             # Vérifie si le fichier a un frontmatter (typique des fichiers Markdown)
             if [[ "$file" == *.md || "$file" == *.markdown ]]; then
+              echo "Fichier Markdown détecté: $file"
               # Ajoute un UUID si le frontmatter n'en contient pas
               if ! grep -q 'uuid:' "$file"; then
                 uuid=$(uuidgen)
