@@ -16,8 +16,7 @@ jobs:
       - name: Check for new files and add UUID to frontmatter
         run: |
           # Liste les fichiers ajoutés lors du dernier commit
-          new_files=$(git diff --find-renames --name-only --diff-filter=A HEAD^)
-          #HEAD~1 -- HEAD)
+          new_files=$(git diff --find-renames --name-only --diff-filter=A HEAD~1)
           
           echo "Fichiers ajoutés lors du dernier commit:"
           echo "$new_files"
