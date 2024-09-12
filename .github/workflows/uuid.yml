@@ -39,14 +39,27 @@ jobs:
             fi
           done
 
-      - name: Commit and push changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+#      - name: Commit and push changes
+#        run: |
+#          git config user.name "github-actions[bot]"
+#          git config user.email "github-actions[bot]@users.noreply.github.com"
+#
+#          # Vérifie s'il y a des modifications à commit
+#          if [[ $(git status --porcelain) ]]; then
+#            git add .
+#            git commit -m "Add UUID to new files [skip ci]"  # Message pour éviter le déclenchement en boucle
+#            git push
+#          fi
 
-          # Vérifie s'il y a des modifications à commit
-          if [[ $(git status --porcelain) ]]; then
-            git add .
-            git commit -m "Add UUID to new files [skip ci]"  # Message pour éviter le déclenchement en boucle
-            git push
-          fi
+      - name: Update the about.py file
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Add UUID to new files [skip ci]"
+          file_pattern: "."
+          status_options: '--untracked-files=no'
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ env.REF }}
