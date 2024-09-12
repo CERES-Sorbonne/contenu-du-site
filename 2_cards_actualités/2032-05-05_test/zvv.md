@@ -11,7 +11,7 @@ En 2023, le séminaire se déroulera en deux parties. D’abord nous écouterons
 
 Ci-dessous, voici le calendrier des prochaines séances :
 
-- 28/03/2023 : [Ri Pierce-Grove (doctorante Columbia)](../../évènements/2023-03-28_seminaire_ri_pierce_grove/)
+- 28/03/2023 : [Ri Pierce-Grove (doctorante Columbia)](../../évènements/2023-03-28_seminaire_ri_pierce_grove/) 
 
 - 25/04/2023 : Aurélie Sansen (doctorante Gripic)
 
