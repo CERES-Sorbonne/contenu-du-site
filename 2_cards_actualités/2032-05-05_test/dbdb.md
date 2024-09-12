@@ -1,4 +1,7 @@
 ---
+uuid: f68351d7-5eff-482e-a067-b7f3c63412af
+---
+---
 title: "Programme du séminaire doctoral du CERES"
 author: ceres
 tags:
