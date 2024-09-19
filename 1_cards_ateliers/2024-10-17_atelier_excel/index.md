@@ -13,13 +13,15 @@ event: true
 
 ![](atelier_excel.png)
 
-### Atelier à venir ?
+### Atelier à venir
 
 Le prochain atelier est intitulé "Excel pour l'analyse de corpus de presse". Il sera consacré à l'apprentissage de l'usage des tableaux croisés dynamiques dans ce type d'analyses.
 
 Informations pratiques :
+
 - 17 octobre 2024, 16h-18h, salle D117 de la Maison de la Recherche de Sorbonne Université (28 rue Serpente, 75006 Paris)
 - Atelier en **présentiel** uniquement.
+- Animé par Edouard Bouté
 - [Inscription gratuite mais obligatoire en cliquant sur ce lien.](https://framaforms.org/inscription-atelier-excel-pour-les-shs-17102024-1726738039)
 
 ### Description
