@@ -1,7 +1,7 @@
 ---
 uuid: ca0f2d4e-5c94-46b5-b86b-411f9ee49b1a
 
-title: Grammaire du moyen arabe levantin, XVIII-XXe siècles. Analyse de grands corpus en littérature populaire arabe et développement des outils de textométrie adaptés.
+title: Grammaire du moyen arabe levantin, XVIII-XXe siècles
 tags: 
     - moyen arabe
     - littérature populaire arabe 
@@ -12,11 +12,13 @@ author: ceres
 
 ![](these-6.png)
 
-**Candidate :** Rimane Karam
+**Candidate :** [Rimane Karam](../../membres/karam_rimane)
 
 **Direction de la thèse :** co-dirigée par Iyas Hassan (SU/Orient & Méditerranée) et Julien Dufour (ENS Ulm)
 
-**CV :** voir [ici](../../membres/karam_rimane)
+**Titre complet:** Grammaire du moyen arabe levantin, XVIII-XXe siècles. Analyse de grands corpus en littérature populaire arabe et développement des outils de textométrie adaptés
+
+**Date de début de la thèse :** Octobre 2022
 
 **Résumé de la thèse :** 
 

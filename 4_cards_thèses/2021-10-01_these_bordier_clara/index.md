@@ -1,7 +1,7 @@
 ---
 uuid: f40632da-4bf4-4ec6-8cfe-560172714e32
 
-title: 'La mobilisation de l’expertise dans la presse française pour cadrer le phénomène des théories du complot : analyse des mécanismes de (dis)qualification.'
+title: 'La mobilisation de l’expertise dans la presse française pour cadrer le phénomène des théories du complot'
 tags:
     - presse
     - expertise
@@ -12,11 +12,13 @@ tags:
 
 ![](these-1.png)
 
-**Candidate :** Clara Bordier
+**Candidate :** [Clara Bordier](../../membres/bordier_clara)
 
 **Direction de la thèse :** Pascal Froissart (CELSA/GRIPIC)
 
-[**Accéder au CV**](../../membres/bordier_clara)
+**Titre complet :** La mobilisation de l’expertise dans la presse française pour cadrer le phénomène des théories du complot : analyse des mécanismes de (dis)qualification
+
+**Date de début de la thèse :** Octobre 2021
 
 **Résumé de la thèse :** 
 

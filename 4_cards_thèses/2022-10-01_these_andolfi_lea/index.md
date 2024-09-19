@@ -1,7 +1,8 @@
 ---
 uuid: 7077b2b0-cc0d-488b-ad23-a243d01e720c
 
-title: "Films d'époque, spectateurs, et jeux de regard : la construction du genre à travers le temps par le dispositif visuel du cinéma"
+title: "Films d'époque, spectateurs, et jeux de regard"
+
 tags:
     - genre
     - cinéma
@@ -12,11 +13,13 @@ tags:
 
 ![](these-2.png)
 
-**Candidate :** Léa Andolfi
+**Candidate :** [Léa Andolfi](../../membres/andolfi_lea)
 
 **Direction de la thèse :** Virginie Julliard (CELSA/GRIPIC) et Sarah Lécossais (Sorbonne Paris Nord/LabSIC)
 
-[**Accéder au CV**](../../membres/andolfi_lea)
+**Titre complet:** Films d'époque, spectateurs, et jeux de regard : la construction du genre à travers le temps par le dispositif visuel du cinéma
+
+**Date de début de la thèse :** Octobre 2022
 
 **Résumé de la thèse :** 
 
