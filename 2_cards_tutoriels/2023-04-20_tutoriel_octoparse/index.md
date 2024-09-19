@@ -1,4 +1,6 @@
 ---
+uuid: 3bfe1e96-c7f5-4ee3-8211-c1e47a1d0261
+
 title: Octoparse
 author: felix
 abstract: "Découvrir l’outil Octoparse, permettant d’effectuer du scraping, c’est à dire de récupérer les données provenant de sites internet de façon automatisée."

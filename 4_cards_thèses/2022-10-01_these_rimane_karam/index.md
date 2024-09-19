@@ -1,4 +1,6 @@
 ---
+uuid: ca0f2d4e-5c94-46b5-b86b-411f9ee49b1a
+
 title: Grammaire du moyen arabe levantin, XVIII-XXe siècles. Analyse de grands corpus en littérature populaire arabe et développement des outils de textométrie adaptés.
 tags: 
     - moyen arabe

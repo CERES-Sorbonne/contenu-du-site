@@ -1,4 +1,6 @@
 ---
+uuid: ac849d26-bf02-422a-9438-82cbaacc2940
+
 title: "Excel : usages en SHS"
 author: edouard
 tags:

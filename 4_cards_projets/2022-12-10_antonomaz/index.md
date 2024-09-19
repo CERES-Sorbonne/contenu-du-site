@@ -1,4 +1,6 @@
 ---
+uuid: cbbe0a05-2c3c-4005-a8bf-87f006e58783
+
 title: Antonomaz — Analyse automatique et numérisation des Mazarinades
 author: ceres
 abstract: 'Le projet Antonomaz vise à exploiter un corpus de plus de 6000 écrits du milieu du 17e siècle ayant pour objet les affaires politiques de la régence du cardinal Mazarin, et traditionnellement appelés "Mazarinades". Notre approche se situe dans le champ des Humanités Numériques et cherche à fournir des méthodes automatiques, empruntant au Traitement Automatique des Langues et à la Fouille de Données, pour l’analyse de ces données par les experts de plusieurs disciplines (historiens, linguistiques, littéraires).'

@@ -1,4 +1,6 @@
 ---
+uuid: a4f70162-e546-4f09-b788-c7046811dc0f
+
 title: 'Annonce de thèse : Changer de prénom sur le Web quand on est trans'
 author: ceres
 tags:

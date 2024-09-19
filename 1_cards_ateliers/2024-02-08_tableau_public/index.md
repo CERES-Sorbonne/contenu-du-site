@@ -1,4 +1,6 @@
 ---
+uuid: d93df544-19c3-4892-a535-7dc1b62d6427
+
 title: Atelier Tableau Public
 author: ceres
 tags:

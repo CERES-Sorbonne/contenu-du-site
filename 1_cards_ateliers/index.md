@@ -1,4 +1,6 @@
 ---
+uuid: 1163a59a-aa54-4539-b87f-57cbe9768bdc
+
 title: Ateliers
 ---
 

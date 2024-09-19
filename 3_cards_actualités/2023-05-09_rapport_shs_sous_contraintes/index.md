@@ -1,4 +1,6 @@
 ---
+uuid: 462c324d-70db-41b1-9594-17e58feae49a
+
 title: 'Rapport : La recherche en SHS au croisement de multiples contraintes'
 author : ceres
 abstract: Rapport sur le cadre juridique applicable à l’usage de données issues de réseaux socio-numériques à des fins de recherche scientifique

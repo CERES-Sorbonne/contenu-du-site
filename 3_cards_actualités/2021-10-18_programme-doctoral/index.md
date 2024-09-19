@@ -1,4 +1,6 @@
 ---
+uuid: b19cb6b7-bcbf-4a78-9c16-f7c885d661b7
+
 title: 'Programme doctoral'
 author: ceres
 abstract: 'Ce programme doctoral soutient des projets de recherche en Sciences Humaines et Sociales désireux de recourir aux outils informatiques pour étudier des terrains numériques ; collecter, explorer, analyser, annoter ou publier des corpus numériques et numérisés.'

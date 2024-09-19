@@ -1,4 +1,6 @@
 ---
+uuid: 7077b2b0-cc0d-488b-ad23-a243d01e720c
+
 title: "Films d'époque, spectateurs, et jeux de regard : la construction du genre à travers le temps par le dispositif visuel du cinéma"
 tags:
     - genre

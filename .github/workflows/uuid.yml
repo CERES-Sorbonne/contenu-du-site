@@ -1,0 +1,63 @@
+name: Add UUID to New Files
+
+on:
+  push:
+    branches:
+      - main  # Modifie selon la branche sur laquelle tu veux que l'action se déclenche
+
+jobs:
+  add_uuid:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check for new files and add UUID to frontmatter
+        run: |
+          # Liste les fichiers ajoutés lors du dernier commit
+          new_files=$(git diff --find-renames --name-only --diff-filter=A -z HEAD~1)
+          
+          echo "Fichiers ajoutés lors du dernier commit:"
+          echo "$new_files"
+
+          for file in $new_files; do
+            echo "Vérification du fichier: $file"
+            # Vérifie si le fichier a un frontmatter (typique des fichiers Markdown)
+            if [[ "$file" == *.md || "$file" == *.markdown ]]; then
+              echo "Fichier Markdown détecté: $file"
+              # Ajoute un UUID si le frontmatter n'en contient pas
+              if ! grep -q 'uuid:' "$file"; then
+                uuid=$(uuidgen)
+                sed -i '0,/---/{s/---/---\nuuid: '"$uuid"'\n/}' "$file" 
+                echo "UUID ajouté au fichier: $file"
+              fi
+            fi
+          done
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Vérifie s'il y a des modifications à commit
+          if [[ $(git status --porcelain) ]]; then
+            git add .
+            git commit -m "Add UUID to new files [skip ci]"  # Message pour éviter le déclenchement en boucle
+            git push
+          fi
+
+#      - name: Update the files
+#        uses: stefanzweifel/git-auto-commit-action@v5
+#        with:
+#          commit_message: "Add UUID to new files [skip ci]"
+#          file_pattern: "."
+#          status_options: '--untracked-files=no'
+#
+#      - name: Push changes
+#        uses: ad-m/github-push-action@master
+#        with:
+#          github_token: ${{ secrets.GITHUB_TOKEN }}
+#          branch: ${{ env.REF }}

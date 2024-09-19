@@ -1,4 +1,6 @@
 ---
+uuid: e00c0aa7-c2b1-41ad-bbd7-f13c268e22a3
+
 title: "Séminaire doctoral : Data-prompted interviewing"
 event: true
 tags: 

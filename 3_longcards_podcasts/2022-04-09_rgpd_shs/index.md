@@ -1,4 +1,6 @@
 ---
+uuid: fca2ef46-6703-4b01-8af8-ce68902e4bc4
+
 title: RGPD et sciences sociales
 author: ceres
 tags:

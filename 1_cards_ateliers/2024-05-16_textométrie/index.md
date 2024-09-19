@@ -1,4 +1,6 @@
 ---
+uuid: 962f9c1f-87d1-4e65-9309-ef8d4e7ca974
+
 title: Ateliers Textométrie 16/05 TXM niveau 2
 author: ceres
 tags:

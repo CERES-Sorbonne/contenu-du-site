@@ -1,4 +1,6 @@
 ---
+uuid: 2231d3d7-7944-43bd-aa49-723d17cf8843
+
 title: Atelier Panoptic
 author: ceres
 tags:

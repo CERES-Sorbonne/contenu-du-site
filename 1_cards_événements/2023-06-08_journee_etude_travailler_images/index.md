@@ -1,4 +1,6 @@
 ---
+uuid: cacfb2b0-7ed8-4566-8a79-3e1ecbde0030
+
 title: Journée d'études "Travailler avec les images" - 8 juin 2023
 author: edouard
 event: true

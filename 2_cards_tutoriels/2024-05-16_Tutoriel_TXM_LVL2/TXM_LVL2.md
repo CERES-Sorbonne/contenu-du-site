@@ -1,4 +1,6 @@
 ---
+uuid: 7e795cbe-ee56-471c-8dfb-9978dbeb7301
+
 title: "TXM : Analyser un corpus de presse"
 author: gm
 tags:
