@@ -6,7 +6,7 @@ title: 'Une « viralité » des discours avant Internet ?'
 
 # Informations clés
 
-**Candidat :** Marceau Hernandez
+**Candidat :** (Marceau Hernandez)[https://ceres.sorbonne-universite.fr/1c808d15-d54d-47cd-b831-7f5550f13483}
 
 **Direction de la thèse :** Karine Abiven et Gaël Lejeune (Sorbonne Université, STIH)
 
