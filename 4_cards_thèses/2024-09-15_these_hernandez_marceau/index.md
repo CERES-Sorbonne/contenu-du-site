@@ -1,4 +1,6 @@
 ---
+uuid: c71cf7af-4bfd-4ac3-8ddf-c510b480e7a4
+
 title: 'Une « viralité » des discours avant Internet ?'
 ---
 
