@@ -1,7 +1,6 @@
 ---
 uuid: 9505d50f-9ff8-4bb3-95a3-8c3f7137df3e
-
-title: 'Panoptic dans les actes d'Humanistica 2024'
+title: "Panoptic dans les actes d'Humanistica 2024"
 tags:
     - panoptic
     - publication
