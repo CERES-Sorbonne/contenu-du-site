@@ -1,0 +1,11 @@
+nom,description,fonctions,phases,données,difficulté,source
+TXM,Text mining software,text analysis;corpus exploration;statistical models,data preparation;analysis;visualization,textual data;corpus;metadata,medium,https://txm.sourceforge.io/
+Scikit-learn,Machine learning library for Python,classification;regression;clustering,data preparation;modeling;evaluation,numerical data;categorical data;time series,high,https://scikit-learn.org/
+Matplotlib,Plotting library for Python,visualization;plotting;charting,data preparation;visualization,numerical data;categorical data,low,https://matplotlib.org/
+Pandas,Data analysis library for Python,data manipulation;cleaning;transformation,data preparation;analysis,numerical data;categorical data;missing data,medium,https://pandas.pydata.org/
+NumPy,Library for numerical computing in Python,array manipulation;mathematical functions;statistics,data preparation;analysis,numerical data;matrix data;large datasets,medium,https://numpy.org/
+TensorFlow,Deep learning framework,deep learning;neural networks;training,data preparation;modeling;training,numerical data;image data;text data,high,https://tensorflow.org/
+Keras,High-level neural networks API,deep learning;neural networks;modeling,data preparation;modeling;training,numerical data;image data;text data,medium,https://keras.io/
+Jupyter,Interactive computing environment,notebook execution;interactive widgets;code sharing,data preparation;analysis;documentation,notebooks;code;documentation,low,https://jupyter.org/
+Anaconda,Python distribution for data science,package management;environment management;distribution,setup;development;execution,packages;dependencies;Python environments,medium,https://anaconda.com/
+RStudio,Integrated development environment for R,data manipulation;visualization;reporting,data preparation;analysis;documentation,R scripts;datasets;output files,medium,https://rstudio.com/
