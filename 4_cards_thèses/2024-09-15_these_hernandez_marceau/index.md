@@ -10,14 +10,14 @@ title: 'Une « viralité » des discours avant Internet ?'
 
 **Candidat :** [Marceau Hernandez](https://ceres.sorbonne-universite.fr/1c808d15-d54d-47cd-b831-7f5550f13483)
 
-**Direction de la thèse :** Karine Abiven et Gaël Lejeune (Sorbonne Université, STIH)
+**Direction de la thèse :** Karine Abiven et [Gaël Lejeune](https://ceres.sorbonne-universite.fr/e773d338-1a90-469f-878b-5b5c2d5d1226/) (Sorbonne Université, STIH)
 
 **Titre complet :** Une « viralité » des discours avant Internet ? Pour une recherche des similarités de textes et d’images dans les des corpus d’Ancien Régime
 
 **Date de début de la thèse :** Octobre 2024
 
 # Résumé / Abstract
-## French
+## Résumé en français
 **Résumé de la thèse (en français):**
 
 Ce projet de thèse explore les phénomènes de circulation des documents numérisés de l'Ancien Régime, en particulier durant la Fronde (1648-1653).
@@ -40,7 +40,7 @@ Dans le contexte de cette recherche sur la Fronde, l’analyse de la viralité d
 
 Ce projet se situe à la frontière entre les sciences du langage et les sciences de l'information et de la communication.
 
-## English
+## Abstract in english
 **Thesis abstract (in english):**
 
 This thesis project explores the phenomena of circulation in digitized documents from the Ancien Régime, particularly during the Fronde (1648-1653). Although these phenomena are often associated with digital media, they can be observed in environments induced by the artisanal press (Dosse, F. 2005).
