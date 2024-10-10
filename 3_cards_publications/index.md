@@ -76,4 +76,4 @@ Cette section propose une collection de publications scientifiques qui résulte 
 
 ## Rapports
 
-- Rossi, Julien. 2023. [« La recherche en SHS au croisement de multiples contraintes. Rapport sur le cadre juridique applicable à l’usage de données issues de réseaux socio-numériques à des fins de recherche scientifique »](../../podcasts/2022-04-09_rgpd_shs/), _rapport pour le CERES_.
+- Rossi, Julien. 2023. [« La recherche en SHS au croisement de multiples contraintes. Rapport sur le cadre juridique applicable à l’usage de données issues de réseaux socio-numériques à des fins de recherche scientifique »](https://ceres.sorbonne-universite.fr/5d215a28-7921-483b-9fa3-018751904eb0/), _rapport pour le CERES_.
