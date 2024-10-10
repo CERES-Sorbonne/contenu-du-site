@@ -28,6 +28,6 @@ Ce logiciel sera très utile aux chercheur·ses en sciences humaines et sociales
 ## Pour aller plus loin
 
 - [Créer un compte sur Tableau Public](https://public.tableau.com/desktop/signup_unification.html)
-- [Lire le tutoriel écrit](./../2_cards_tutoriels/2024-02-08_Tutoriel_tableau_Public/)
+- [Lire le tutoriel écrit](https://ceres.sorbonne-universite.fr/5a7a8657-fc56-4603-b2ae-b728f0641c70/)
 
 ![](tableau-public.png)
