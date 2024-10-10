@@ -59,7 +59,7 @@ Dans cet atelier qui a eu lieu le 26 novembre 2023, Gaël Lejeune a présenté d
 4. L'extraction de données structurées à l'aide de l'outil [Europarser](https://ceres.huma-num.fr/europarser) qui permet d'obtenir des fichiers HTML à partir d'Europresse.
 5. L'exploitation de ces données structurées dans Excel, TXM, etc.
 
-Pour la partie *extraction*, vous pouvez vous référer au [tutoriel](https://ceres.sorbonne-universite.fr/articles/2023-06-09_tuto_europresse/) que nous avons mis à disposition en ligne.
+Pour la partie *extraction*, vous pouvez vous référer au [tutoriel](https://ceres.sorbonne-universite.fr/b9bad163-a7f9-400f-b0d1-6a727a8c69e8/) que nous avons mis à disposition en ligne.
 
 Quelques problèmes ont été identifiés et seront abordés dans de futurs ateliers :
 
