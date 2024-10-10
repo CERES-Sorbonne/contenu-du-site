@@ -1,5 +1,6 @@
 ---
 uuid: 19fd7092-a2c4-40f2-a28c-e26489410bea
+prettyName: test
 
 title: Édouard Bouté
 author: edouard
