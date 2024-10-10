@@ -1,5 +1,6 @@
 ---
 uuid: cbbe0a05-2c3c-4005-a8bf-87f006e58783
+prettyName: Antonomaz
 
 title: Antonomaz — Analyse automatique et numérisation des Mazarinades
 author: ceres

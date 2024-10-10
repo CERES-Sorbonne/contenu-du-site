@@ -1,5 +1,6 @@
 ---
 uuid: 462c324d-70db-41b1-9594-17e58feae49a
+prettyName: RapportJulienRossi
 
 title: 'Rapport : La recherche en SHS au croisement de multiples contraintes'
 author : ceres

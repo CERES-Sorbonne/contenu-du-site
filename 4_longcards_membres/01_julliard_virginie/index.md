@@ -1,5 +1,6 @@
 ---
 uuid: 68e19b73-45d4-434d-9aaa-7ea330f93c3b
+prettyName: VirginieJulliard
 
 title: Virginie Julliard
 author: ceres

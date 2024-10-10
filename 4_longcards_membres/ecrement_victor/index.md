@@ -1,5 +1,6 @@
 ---
 uuid: 75d8ddf6-0ea3-4523-94c1-fa470b473665
+prettyName: VictorEcrement
 
 title: Victor Écrement
 abstract: Ingénieur d'études de 2022 à 2023

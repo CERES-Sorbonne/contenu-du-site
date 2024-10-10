@@ -1,5 +1,6 @@
 ---
 uuid: 62d811e8-9aac-4b36-ad9c-539c93bc951a
+prettyName: AdelieLaruncet
 
 title: Adélie Laruncet 
 abstract: Doctorante

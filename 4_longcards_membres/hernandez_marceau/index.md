@@ -1,6 +1,6 @@
 ---
 uuid: 1c808d15-d54d-47cd-b831-7f5550f13483
-prettyName: test
+prettyName: MarceauHernandez
 
 title: Marceau Hernandez
 abstract: Doctorant en Traitement Automatique des Langues Naturelles

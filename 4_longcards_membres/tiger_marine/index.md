@@ -1,5 +1,6 @@
 ---
 uuid: bbe77c07-a754-4d55-9adc-5bf4d24af316
+prettyName: MarineTiger
 
 title: Marine Tiger
 abstract: Doctorante

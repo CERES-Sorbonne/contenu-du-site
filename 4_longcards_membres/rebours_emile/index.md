@@ -1,5 +1,6 @@
 ---
 uuid: ce587189-cfa6-450c-bbda-e2de44851e57
+prettyName: EmileRebours
 
 title: Émile Rebours
 abstract: Ingénieur Design

@@ -1,5 +1,6 @@
 ---
 uuid: 96e141fc-9b1e-4881-afdf-190df307e488
+prettyName: Panoptic
 
 title: 'Outil CERES : Panoptic'
 author: ceres

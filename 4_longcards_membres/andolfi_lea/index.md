@@ -1,5 +1,6 @@
 ---
 uuid: 3348373b-31ff-4283-b6ac-893c339f889c
+prettyName: LeaAndolfi
 
 title: Léa Andolfi
 abstract: Doctorante en sciences de l'information et de la communication

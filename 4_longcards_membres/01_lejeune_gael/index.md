@@ -1,5 +1,6 @@
 ---
 uuid: e773d338-1a90-469f-878b-5b5c2d5d1226
+prettyName: GaelLejeune
 
 title: Gaël Lejeune
 abstract: Directeur adjoint du CERES - Maître de Conférences HDR en Informatique

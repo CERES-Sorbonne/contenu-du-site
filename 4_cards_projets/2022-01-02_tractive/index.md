@@ -1,5 +1,6 @@
 ---
 uuid: 33a43a34-7b88-47d6-bd5d-0b283586595a
+prettyName: Tractive
 
 title: "ANR Tractive : Vers une analyse multimodale automatique de l'esthétique discursive filmique"
 author: ceres

@@ -1,5 +1,6 @@
 ---
 uuid: 3da3be81-98a8-4643-b3ed-6e97c870549c
+prettyName: OCRES
 
 title: 'Outil CERES : OCRES'
 author: ceres

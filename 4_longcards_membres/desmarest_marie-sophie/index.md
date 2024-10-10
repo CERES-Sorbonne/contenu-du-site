@@ -1,5 +1,6 @@
 ---
 uuid: d57736dd-46b4-47d1-99f9-8272a80d0b1e
+prettyName: MarieSophieDesmarest
 
 title: Marie-Sophie Desmarest
 abstract: Assistante de Recherche

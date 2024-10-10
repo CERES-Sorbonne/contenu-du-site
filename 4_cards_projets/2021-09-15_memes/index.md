@@ -1,5 +1,6 @@
 ---
 uuid: dc61d630-9770-40ac-badb-91f5886a9ba1
+prettyName: Memes
 
 title: Projet Memes
 author: ceres
