@@ -1,4 +1,4 @@
-nom,description,fonctions,phases,données,difficulté,source
+nom,description,fonctions,phases,donnees,difficulte,source
 TXM,Text mining software,text analysis;corpus exploration;statistical models,data preparation;analysis;visualization,textual data;corpus;metadata,medium,https://txm.sourceforge.io/
 Scikit-learn,Machine learning library for Python,classification;regression;clustering,data preparation;modeling;evaluation,numerical data;categorical data;time series,high,https://scikit-learn.org/
 Matplotlib,Plotting library for Python,visualization;plotting;charting,data preparation;visualization,numerical data;categorical data,low,https://matplotlib.org/
