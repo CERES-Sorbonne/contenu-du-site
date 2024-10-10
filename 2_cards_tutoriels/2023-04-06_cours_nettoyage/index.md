@@ -208,6 +208,6 @@ Toutes ces options — trier, grouper, filtrer, rechercher — peuvent être uti
 
 <aside>
 
-Si vous souhaitez aller plus loin, n'hésitez pas à lire notre [guide complet sur Notion pour la recherche en sciences sociales](../2022-03-05_guide_notion/).
+Si vous souhaitez aller plus loin, n'hésitez pas à lire notre [guide complet sur Notion pour la recherche en sciences sociales](https://ceres.sorbonne-universite.fr/e1700c76-c8eb-4cb1-841f-fcc2e9c57665/).
 
 </aside>
