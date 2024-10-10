@@ -12,7 +12,7 @@ tags:
 
 ![](rgpd.png)
 
-Un [atelier RGPD/PGD](../../ateliers/2021-11-19_pgd_rgpd_donnees_personnelles/), a été animé par Julien Rossi, Cécile Arènes et Océane Valencia. Différentes problématiques de recherche ont été soulevées par les participants durant cet atelier. Celles-ci concernaient les sujets suivants :
+Un [atelier RGPD/PGD](https://ceres.sorbonne-universite.fr/e2789007-92d4-4323-95b4-a23cda155448/), a été animé par Julien Rossi, Cécile Arènes et Océane Valencia. Différentes problématiques de recherche ont été soulevées par les participants durant cet atelier. Celles-ci concernaient les sujets suivants :
 
 1. Statut des images
 2. Travail sur les réseaux
@@ -22,7 +22,7 @@ Un [atelier RGPD/PGD](../../ateliers/2021-11-19_pgd_rgpd_donnees_personnelles/),
 
 Ce guide fournit plusieurs éléments de réponses sur ces sujets.
 
-Pour aller plus loin, un rapport concernant le cadre juridique applicable à l'usage des données issues des réseaux socio-numériques à des fins de recherche scientifique a également été rédigé par Julien Rossi. Il est à retrouver [ici](../../actualites//2023-05-09_rapport_shs_sous_contraintes/).
+Pour aller plus loin, un rapport concernant le cadre juridique applicable à l'usage des données issues des réseaux socio-numériques à des fins de recherche scientifique a également été rédigé par Julien Rossi. Il est à retrouver [ici](https://ceres.sorbonne-universite.fr/462c324d-70db-41b1-9594-17e58feae49a/).
 
 ## 1. Statut des images
 
