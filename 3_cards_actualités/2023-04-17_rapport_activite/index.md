@@ -375,7 +375,7 @@ Karam
 
 [^6]: <https://orcid.org/>
 
-[^7]: cf. <https://ceres.sorbonne-universite.fr/articles/2022-03-15_pgd_rgpd_reponses_aux_questions/>
+[^7]: cf. [Guide RGPD / PGD pour les SHS](https://ceres.sorbonne-universite.fr/5d215a28-7921-483b-9fa3-018751904eb0/)
 
 [^8]: <https://www.cidoc-crm.org/>
 
