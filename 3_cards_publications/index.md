@@ -14,9 +14,15 @@ Cette section propose une collection de publications scientifiques qui résulte 
 
 ## Articles 
 
+- Petkovic, Ljudmila, Caroline Koudor-Parfait, Marie-Sophie Desmarest, and Gaël Lejeune. ‘Bruit de Fond Ou Valeur Ajoutée ? Gérer Le Bruit Lors Des Traitements Informatiques Des Corpus Linguistiques’. Revue Corpus, 2024, to-appear. [https://journals.openedition.org/corpus/2577](https://journals.openedition.org/corpus/2577)
 - Couffignal, Gilles. 2024.[ « Les anges parlent-ils occitan ? Analyse d’un corpus de noëls toulousains de la seconde moitié du xviiie siècle »](http://journals.openedition.org/revuehn/4043). _Humanités numériques_ n° 9.
 
 - Grison, Thibault, Virginie Julliard, Félix Alié et Victor Ecrement. 2023. [« La modération abusive sur Twitter. Étude de cas sur l’invisibilisation des contenus LGBT et TDS en ligne »](https://shs.cairn.info/revue-reseaux-2023-1-page-119?lang=fr). _Réseaux_, n° 237/1 : 119‑149.
+
+- Abiven, Karine, Alexandre Bartz, Gaël Lejeune, and Jean-Baptiste Tanguy. ‘Vers Une Collection numÃ©rique Des Libelles Parus Pendant La Fronde, Ou Comment Relier Des Mazarinades’. Le Verger, no. 23 (May 2022). [http://cornucopia16.com/blog/2022/04/24/karine-abiven-alexandre-bartz-gael-lejeune-et-jean-baptiste-tanguy-vers-une-collection-numerique-des-libelles-parus-pendant-la-fronde-ou-comment-relier-des-mazarinades/](http://cornucopia16.com/blog/2022/04/24/karine-abiven-alexandre-bartz-gael-lejeune-et-jean-baptiste-tanguy-vers-une-collection-numerique-des-libelles-parus-pendant-la-fronde-ou-comment-relier-des-mazarinades/).
+
+- Yapomo, Manuela, and Gaël Lejeune. ‘Les Innovations Lexicales Dans Le Domaine Des énergies renouvelables : Exploitation Du Contraste de Corpus Comme Moyen de repérage’. Neologica, no. 16 (March 2022): 223–45. [https://classiques-garnier.com/neologica.html](https://classiques-garnier.com/neologica.html).
+
 
 ## Chapitres d'ouvrages
 
@@ -28,6 +34,11 @@ Cette section propose une collection de publications scientifiques qui résulte 
 
 - Bouté Edouard, Virginie Julliard, Félix Alié, David Godicke, Victor Écrement et fred pailler. 2024. [« PANOPTIC, un outil d’exploration par similarité de vastes corpus d’images »](https://hal.science/hal-04687627), _Colloque annuel de l’Association francophone des humanités numériques Humanistica_.
 
+- Bordier, Clara, Matthis Matej, Adélie Laruncet, Marceau Hernandez et Gaël Lejeune. 2024. « Plongée dans le lexique du Conspirationnisme dans la presse nationale française », _JADT 2024 - 17es Journées internationales d'Analyse statistique des Données Textuelles_, Bruxelles, 25 au 27 juin 2024.
+- Martinc, Matej, Adélie Laruncet, Clara Bordier, Marceau Hernandez, Senja Pollak et Gaël Lejeune. 2024. « The Evolution of Bias in French News Media: How Does Political Orientation Affect Semantic Change? », _JADT 2024 - 17es Journées internationales d'Analyse statistique des Données Textuelles_, Bruxelles, 25 au 27 juin 2024
+
+- Schaeffer-Lacroix, Eva. 2024. [« Adverbs as markers of women's objectification events in audio descriptions of English feature films »](https://hal.science/hal-04631271v1), _JADT 2024 - 17es Journées internationales d'Analyse statistique des Données Textuelles_, Bruxelles, 25 au 27 Juin 2024.
+
 - Bezançon, Julien et Gaël Lejeune. 2023. [« Reconnaissance de défigements dans des tweets en français par des mesures de similarité sur des alignements textuels »](https://hal.science/hal-04130174/), Dans _Actes de CORIA-TALN 2023 : Actes de la 30e Conférence sur le Traitement Automatique des Langues Naturelles (TALN), volume 1 : travaux de recherche originaux - articles longs_. 56–67.
 
 - Bouté, Edouard. 2023. [« Militantisme transplateforme : la répression policière des Gilets jaunes entre Facebook et Twitter »](https://edouardboute.github.io/files/Boute_SFSIC2023.pdf), _Actes du XXIIIème Congrès de la Sfsic : la numérisation des sociétés, Volume 1_.. 175-185.
@@ -36,7 +47,6 @@ Cette section propose une collection de publications scientifiques qui résulte 
 
 - Andolfi Léa, Edouard Bouté et Virginie Julliard. 2024. « Analyser des documents audiovisuels numériques dans un espace dédié : comparaison d’un corpus de vidéos courtes issues du web et d’un corpus de films », _Colloque international du consortium Huma-Num Canevas : Des corpus audiovisuels en Humanités. Méthodes, expériences, résultats_, MSH Paris Nord, 30-31 mai 2024.
 
-- Bordier, Clara, Matthis Matej, Adélie Laruncet, Marceau Hernandez et Gaël Lejeune. 2024. « Plongée dans le lexique du Conspirationnisme dans la presse nationale française », _JADT 2024 - 17es Journées internationales d'Analyse statistique des Données Textuelles_, Bruxelles, 25 au 27 juin 2024.
 
 - Bouté Edouard. 2024. « Saisir la circulation des biens informationnls dans un contexte transplateforme. Le cas des vidéos de violences policières », _Séminaire du groupe de travail Enjeux sociaux, mutations et pouvoirs de la vidéo du consortium Canevas_, Paris, 27 septembre 2024.
 
@@ -46,11 +56,11 @@ Cette section propose une collection de publications scientifiques qui résulte 
 
 - Karam Rimane. 2024. « Les langues arabes dans les outils numériques d’analyse textuelle d’aujourd’hui : changement de paradigme et nouvelles limites », _Atelier des doctorants d'Orient et Méditerranée, Sorbonne Université (Irbimma)_, Paris, 23 janvier 2024.
 
-- Martinc, Matej, Adélie Laruncet, Clara Bordier, Marceau Hernandez, Senja Pollak et Gaël Lejeune. 2024. « The Evolution of Bias in French News Media: How Does Political Orientation Affect Semantic Change? », _JADT 2024 - 17es Journées internationales d'Analyse statistique des Données Textuelles_, Bruxelles, 25 au 27 juin 2024
 
-- Schaeffer-Lacroix, Eva. 2024. [« Adverbs as markers of women's objectification events in audio descriptions of English feature films »](https://hal.science/hal-04631271v1), _JADT 2024 - 17es Journées internationales d'Analyse statistique des Données Textuelles_, Bruxelles, 25 au 27 Juin 2024.
 
 - Alié, Félix, Edouard Bouté, Victor Écrement. 2023. « Génèse, création et fonctionnement de l’outil de visualisation Panoptic », _Séminaire MetSem_, Sciences Po Paris, 23 Novembre 2023.
+
+- Koudoro-Parfait, Caroline, Motasem Alrahabi, Yoann Dupont, Gaã«l Lejeune, and Glenn Roe. ‘Mapping Spatial Named Entities from Noisy OCR Output: Epimethee from OCR to Map’. In Digital Humanities Conference (DH), to appear. Graz, Autriche: DH, 2023.
 
 - Bouté, Edouard et Virginie Julliard. 2023. « Enjeux de tri et d’exploration de vastes corpus d’images fixes et vidéos collectées sur Twitter », _Journée d’études : Travailler avec les images. Maison de la Recherche de Sorbonne Université_, Paris, 8 juin 2023.
 
