@@ -25,4 +25,4 @@ Grâce aux progrès de l'Intelligence Artificielle (IA) et de la linguistique co
 
 Pour plus de détails, rendez-vous sur la page projet sur le site de l'ANR en [cliquant ici](https://anr.fr/Projet-ANR-21-CE38-0012).
 
-Deux journées d'études sur le travail avec les images animées ont ainsi été organisées en collaboration avec Tractive, les [8 juin 2023](https://ceres.sorbonne-universite.fr/%C3%A9v%C3%A9nements/2023-06-08_journee_etude_travailler_images/) et [21 décembre 2023](https://ceres.sorbonne-universite.fr/%C3%A9v%C3%A9nements/2023-12-21_travailler_avec_images_mouvement/).
+Deux journées d'études sur le travail avec les images animées ont ainsi été organisées en collaboration avec Tractive, les [8 juin 2023](https://ceres.sorbonne-universite.fr/cacfb2b0-7ed8-4566-8a79-3e1ecbde0030/) et [21 décembre 2023](https://ceres.sorbonne-universite.fr/c8487d40-b95a-474a-9f4e-c3723bc06255/).
