@@ -11,7 +11,7 @@ sound: https://dropsu.sorbonne-universite.fr/s/GMxsJbMHpBcDGFB/download/Alexandr
 
 ![](antonomaz.jpg)
 
-**Alexandre Bartz** est ingénieur sur le projet [Antonomaz](../../cards_projets/2022-12-10_antonomaz/), diplômé d’un cursus d’Histoire et du master "Technologies numériques appliquées à l’Histoire" de l’Ecole des Chartes.
+**Alexandre Bartz** est ingénieur sur le projet [Antonomaz](https://ceres.sorbonne-universite.fr/cbbe0a05-2c3c-4005-a8bf-87f006e58783/), diplômé d’un cursus d’Histoire et du master "Technologies numériques appliquées à l’Histoire" de l’Ecole des Chartes.
 
 Vous pouvez compléter l’écoute de ce podcast en consultant les ressources évoquées par Alexandre :
 
