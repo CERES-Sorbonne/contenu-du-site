@@ -45,7 +45,7 @@ Le diaporama de Gaël Lejeune (STIH/CERES) pour la séance du 26 novembre 2023, 
 
 ##### Pour aller plus loin :
 - [Installer TXM](https://txm.gitpages.huma-num.fr/textometrie/)
-- [Ecouter un des podcasts CERES spécifiquement dédié à TXM](/../podcasts/2022-10-15_txm/)
+- [Ecouter un des podcasts CERES spécifiquement dédié à TXM](https://ceres.sorbonne-universite.fr/6d73c78d-b5b9-4b8b-b592-54d6908a7fc2/)
 - [Suivre l'excellent tutoriel de Flora Badin ](https://www.youtube.com/watch?v=ZGycjQbqqJ0)
 
 #### Voyant Tools
