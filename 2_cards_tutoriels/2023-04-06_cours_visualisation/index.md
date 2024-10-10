@@ -38,7 +38,7 @@ Quelques ressources pour trouver des visualisations adaptées à ses besoins, d�
 
 | Contexte de recherche | Description | Utilité pour la recherche |
 |-|-|-|
-| [Étude sur la modération abusive des propos de comptes LGBT et TDS sur Twitter](../../actualit%C3%A9s/2023-03-09_publication_reseaux/)  | Diagrammes circulaires de mots-clés liés aux LGBT contenus dans des tweets | Voir si les proportions par mot-clé changeaient entre le total des tweets et les tweets modérés. |
+| [Étude sur la modération abusive des propos de comptes LGBT et TDS sur Twitter](https://shs.cairn.info/revue-reseaux-2023-1-page-119?lang=fr)  | Diagrammes circulaires de mots-clés liés aux LGBT contenus dans des tweets | Voir si les proportions par mot-clé changeaient entre le total des tweets et les tweets modérés. |
 
 ## Tableau Public
 
@@ -53,13 +53,13 @@ Quelques ressources pour trouver des visualisations adaptées à ses besoins, d�
 
 | Contexte de recherche | Description | Utilité pour la recherche |
 |-|-|-|
-| [Étude sur la modération abusive des propos de comptes LGBT et TDS sur Twitter](../../actualit%C3%A9s/2023-03-09_publication_reseaux/) | Histogramme des dates et heures de publication des tweets supprimés, colorés en fonction des mots qu’ils contiennent. | Observer si la journée mondiale contre l’homophobie du 17 mai allait avoir un impact sur le nombre de tweets liés aux LGBT modérés. Essayer de repérer des périodes où certains mots sont plus modérés. Explorer le corpus. |
+| [Étude sur la modération abusive des propos de comptes LGBT et TDS sur Twitter](https://shs.cairn.info/revue-reseaux-2023-1-page-119?lang=fr) | Histogramme des dates et heures de publication des tweets supprimés, colorés en fonction des mots qu’ils contiennent. | Observer si la journée mondiale contre l’homophobie du 17 mai allait avoir un impact sur le nombre de tweets liés aux LGBT modérés. Essayer de repérer des périodes où certains mots sont plus modérés. Explorer le corpus. |
 
 ![](Screenshot_2022-05-28_at_19.57.23.png)
 
 | Contexte de recherche | Description | Utilité pour la recherche |
 |-|-|-|
-| [Étude sur la modération abusive des propos de comptes LGBT et TDS sur Twitter](../../actualit%C3%A9s/2023-03-09_publication_reseaux/) | 4 diagrammes circulaires représentant la proportion de tweets par mot-clé, en fonction de s’ils ont été supprimés et de s’ils sont insultants.  | Comparer les proportions de suppression pour différents mots-clés. |
+| [Étude sur la modération abusive des propos de comptes LGBT et TDS sur Twitter](https://shs.cairn.info/revue-reseaux-2023-1-page-119?lang=fr) | 4 diagrammes circulaires représentant la proportion de tweets par mot-clé, en fonction de s’ils ont été supprimés et de s’ils sont insultants.  | Comparer les proportions de suppression pour différents mots-clés. |
 
 ![](Screenshot_2022-11-17_at_10.47.44.png)
 
@@ -67,7 +67,7 @@ Quelques ressources pour trouver des visualisations adaptées à ses besoins, d�
 
 | Contexte de recherche | Description | Utilité pour la recherche |
 |-|-|-|
-| [Étude fictive sur l’évolution des créations d’entreprises en France à partir du répertoire SIRENE.](../2023-03-09_tutoriel_tableau_public/) | 2 diagrammes liés, lorsqu’on clique sur une section de l’un, l’autre se modifie. Un histogramme avec une courbe cumulative, montrant la quantité d’entreprises créées en France depuis 1900, et un diagramme en bulles représentant les proportions d’entreprises selon différentes catégories d’activités | Rapidement visualiser le genre d’activités qui ont été créées sur une année. Rapidement visualiser quelles ont été les périodes importantes pour un type d’activités en France. |
+| [Étude fictive sur l’évolution des créations d’entreprises en France à partir du répertoire SIRENE.](https://ceres.sorbonne-universite.fr/5a7a8657-fc56-4603-b2ae-b728f0641c70/) | 2 diagrammes liés, lorsqu’on clique sur une section de l’un, l’autre se modifie. Un histogramme avec une courbe cumulative, montrant la quantité d’entreprises créées en France depuis 1900, et un diagramme en bulles représentant les proportions d’entreprises selon différentes catégories d’activités | Rapidement visualiser le genre d’activités qui ont été créées sur une année. Rapidement visualiser quelles ont été les périodes importantes pour un type d’activités en France. |
 
 ## Gephi
 
@@ -84,7 +84,7 @@ Quelques ressources pour trouver des visualisations adaptées à ses besoins, d�
 
 | Contexte de recherche | Description | Utilité pour la recherche |
 |-|-|-|
-| [Étude de la formation de répertoires d’images dans les communautés antigenre en ligne](../../actualit%C3%A9s/2023-03-09_publication_reseaux/) | Graphe de gauche : Noeuds, comptes twitter ; Liens, les comptes ont publié une même image, colorés par groupes d’images. Graphe de droite : Noeuds, comptes twitter ; Liens, les comptes sont abonnés | Observer si le graphe de comptes qui ont publié une même image s’organisait de la même manière que celui des abonnements, ou s’il a sa logique propre. Observer si un compte qui a beaucoup d’abonné·es dans une communauté antigenre est nécessairement représentatif de son répertoire d’images |
+| Étude de la formation de répertoires d’images dans les communautés antigenre en ligne | Graphe de gauche : Noeuds, comptes twitter ; Liens, les comptes ont publié une même image, colorés par groupes d’images. Graphe de droite : Noeuds, comptes twitter ; Liens, les comptes sont abonnés | Observer si le graphe de comptes qui ont publié une même image s’organisait de la même manière que celui des abonnements, ou s’il a sa logique propre. Observer si un compte qui a beaucoup d’abonné·es dans une communauté antigenre est nécessairement représentatif de son répertoire d’images |
 
 ## Graph commons
 
@@ -110,4 +110,4 @@ Quelques ressources pour trouver des visualisations adaptées à ses besoins, d�
 
 | Contexte de recherche | Description | Utilité pour la recherche |
 |-|-|-|
-| [Étude de la formation de répertoires d’images dans les communautés antigenre en ligne](../../actualit%C3%A9s/2023-03-09_publication_reseaux/) | Graphe de réseau organisé en cercle. Chaque noeud extérieur est une image de notre corpus. Chaque lien signifie qu’un compte a publié les 2 images. Les liens sont courbés en fonction de l’appartenance à des catégories, représentées par des gros noeuds. Survoler un noeud met en avant les liens concernés. | Observer si certaines catégories d’images sont beaucoup partagées ensemble, ou sont surtout partagées entre elles. Observer si certaines images sont partagées uniquement avec certaines catégories. |
+| Étude de la formation de répertoires d’images dans les communautés antigenre en ligne | Graphe de réseau organisé en cercle. Chaque noeud extérieur est une image de notre corpus. Chaque lien signifie qu’un compte a publié les 2 images. Les liens sont courbés en fonction de l’appartenance à des catégories, représentées par des gros noeuds. Survoler un noeud met en avant les liens concernés. | Observer si certaines catégories d’images sont beaucoup partagées ensemble, ou sont surtout partagées entre elles. Observer si certaines images sont partagées uniquement avec certaines catégories. |
