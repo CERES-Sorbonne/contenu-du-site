@@ -25,7 +25,7 @@ Un premier atelier a été donné par Gaël Lejeune le 20 janvier 2022. Il s'agi
 2. Gérer les données tabulaires
 3. Préparer des données pour les utiliser notamment sur *R*.
 
-[Le support de présentation est disponible en téléchargement](http://memes.sorbonne-universite.fr/wp-content/uploads/2022/02/Gael_Lejeune_Scraping.pdf)
+[Le support de présentation est disponible en téléchargement](http://lejeunegael.fr/tmp/Tuto_Scrap.pdf)
 
 ## Scraper avec Octoparse
 
