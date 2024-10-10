@@ -313,11 +313,11 @@ Voilà, maintenant que le workflow est clair il ne reste plus qu’à faire Run,
 
 Imaginons que nous avons un site web sous la forme suivante :
 
-https://octoparse-demo.tiiny.site/
+https://ceres.huma-num.fr/octoparse/demo.html
 
 Mettons que l’on souhaite juste récupérer les blocs rouges et oranges. Il va falloir parcourir chaque bloc bleu, puis au sein de chaque bloc bleu, dire que l’on souhaite récupérer un bloc rouge, puis un bloc orange.
 
-Ce qui peut être fait très facilement dans Octoparse, on peut créer une nouvelle tâche et entrer l’url [https://octoparse-demo.tiiny.site/](https://octoparse-demo.tiiny.site/) 
+Ce qui peut être fait très facilement dans Octoparse, on peut créer une nouvelle tâche et entrer l’url [https://ceres.huma-num.fr/octoparse/demo.html](https://ceres.huma-num.fr/octoparse/demo.html)
 
 On ouvre ensuite notre workflow et on créé un nouvel élément Loop en sélectionnant le Loop Mode “Variable List” qui signifie que l’on va boucler sur une liste d’éléments.
 
