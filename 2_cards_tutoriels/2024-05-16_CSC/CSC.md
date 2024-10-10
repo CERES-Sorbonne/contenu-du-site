@@ -25,7 +25,7 @@ Cet article propose une liste de requêtes CQL pour vous aider à comooser vos p
 
 NB : Une partie de ces requêtes reposent sur des structures spécifiques présentes dans les fichiers XML importés dans TXM, vérifiez ce qui est disponible pour votre corpus au préalable.
 
-Pour approfondir les usages de TXM, vous pouvez consulter notre [tutoriel avancé sur les usages de TXM](https://ceres.sorbonne-universite.fr/tutoriels/2024-05-16_Tutoriel_TXM_LVL2/TXM_LVL2/).
+Pour approfondir les usages de TXM, vous pouvez consulter notre [tutoriel avancé sur les usages de TXM](https://ceres.sorbonne-universite.fr/7e795cbe-ee56-471c-8dfb-9978dbeb7301/).
 Ou encore consulter la [documentation officielle de TXM](https://txm.gitpages.huma-num.fr/textometrie/files/documentation/manual/0.7.9/fr/manual94.xhtml).
 
 
