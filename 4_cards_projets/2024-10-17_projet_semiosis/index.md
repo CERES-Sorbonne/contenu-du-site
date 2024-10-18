@@ -1,4 +1,6 @@
 ---
+uuid: 315d68b6-72b2-4017-b6d0-acf434cef96c
+
 prettyName: Semiosis
 title: "Projet SEMIOSIS (Sens, Expérimentation Méthodologique, Interprétation : Outils Scientifiques et Informatiques pour les SHS)"
 author: fred

@@ -1,4 +1,6 @@
 ---
+uuid: 424cf13d-3d86-409b-ab2a-c61cfeee198c
+
 
 title: "parution du chapitre \"The Womb, the Banknote and the Trolley. Elements of French Anti-Gender Visual Culture\""
 author: fred

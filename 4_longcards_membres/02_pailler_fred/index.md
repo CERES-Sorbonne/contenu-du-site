@@ -1,4 +1,6 @@
 ---
+uuid: 926a37f1-588a-4c7c-a241-33937b48881b
+
 prettyName: fredPailler
 title: fred Pailler
 author: fred
