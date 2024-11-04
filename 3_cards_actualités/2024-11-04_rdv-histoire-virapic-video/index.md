@@ -1,0 +1,27 @@
+---
+
+title: "CERES au Rendez vous de l'Histoire avec l'EHNE"
+
+author: gael
+PrettyName: CeresRdvHistoireEhne 
+
+tags:
+- semiosis
+- panoptic
+- viralité
+- images
+- controverses
+
+---
+
+![](Blois.png)
+
+Félix Alié pour le CERES, Iris Pupella-Noguès et Mathieu Marly pour l'EHNE étaient à la 28ème édition des ['Rendez-vous de l'Histoire'](https://rdv-histoire.com/) à Blois le 12 octobre 2024.
+Félix a présenté l'utilisation de Panoptic pour le travail avec les historiens dans le cadre d'une table ronde sur le thème "Un nouveau défi pour l’enseignement de l’histoire : intelligence artificielle, viralité numérique et archives photographique". Cette présentation met en lumière le projet Emergence Virapic pour lequel CERES et l'EHNE collaborent depuis 24 mois maintenant.
+
+
+[Lien vers le Programme (page 9 pour Virapic)](https://rdv-histoire.com/sites/rdvhistoire/files/2024-10/Prog_chrono.pdf)
+
+[La présentation est accessible en ligne](Blois_sans_soif.pdf)
+
+[Vidéo de Présentation de Virapic](https://dropsu.sorbonne-universite.fr/s/9xxHWPPqNk9GXHc)
