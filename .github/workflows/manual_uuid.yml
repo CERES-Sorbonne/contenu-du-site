@@ -1,9 +1,7 @@
 name: Force check every file for UUID and add it if missing
 
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
 
 jobs:
   add_uuid:
