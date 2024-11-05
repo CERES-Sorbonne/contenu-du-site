@@ -1,4 +1,5 @@
 ---
+uuid: 8e95d3c0-5cbe-4731-bd66-bdb47f1db1dc
 
 title: "Centre for experimentation with digital methods in Social Sciences and Humanities"
 PrettyName: EnglishVersion
