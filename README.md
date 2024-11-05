@@ -66,15 +66,6 @@ xxx
 ```
 
 
-
-
-
-
-
-
-
-
-
 # Comment créer sa fiche thèse ?
 Il est à la discrétion de chaque doctorant·e de créer sa fiche thèse du CERES selon le modèle qui est fourni ci-dessous. Le fichier doit être réalisé en format markdown. 
 
@@ -84,8 +75,7 @@ Il est à la discrétion de chaque doctorant·e de créer sa fiche thèse du CER
 4/ Une fois ces étapes complétées, envoyez ce dossier à l'adresse edouard.boute@sorbonne-universite.fr
 
 ## Texte à copier-coller : 
-
-
+```
 ---
 title: TITRE DE LA THESE
 tags: A discuter collectivement
@@ -106,3 +96,4 @@ author: PrenomNom
 **Ecole doctorale :** Numéro et nom de l'école doctorale d'inscription
 
 **Laboratoire de rattachement :** votre labo de rattachement
+```
