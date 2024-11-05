@@ -1,0 +1,39 @@
+name: Force check every file for UUID and add it if missing
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  add_uuid:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Python setup
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: run script
+        run: |
+          python3.12 add_uuid_to_md_missing_one.py
+
+      - name: Commit
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+            commit_message: Add UUID to missing files
+            file_pattern: '*.md'
+            status_options: '--untracked-files=no'
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ env.REF }}
+
