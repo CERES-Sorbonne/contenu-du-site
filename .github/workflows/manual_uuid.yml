@@ -32,18 +32,16 @@ jobs:
             exit 1;
           fi 
 
-      - name: Commit
+      - name: Commit and push changes
         if: steps.git-check.outcome == 'success'
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-            commit_message: Add UUID to missing files
-            file_pattern: '*.md'
-            status_options: '--untracked-files=no'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Push changes
-        if: steps.git-check.outcome == 'success'
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ env.REF }}
+          # Vérifie s'il y a des modifications à commit
+          if [[ $(git status --porcelain) ]]; then
+            git add .
+            git commit -m "Add UUID to new files [skip ci]"  # Message pour éviter le déclenchement en boucle
+            git push
+          fi
 
