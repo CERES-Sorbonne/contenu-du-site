@@ -1,3 +1,7 @@
+---
+uuid: 8aff0467-ab0f-49ee-87bb-1940551fb999
+---
+
 # ceres-www-content
 
 # Comment créer sa fiche membre ?
@@ -10,8 +14,6 @@ Il est à la discrétion de chacun·e de créer sa fiche membre du CERES selon l
 
 ## Texte à copier-coller : 
 ---
-uuid: 8aff0467-ab0f-49ee-87bb-1940551fb999
-
 title: Prénom Nom
 author: PrenomNom
 ---
