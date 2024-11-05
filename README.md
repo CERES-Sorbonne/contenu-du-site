@@ -15,6 +15,7 @@ Il est à la discrétion de chacun·e de créer sa fiche membre du CERES selon l
 ## Texte à copier-coller : 
 ```
 ---
+PrettyName: PrenomNom (ne pas mettre les accents)
 title: Prénom Nom
 author: PrenomNom
 ---
