@@ -13,6 +13,7 @@ Il est à la discrétion de chacun·e de créer sa fiche membre du CERES selon l
 4/ Une fois ces étapes complétées, envoyez ce dossier à l'adresse edouard.boute@sorbonne-universite.fr
 
 ## Texte à copier-coller : 
+```
 ---
 title: Prénom Nom
 author: PrenomNom
@@ -62,7 +63,7 @@ xxx
 (si en thèse :)
 
 [Lien vers le projet de thèse](URLajoutéeplustard)
-
+```
 
 
 
