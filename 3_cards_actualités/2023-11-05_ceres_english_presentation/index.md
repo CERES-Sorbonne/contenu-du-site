@@ -1,8 +1,9 @@
 ---
 uuid: 8e95d3c0-5cbe-4731-bd66-bdb47f1db1dc
+PrettyName: EnglishVersion
 
 title: "Centre for experimentation with digital methods in Social Sciences and Humanities"
-PrettyName: EnglishVersion
+
 
 ---
 CERES is the Centre for experimentation with digital methods in Social Sciences and Humanities, hosted by the Faculté des Lettres at Sorbonne University since 2021. The Centre provides support to researchers and students whose projects rely on the use of digital methods in the field of Social Sciences and Humanities.
