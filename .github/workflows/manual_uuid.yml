@@ -22,7 +22,14 @@ jobs:
         run: |
           python3.12 add_uuid_to_md_missing_one.py
 
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --exit-code || (echo "Changes detected" && git diff && exit 1)
+
+
       - name: Commit
+        if: steps.git-check.outcome == 'success'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
             commit_message: Add UUID to missing files
@@ -30,6 +37,7 @@ jobs:
             status_options: '--untracked-files=no'
 
       - name: Push changes
+        if: steps.git-check.outcome == 'success'
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
