@@ -16,9 +16,11 @@ This support focuses on 3 main areas :
 - methods and tools for the digitisation of historical sources and the study of digitised heritage
 - a transversal infrastructure dedicated to the management of multisemiotic data and analytical work
 
-CERES provides technical and methodological support by [promoting the use of existing tools (pages in FR)](https://ceres.sorbonne-universite.fr/ateliers) and by [creating new methods and their dedicated tools (page in FR)](https://ceres.sorbonne-universite.fr/projets). The Centre has developed a strong epistemological framework on digital methods, in particular by theorising the relationship between the interpretive work of researchers and the use of new interfaces and digital tools. More broadly, the Centre works towards the development of interdisciplinary practices in science, starting with its [own interdisciplinary team (page in FR) ;-)](https://ceres.sorbonne-universite.fr/membres).
+CERES provides technical and methodological support by [promoting the use of existing tools (pages in FR)](https://ceres.sorbonne-universite.fr/ateliers) and by [creating new methods and their dedicated tools (page in FR)](https://ceres.sorbonne-universite.fr/projets). The Centre has developed a strong epistemological framework on digital methods, in particular by theorising the relationship between the interpretive work of researchers and the use of new interfaces and digital tools. More broadly, the Centre works towards the development of interdisciplinary practices in science, starting with its [own interdisciplinary team)](https://ceres.sorbonne-universite.fr/membres).
 
 ## What you can find on this website
+
+All articles are written in French.
 
 - [Events](https://ceres.sorbonne-universite.fr/événements/) : CERES organizes or co-organizes scientific events focusing on research that places digital methods at the heart of its approach. This page lists the symposia, study days and seminars organized.
 - [Workshops](https://ceres.sorbonne-universite.fr/ateliers/) : CERES organizes ~10 workshops a year, dedicated to helping researchers master computer tools and methods for research in the humanities and social sciences. Topics covered range from the automatic processing of natural language (for the study of press articles, for example), to the collection of material from digital social networks, to the visualization of multiple data (large numbers of images, structured text data, etc.). In this section, you'll find all the information and presentation materials for past and future workshops (dates are indicated under the workshop titles).
@@ -29,7 +31,7 @@ CERES provides technical and methodological support by [promoting the use of exi
 - [PhD Students/Candidates](https://ceres.sorbonne-universite.fr/thèses/) : CERES provides support for the two winners of the annual doctoral program “Digital methods for theses in the Humanities and Social Sciences” (advice on suitable methodological resources, on-demand training workshops, etc.).
 - [Projects](https://ceres.sorbonne-universite.fr/projets/) : As part of its research and methods development activities, CERES is a direct partner in funded research projects. These collaborations are distinct from the technical and methodological support service, in that they provide an opportunity to develop new tools and methods required to carry out the surveys/studies conducted by the partner projects. Once tested and proven, these tools and methods will be added to the current catalog of project support services. The articles in this section describe these projects.
 
-All articles are written in French.
+
 
 
 
