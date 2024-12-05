@@ -16,7 +16,7 @@ abstract: Directeur adjoint du CERES - Maître de Conférences HDR en Informatiq
 
 **Thèmes de recherche** : Traitement Automatique des Langues, Classification, Données hétérogènes, Multilinguisme, OCR/HTR
 
-#### Collaborations et projets
+## Collaborations et projets
 
 - Antonomaz (Karine Abiven, Jean-Baptiste Tanguy) : Numérisation et Traitement Automatique de textes du XVIIème siècle
 - Waddle (Adrien Barbaresi BBAW Berlin, Emmanuel Giguet GREYC Caen): développement et évaluation de méthodes de web scraping
