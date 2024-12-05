@@ -18,7 +18,7 @@ abstract: Directeur adjoint du CERES - Maître de Conférences HDR en Informatiq
 
 ## Collaborations et projets
 
-- Antonomaz (Karine Abiven, Jean-Baptiste Tanguy) : Numérisation et Traitement Automatique de textes du XVIIème siècle
+- *Antonomaz* (Karine Abiven, Jean-Baptiste Tanguy) : Numérisation et Traitement Automatique de textes du XVIIème siècle
 - Waddle (Adrien Barbaresi BBAW Berlin, Emmanuel Giguet GREYC Caen): développement et évaluation de méthodes de web scraping
 - Daniel (Steve Mutuvi, Emanuela Boros, Antoine Doucet, LRI la Rochelle et Adam Jatowt CS department Innsbruck) : Veille Épidémiologique Multilingue
 - ROC’n NER ( Caroline Parfait, Jean-Baptiste Tanguy, Motasem Alrahabi, Glenn Roe) : Articulation de l’OCR et de la reconnaissance d’entités nommées
