@@ -110,8 +110,6 @@ L'analyse factorielle des correspondances est une méthode statistique qui perme
   Sous-ensemble de textes d'un corpus
 - [Spécificités ](https://txm.gitpages.huma-num.fr/textometrie/files/documentation/manual/0.7.9/fr/manual43.xhtml#toc253):
   Fonctionnalité de TXM pour identifier les mots les plus représentatifs d'un sous-corpus
-- Analyse des Correspondances : Méthode statistique pour
-  visualiser les relations entre les mots et les textes dans un espace à deux dimensions
 
 # CSC - Cheat Sheet CQL
 
