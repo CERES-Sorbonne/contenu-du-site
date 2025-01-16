@@ -13,6 +13,12 @@ tags:
 ---
 
 # TXM - Niveau 2
+
+## Ressources Externes
+Vous trouverez à l'adresse suivante un tutoriel concernant la création et l'import d'un corpus dans TXM, produit par Eva Schaeffer-Lacroix :[https://hal.science/hal-01676053](https://hal.science/hal-01676053).
+
+Les données de l'atelier de niveau 1, réalisé par Gaël Lejeune sont également disponibles au lien suivant : [https://lejeunegael.fr/CERES/](https://lejeunegael.fr/CERES/).
+
 ## Progression
 Nous pouvons utiliser TXM pour étudier la progression de l'utilisation d'un mot au cours du temps. Dans le corpus <a href="prigojine.xml" target="_blank" download>Europresse-Prigojine</a>, nous allons évaluer l'évolution de certains usages au fil du temps et des présidents grâce à la fonction **progression**.
 
