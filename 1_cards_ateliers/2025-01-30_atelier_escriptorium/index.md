@@ -26,3 +26,5 @@ automatique et de correction d'OCR.
 <iframe src="atelier_escriptorium.pdf" type="application/pdf" width="100%" height="500px">
     <p>Vous pouvez <a href="atelier_escriptorium.pdf">télécharger le PDF</a>.</p>
 </iframe>
+
+[Lien vers l'instance de démonstration](https://atelier-escriptorium.marceau-h.fr)
