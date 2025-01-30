@@ -22,6 +22,6 @@ tags:
 **Escriptorium** est une plateforme en ligne de transcription
 automatique et de correction d'OCR.
 
-<iframe src="https://ceres.sorbonne-universite.fr/693705a33b04fafa49e1dbc38618cbf7/20250130 - atelier OCR_HTR.pdf" type="application/pdf" width="100%" height="500px">
+<iframe src="20250130 - atelier OCR_HTR.pdf" type="application/pdf" width="100%" height="500px">
     <p>Vous pouvez <a href="20250130 - atelier OCR_HTR.pdf">télécharger le PDF</a>.</p>
 </iframe>
