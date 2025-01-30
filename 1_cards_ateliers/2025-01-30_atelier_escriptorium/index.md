@@ -23,7 +23,7 @@ tags:
 automatique et de correction d'OCR.
 
 [Lien vers la présentation](atelier_escriptorium.pdf)
-<iframe src="atelier_escriptorium.pdf" type="application/pdf" width="100%" height="500px">
+<iframe src="https://ceres.sorbonne-universite.fr/08934330510d46a1d5eff5b6fd9f6032/atelier_escriptorium.pdf" type="application/pdf" width="100%" height="500px">
     <p>Vous pouvez <a href="atelier_escriptorium.pdf">télécharger le PDF</a>.</p>
 </iframe>
 
