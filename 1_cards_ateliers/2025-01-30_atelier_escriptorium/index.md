@@ -1,9 +1,9 @@
 ---
 uuid: 14f105ec-6f66-4f9b-98ae-885ba6a1d82c
 
-title: Atelier Escriptorium
+title: Atelier eScriptorium
 author: ceres
-abstract: "Atelier sur l'utilisation d'Escriptorium"
+abstract: "Atelier sur l'utilisation d'eScriptorium"
 tags:
     - atelier
     - ocr
@@ -19,7 +19,7 @@ tags:
 
 ![](atelier_escriptorium.png)
 
-**Escriptorium** est une plateforme en ligne de transcription
+**eScriptorium** est une plateforme en ligne de transcription
 automatique et de correction d'ATR.
 
 L'Optical Character Recognition (OCR) et l'Handwritten Text Recognition (HTR) sont deux technologies permettant d'effectuer de la reconnaissance automatique de texte imprimé et de texte manuscrit. L'Automatic Text Recognition (ATR) est un terme générique qui englobe ces deux technologies.
