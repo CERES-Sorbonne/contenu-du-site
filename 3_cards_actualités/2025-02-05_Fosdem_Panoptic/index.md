@@ -1,16 +1,11 @@
 ---
-uuid: 568c475d-59f2-4b04-a55b-24c051ef937e
+title: "Présentation de Panoptic au FOSDEM"
 
-title: "Top 3 à COLING pour un article de doctorant.e.s de CERES"
-
-author: gael
-PrettyName: LostInTranslationKaramBezancon 
+author: edouard
+PrettyName: PanopticFosdem 
 
 tags:
-- TAL
-- Arabe Moyen
-- Formules
-- Variation
+- panoptic
 
 ---
 
