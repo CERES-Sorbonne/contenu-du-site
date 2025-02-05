@@ -13,4 +13,4 @@ Félix Alié, Edouard Bouté et David Gödicke étaient à Bruxelles le weekend 
 
 Notre _talk_ est disponible en vidéo : 
 
-<iframe src="https://ftp.belnet.be/mirror/FOSDEM/video/2025/aw1126/fosdem-2025-4635-explore-large-image-datasets-with-panoptic.av1.webm" width="640" height="360"></iframe
+<video controls="" autoplay="false" name="media" width="640" height="360"><source src="https://ftp.belnet.be/mirror/FOSDEM/video/2025/aw1126/fosdem-2025-4635-explore-large-image-datasets-with-panoptic.av1.webm" type="video/webm"></video>
