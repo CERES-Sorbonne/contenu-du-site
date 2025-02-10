@@ -1,4 +1,6 @@
 ---
+uuid: 39c08326-3614-43ab-a823-5e5526f6a285
+
 title: Séminaire doctoral 2025
 author: ceres
 abstract: "Séminaire doctoral annuel de CERES - Approches numériques en SHS"
