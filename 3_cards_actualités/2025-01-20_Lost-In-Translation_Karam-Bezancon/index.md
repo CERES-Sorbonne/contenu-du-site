@@ -1,7 +1,7 @@
 ---
 uuid: 568c475d-59f2-4b04-a55b-24c051ef937e
 
-title: "Top 3 à COLING pour un article de doctorant.e.s de CERES"
+title: "Top 3 au workshop WACL (conférence COLING) pour un article de doctorant.e.s de CERES"
 
 author: gael
 PrettyName: LostInTranslationKaramBezancon 
@@ -13,6 +13,8 @@ tags:
 - Variation
 
 ---
+
+![](fete.jpg)
 
  Rimane Karam, doctorante en linguistique du moyen arabe et humanités numériques et Julien Bezançon, doctorant en traitement automatique de la langue, ont vu un de leur article classé top 3 (3ème du best paper award) de l'atelier WANLP sur le TAL pour l'arabe de la conférence de référence COLING.
 
