@@ -42,13 +42,13 @@ entre authenticité historique, nostalgie et stéréotypes de genre dans les fil
 
 Vous trouverez ci-dessous le programme complet du séminaire, qui sera mis à jour au fur et à mesure des séances:
 
-| Date       | Intervenant·e·s                                                 | Thème              | Lien d'inscription                                                                                   | Lieu      | Horaires |
-|------------|-----------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------------|-----------|----------|
-| 20 février | [Léa Andolfi](https://ceres.sorbonne-universite.fr/LeaAndolfi/) | Romance historique | [Lien du<br/>Frama](https://framaforms.org/seminaire-doctoral-du-ceres-20-fevrier-2025-1739374381)   | Salle 002 | 10h-12h  |
-| 20 mars    | Ambre Ampe                                                      | À venir..          | [Lien du<br/>Frama](https://framaforms.org/clone-de-seminaire-doctoral-du-ceres-20-mars-2025-1739539870) | Salle 002 | 10h-12h  |
-| 24 avril   | À venir..                                                       | À venir..          |                                                                                                      | Salle 002 | 10h-12h  |
-| 22 mai     | À venir..                                                       | À venir..          |                                                                                                      | Salle 002 | 10h-12h  |
-| 17 juin    | À venir..                                                       | À venir..          |                                                                                                      | Salle 002 | 10h-12h  |
+| Date       | Intervenant·e·s                                                 | Thème              | Lien d'inscription                                                                                 | Lieu      | Horaires |
+|------------|-----------------------------------------------------------------|--------------------|----------------------------------------------------------------------------------------------------|-----------|----------|
+| 20 février | [Léa Andolfi](https://ceres.sorbonne-universite.fr/LeaAndolfi/) | Romance historique | [Lien du<br/>Frama](https://framaforms.org/seminaire-doctoral-du-ceres-20-fevrier-2025-1739374381) | Salle 002 | 10h-12h  |
+| 20 mars    | Ambre Ampe                                                      | À venir..          | [Lien du<br/>Frama](https://framaforms.org/seminaire-doctoral-du-ceres-20-mars-2025-1739539870)    | Salle 002 | 10h-12h  |
+| 24 avril   | À venir..                                                       | À venir..          |                                                                                                    | Salle 002 | 10h-12h  |
+| 22 mai     | À venir..                                                       | À venir..          |                                                                                                    | Salle 002 | 10h-12h  |
+| 17 juin    | À venir..                                                       | À venir..          |                                                                                                    | Salle 002 | 10h-12h  |
 
 L'ensemble des séminaires auront liau à la Maison de la Recherche de Sorbonne Université (28 rue Serpente, 75005,
 Paris),
