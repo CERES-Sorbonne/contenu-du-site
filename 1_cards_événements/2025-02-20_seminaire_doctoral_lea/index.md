@@ -39,7 +39,7 @@ Le matériel de la séance est disponible ci-dessous:
 Pour plus d'informations sur le séminaire doctoral 2025, vous pouvez consulter le programme complet via la page d'annonce du séminaire [ici](https://ceres.sorbonne-universite.fr/SeminaireDoctoral2025/). Vous y retrouverez également les liens d'inscription pour les prochaines séances.
 
 
-## Présentation de Léa Andolfi
+## Présentation
 
 <iframe src="https://ceres.sorbonne-universite.fr/2dc4ae48e3d7567e6226857ece7795bf/SeminaireDoctoral2025LeaAndolfi.pdf" type="application/pdf" width="100%" height="500px">
     <p>Vous pouvez <a href="SeminaireDoctoral2025LeaAndolfi.pdf">télécharger le PDF</a>.</p>
