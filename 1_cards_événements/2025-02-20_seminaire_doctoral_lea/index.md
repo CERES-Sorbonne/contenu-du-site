@@ -28,7 +28,7 @@ tags:
 prettyName: SeminaireDoctoral2025LeaAndolfi
 ---
 
-
+## Résumé
 Ce jeudi 20 février, de 10h à 12h, à la Maison de la Recherche de Sorbonne Université (28 rue Serpente, en salle 002), nous avons eu le plaisir d'accueillir Léa Andolfi, doctorante au GRIPIC (CELSA/Sorbonne, ANR TRACTIVE) qui nous a parlé du lien entre authenticité historique, stéréotypes, figements, vérisimilitude et réception par le public dans les films et séries de romance historique.
 
 Le matériel de la séance est disponible ci-dessous:
@@ -37,3 +37,10 @@ Le matériel de la séance est disponible ci-dessous:
 
 
 Pour plus d'informations sur le séminaire doctoral 2025, vous pouvez consulter le programme complet via la page d'annonce du séminaire [ici](https://ceres.sorbonne-universite.fr/SeminaireDoctoral2025/). Vous y retrouverez également les liens d'inscription pour les prochaines séances.
+
+
+## Présentation de Léa Andolfi
+
+<iframe src="https://ceres.sorbonne-universite.fr/2dc4ae48e3d7567e6226857ece7795bf/SeminaireDoctoral2025LeaAndolfi.pdf" type="application/pdf" width="100%" height="500px">
+    <p>Vous pouvez <a href="SeminaireDoctoral2025LeaAndolfi.pdf">télécharger le PDF</a>.</p>
+</iframe>
