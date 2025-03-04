@@ -43,4 +43,4 @@ Ce tutoriel est disponible [en cliquant ici](https://panopticorg.github.io/).
 
 Attention ! Encore en cours de rédaction, certains éléments peuvent être manquant dans la documentation en ligne. Un PDF de la première version du tutoriel peut ainsi être consulté si des parties ne sont pas remplies dans la version en ligne.
 
-<embed src="https://dropsu.sorbonne-universite.fr/apps/onlyoffice/303300271?filePath=%2FPanoptic%2FTutoriel%2FPANOPTIC_TUTO_v0_2.pdf" width="800" height="500" type="application/pdf"/>
+<embed src="PANOPTIC_TUTO_v0_2-1_compressed.pdf" width="800" height="500" type="application/pdf"/>
