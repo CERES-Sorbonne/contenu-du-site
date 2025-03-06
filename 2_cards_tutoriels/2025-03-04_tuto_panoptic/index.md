@@ -43,6 +43,6 @@ Ce tutoriel est disponible [en cliquant ici](https://panopticorg.github.io/).
 
 Attention ! Encore en cours de rédaction, certains éléments peuvent être manquant dans la documentation en ligne. Un PDF de la première version du tutoriel peut ainsi être consulté si des parties ne sont pas remplies dans la version en ligne.
 
-<a href="PANOPTIC_TUTO_v0_2-1_compressed.pdf">télécharger</a>.
+<a href="PANOPTIC_TUTO_v0_2-1_compressed.pdf">Télécharger le tutoriel en cliquant ici</a>.
 
 <embed src="PANOPTIC_TUTO_v0_2-1_compressed.pdf" width="800" height="500" type="application/pdf"/>
