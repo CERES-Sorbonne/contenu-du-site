@@ -34,3 +34,16 @@ L'objectif de cet atelier est de présenter les différentes étapes dans la rec
 <iframe src="https://ceres.sorbonne-universite.fr/22daca7c9ce30b59860f1120258dac3e/atelier_escriptorium.pdf" type="application/pdf" width="100%" height="500px">
     <p>Vous pouvez <a href="atelier_escriptorium.pdf">télécharger le PDF</a>.</p>
 </iframe>
+
+Les données utilisées pour cet atelier sont disponibles sur à partir du lien Google Drive suivant [https://drive.google.com/drive/folders/1FhG-B3Qxg6FesSuYkkvS_ryR4Iesd8Rg](https://drive.google.com/drive/folders/1FhG-B3Qxg6FesSuYkkvS_ryR4Iesd8Rg).
+
+Pour une installation locale :
+- Téléchargez l'archive contenant le code à partir du lien suivant [https://www.swisstransfer.com/d/43cde0d9-cffb-4bda-b6db-a05a47515ab5](https://www.swisstransfer.com/d/43cde0d9-cffb-4bda-b6db-a05a47515ab5)
+- Décompressez l'archive
+- Installez Docker sur votre machine (aide à l'installation au lien suivant [https://docs.docker.com/get-docker/](https://docs.docker.com/get-docker/))
+- Ouvrez un terminal et placez-vous dans le dossier décompressé
+- Exécutez la commande `docker-compose up`
+- Ouvrez un navigateur et rendez-vous à l'adresse [http://localhost:5813](http://localhost:5813)
+- Vous pouvez maintenant utiliser eScriptorium en local
+
+Après l'installation et pour chaque utilisation, vous pouvez lancer eScriptorium en exécutant la commande `docker-compose up` dans le dossier décompressé.
