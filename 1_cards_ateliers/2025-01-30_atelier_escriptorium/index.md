@@ -31,7 +31,7 @@ Toutefois, l'OCR et l'HTR sont suffisamment avancés pour proposer des outils à
 L'objectif de cet atelier est de présenter les différentes étapes dans la reconnaissance de texte imprimé ou manuscrit, de la préparation du corpus à la pratique avec eScriptorium.
 
 [Lien vers la présentation](atelier_escriptorium.pdf)
-<iframe src="https://ceres.sorbonne-universite.fr/22daca7c9ce30b59860f1120258dac3e/atelier_escriptorium.pdf" type="application/pdf" width="100%" height="500px">
+<iframe src="https://ceres.sorbonne-universite.fr/0e04bff2e6809e6c74d9b6cca778ef2c/atelier_escriptorium.pdf" type="application/pdf" width="100%" height="500px">
     <p>Vous pouvez <a href="atelier_escriptorium.pdf">télécharger le PDF</a>.</p>
 </iframe>
 
