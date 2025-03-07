@@ -1,7 +1,7 @@
 ---
 uuid: 39c08326-3614-43ab-a823-5e5526f6a285
 
-title: Séminaire doctoral 2025
+title: Séminaire doctoral 2025 - Léa Andolfi
 author: ceres
 abstract: "Première séance du séminaire doctoral 2025 du CERES - Imiter pour mieux régner"
 event: true
