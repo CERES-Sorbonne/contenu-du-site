@@ -1,12 +1,12 @@
 ---
 uuid: 75d8ddf6-0ea3-4523-94c1-fa470b473665
-prettyName: VictorEcrement
+prettyName: VanilleEcrement
 
-title: Victor Écrement
+title: Vanille Écrément
 abstract: Ingénieur d'études de 2022 à 2023
 ---
 
-![](victor-ecrement.jpg)
+![](vanille-ecrement.jpg)
 
 **Poste au CERES** : Ingénieur d'études
 
