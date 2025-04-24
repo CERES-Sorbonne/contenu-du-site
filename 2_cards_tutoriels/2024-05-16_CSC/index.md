@@ -18,6 +18,7 @@ tags:
     - traitement de corpus
     - text mining
     - text analysis
+prettyName: RequetesCQL
 ---
 
 TXM est un logiciel de traitement de corpus qui permet d'interroger des corpus textuels à l'aide de requêtes CQL (Corpus Query Language).
