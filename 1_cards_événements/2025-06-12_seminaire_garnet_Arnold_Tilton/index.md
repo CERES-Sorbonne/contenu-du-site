@@ -2,7 +2,8 @@
 uuid: fbd9cd00-6f78-445a-a446-396c75f53bdd
 
 title: "Séminaire GARNET - Seeing with Computers: Distant Viewing in Theory and Practice "
-author: edouard
+author:
+    - edouard
 event: true
 
 tags:

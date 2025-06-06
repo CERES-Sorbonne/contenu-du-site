@@ -2,7 +2,8 @@
 uuid: cacfb2b0-7ed8-4566-8a79-3e1ecbde0030
 
 title: Journée d'études "Travailler avec les images" - 8 juin 2023
-author: edouard
+author:
+    - edouard
 event: true
 abstract: 'Le CERES organise une journée d’études intitulée "Travailler avec les images", qui se tiendra le jeudi 8 juin 2023, de 9h à 17h, à la Maison de la Recherche de Sorbonne Université (28 rue Serpente, 75006, Paris).'
 tags:

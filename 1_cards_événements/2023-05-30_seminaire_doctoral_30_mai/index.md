@@ -2,7 +2,8 @@
 uuid: bcfd3b54-4316-4190-9dcf-7923e5e3b31f
 
 title: "Séminaire doctoral : Mettre au travail des objets numériques au fonctionnement opaque"
-author: lea
+author:
+    - lea
 event: true
 tags:
     - séminaire doctoral

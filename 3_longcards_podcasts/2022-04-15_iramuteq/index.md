@@ -2,7 +2,8 @@
 uuid: 42814c76-0e1d-4895-9111-af84c84e8b93
 
 title: Iramuteq avec Renaud Debailly
-author: ceres
+author:
+    - ceres
 tags:
     - iramuteq
     - textométrie

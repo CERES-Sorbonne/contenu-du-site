@@ -2,7 +2,8 @@
 uuid: 1a59defb-1f45-4776-966b-3904a45e975e
 
 title: Atelier Iramuteq
-author: ceres
+author:
+    - ceres
 tags:
     - iramuteq
     - textométrie

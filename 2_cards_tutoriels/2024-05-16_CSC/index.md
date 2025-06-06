@@ -2,7 +2,8 @@
 uuid: 6dfca34b-bf71-4dad-8480-7ba0d129e593
 
 title: "Cheat Sheet CQL - Feuille d'aide à la requête CQL pour TXM"
-author: marceau
+author:
+    - marceau
 tags:
     - tutoriel
     - CQL

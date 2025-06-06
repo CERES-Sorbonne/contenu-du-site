@@ -3,7 +3,8 @@ uuid: 383311d1-f61f-4f32-b439-647507de9b05
 prettyName: Restweet
 
 title: 'Outil CERES : Restweet'
-author: ceres
+author:
+    - ceres
 tags:
     - réseaux sociaux
     - outils CERES

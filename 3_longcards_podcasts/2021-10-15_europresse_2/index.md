@@ -2,7 +2,8 @@
 uuid: 01ec972f-da60-4442-ab1f-0afe15821ec1
 
 title: Europresse avec Gaël Lejeune
-author: ceres
+author:
+    - ceres
 tags:
     - presse
     - europresse

@@ -2,7 +2,8 @@
 uuid: 09ea65a5-6cf2-485a-bc4a-7c61b051411c
 
 title: Rencontre Avec les Doctorants (STIH)
-author: ceres
+author:
+    - ceres
 event: true
 abstract: 'CERES rencontre avec les doctorants et doctorants, épisode I : STIH'
 tags:

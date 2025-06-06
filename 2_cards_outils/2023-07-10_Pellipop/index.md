@@ -3,7 +3,8 @@ uuid: 8fad444b-321a-40b0-b397-f8b497a3236c
 prettyName: Pellipop
 
 title: 'Outil CERES : Pellipop'
-author: ceres
+author:
+    - ceres
 tags:
     - images
     - outils CERES

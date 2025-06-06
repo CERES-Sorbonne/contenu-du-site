@@ -7,7 +7,8 @@ tags:
     - littérature populaire arabe 
     - textométrie 
     - grammaire
-author: ceres
+author:
+    - ceres
 ---
 
 ![](these-6.png)

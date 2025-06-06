@@ -2,7 +2,8 @@
 uuid: ab85644c-ccf9-4c2c-96c6-c80b0464c63d
 
 title: 'Antonomaz - Visualisation de sources multiples'
-author: ceres
+author:
+    - ceres
 tags:
     - antonomaz
     - visualisation

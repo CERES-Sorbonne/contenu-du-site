@@ -3,7 +3,8 @@ uuid: b16ab663-102a-4611-b10b-58be85d1b3bc
 
 title: "Atelier Anonymisation des données"
 event: true
-author: ceres
+author:
+    - ceres
 tags:
     - réseaux sociaux
     - rgpd

@@ -2,7 +2,8 @@
 uuid: 12ae7052-5fd8-4079-8d25-69f50a7b1e63
 
 title: "Exemples d'accompagnements réalisés par le CERES"
-author: ceres
+author:
+    - ceres
 tags:
     - accompagnements
 ---

@@ -17,7 +17,8 @@ Il est à la discrétion de chacun·e de créer sa fiche membre du CERES selon l
 ---
 PrettyName: PrenomNom (ne pas mettre les accents)
 title: Prénom Nom
-author: PrenomNom
+author:
+    - PrenomNom
 ---
 
 ![Prénom Nom](nom_prenom.png)
@@ -80,7 +81,8 @@ Il est à la discrétion de chaque doctorant·e de créer sa fiche thèse du CER
 ---
 title: TITRE DE LA THESE
 tags: A discuter collectivement
-author: PrenomNom
+author:
+    - PrenomNom
 ---
 **Candidat·e :** Prénom Nom
 

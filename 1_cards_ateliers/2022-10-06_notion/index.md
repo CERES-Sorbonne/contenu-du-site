@@ -2,7 +2,8 @@
 uuid: 13d4d8d5-ccfc-4df8-ae6b-788373a07305
 
 title: Atelier Notion
-author: ceres
+author:
+    - ceres
 abstract: "Notion est un logiciel de gestion de projet qui comprend des options de manipulation de base de données assez avancées, tout en restant intuitif et flexible. Bien qu’il ne soit pas destiné principalement à la recherche, Notion se révèle très utile pour tous types d’usages en sciences sociales : gestion d’écrits de recherche, suivi et codage d’entretiens, analyse de corpus d’images, etc."
 event: true
 tags:

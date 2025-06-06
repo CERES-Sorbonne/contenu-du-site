@@ -2,7 +2,8 @@
 uuid: 58ebf897-f54b-4bf9-96ab-8728d008f211
 
 title: 'Bourse de thèse : Analyse du discours complotiste dans un corpus de presse historicisé'
-author: ceres
+author:
+    - ceres
 tags:
     - presse
 ---

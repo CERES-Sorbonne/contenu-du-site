@@ -3,7 +3,8 @@ uuid: 2497aeae-4d7a-4587-a665-394efcafdf9c
 prettyName: Europarser
 
 title: 'Outil CERES : Europarser'
-author: ceres
+author:
+    - ceres
 tags:
     - presse
     - outils CERES

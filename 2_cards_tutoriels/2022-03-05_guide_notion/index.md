@@ -2,7 +2,8 @@
 uuid: e1700c76-c8eb-4cb1-841f-fcc2e9c57665
 
 title: "Notion dans la recherche en SHS"
-author: victor
+author:
+    - victor
 abstract: "Un guide pour apprendre à utiliser Notion. C'est un logiciel de gestion de projet qui comprend des options de manipulation de base de données assez avancées, tout en restant intuitif et flexible. Bien qu’il ne soit pas destiné principalement à la recherche, Notion se révèle très utile pour tous types d’usages en sciences sociales : gestion d’écrits de recherche, suivi et codage d’entretiens, analyse de corpus d’images, etc."
 tags:
     - tutoriel

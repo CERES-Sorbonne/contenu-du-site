@@ -3,7 +3,8 @@ uuid: a0c06f59-950c-4ffc-9a59-c8faad27abf2
 prettyName: EcoLe
 
 title: "ANR EcoLe : S’écouter lire"
-author: ceres
+author:
+    - ceres
 tags:
     - linguistique
     - structure de textes

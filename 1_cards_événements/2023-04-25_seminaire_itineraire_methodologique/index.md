@@ -2,7 +2,8 @@
 uuid: 2a338a26-cefb-412c-8d78-154aed9934fb
 
 title: "Séminaire doctoral : Itinéraire méthodologique et écritures calculées"
-author: ceres
+author:
+    - ceres
 event: true
 tags:
     - séminaire doctoral

@@ -2,7 +2,8 @@
 uuid: edbb272e-54ee-46de-844a-6e3c8c76d387
 
 title: Hackathon CERES 2023
-author: ceres
+author:
+    - ceres
 event: true
 abstract: 'Un Hackathon de deux journées autour de plusieurs problématiques textuelles a été organisé par le CERES.'
 tags:

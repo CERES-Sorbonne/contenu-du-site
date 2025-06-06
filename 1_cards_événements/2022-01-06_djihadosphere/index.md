@@ -2,7 +2,8 @@
 uuid: 340038ae-8f6d-4316-bcfd-4c85387d1625
 
 title: 'Présentation : Ethnographie d’une djihadosphère entre 2017 et 2020'
-author: ceres
+author:
+    - ceres
 tags:
     - réseaux sociaux
 ---

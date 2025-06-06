@@ -2,7 +2,8 @@
 uuid: afd066b1-96a9-417b-801b-4268f13bce39
 
 title: "Journées d'études autour des Humanités numériques à La Rochelle"
-author: ceres
+author:
+    - ceres
 abstract: "Une partie de l'équipe CERES s'est déplacée à La Rochelle les 3 et 4 mars 2022 pour une journée d'études sur les méthodes numériques pour les SHS"
 tags:
     - presse

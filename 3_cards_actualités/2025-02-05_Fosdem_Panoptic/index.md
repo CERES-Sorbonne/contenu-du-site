@@ -3,7 +3,8 @@ uuid: ded701fb-3357-4991-be7f-6e218403c4b7
 
 title: "Présentation de Panoptic au FOSDEM"
 
-author: edouard
+author:
+    - edouard
 PrettyName: PanopticFosdem 
 
 tags:

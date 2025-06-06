@@ -3,7 +3,8 @@ uuid: 815b29ce-1f40-45dd-9cd6-efc7a9b5cf3d
 
 prettyName: tutopanoptic
 title: "Panoptic : comment ça marche ?"
-author: edouard
+author:
+    - edouard
 tags:
     - tutoriel
     - images
