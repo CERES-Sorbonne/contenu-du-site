@@ -3,7 +3,8 @@ uuid: 14f105ec-6f66-4f9b-98ae-885ba6a1d82c
 
 title: Atelier eScriptorium
 author:
-    - ceres
+    - marine
+    - denisa
 abstract: "Atelier sur l'utilisation d'eScriptorium"
 event: true
 tags:
