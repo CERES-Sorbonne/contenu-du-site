@@ -1,6 +1,5 @@
 ---
-uuid: 5a322a56-c4bf-4bfa-8850-71458d1bdef6
-
+PrettyName: ImagesDiscoursRepression 
 title: "Livre : Images et Discours de la Répression"
 tags:
     - livre
