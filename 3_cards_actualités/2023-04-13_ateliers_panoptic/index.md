@@ -2,7 +2,8 @@
 uuid: 44eea779-c639-4d10-a6c4-59240b161118
 
 title: "Rencontres autour de Panoptic"
-author: victor
+author:
+    - victor
 tags:
     - annotation
     - images

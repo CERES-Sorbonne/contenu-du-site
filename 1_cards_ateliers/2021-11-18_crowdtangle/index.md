@@ -2,7 +2,8 @@
 uuid: a002fe3e-d8f8-4a22-b8ab-9b358a9fb068
 
 title: Atelier CrowdTangle
-author: ceres
+author:
+    - ceres
 tags:
     - crowdtangle
     - réseaux sociaux

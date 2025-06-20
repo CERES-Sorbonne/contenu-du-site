@@ -3,7 +3,8 @@ uuid: e0b30e07-e301-416b-bd44-229b88baa30a
 prettyName: ThibaultGrison
 
 title: Thibault Grison
-author: ceres
+author:
+    - ceres
 abstract: Doctorant en sciences de l'information et de la communication - Responsable du chantier modération. Doctorant en sciences de l'information et de la communication. 
 ---
 

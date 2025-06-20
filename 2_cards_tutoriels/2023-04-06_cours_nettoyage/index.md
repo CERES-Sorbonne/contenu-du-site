@@ -3,7 +3,8 @@ uuid: 746b7a86-09af-480e-9140-57128c6fb933
 
 title: Nettoyer, trier, indexer, explorer un corpus avec Notion
 abstract: "Cet article offre une introduction sous forme de tutoriel au nettoyage, à l'indexation, au tri et à l'exploration de corpus textuels. Il est issu du cours de méthodes numériques proposé par Virginie Julliard, Félix Alié, Édouard Bouté et Victor Ecrement aux étudiant·es du master recherche du CELSA. Il est disponible en CC BY-SA 4.0, vous pouvez donc l'adapter en nous citant."
-author: victor
+author:
+    - victor
 tags:
     - cours
     - notion

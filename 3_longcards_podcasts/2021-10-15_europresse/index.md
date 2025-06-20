@@ -2,7 +2,8 @@
 uuid: 64772028-23f3-41d4-9263-bfa28f3fa6b5
 
 title: Europresse avec Thibault Grison
-author: ceres
+author:
+    - ceres
 tags:
     - presse
     - europresse

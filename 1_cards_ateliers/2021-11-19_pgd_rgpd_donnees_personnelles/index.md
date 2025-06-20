@@ -2,7 +2,8 @@
 uuid: e2789007-92d4-4323-95b4-a23cda155448
 
 title: Atelier PGD, RGPD et archivages des données personnelles dans les recherches en SHS
-author: ceres
+author:
+    - ceres
 tags:
     - données personnelles
     - rgpd

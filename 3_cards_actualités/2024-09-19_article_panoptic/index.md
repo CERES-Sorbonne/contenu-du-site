@@ -5,7 +5,8 @@ tags:
     - panoptic
     - publication
     - images
-author: edouard
+author:
+    - edouard
 ---
 
 Lors du dernier colloque de l'association francophone des humanités numériques, Humanistica, l'outil [Panoptic](https://ceres.sorbonne-universite.fr/96e141fc-9b1e-4881-afdf-190df307e488) et ses potetiels usages ont été présentés publiquement.

@@ -2,7 +2,8 @@
 uuid: 5a322a56-c4bf-4bfa-8850-71458d1bdef6
 
 title: "Rapport d'activités CERES 2023"
-author: ceres
+author:
+    - ceres
 abstract: "CERES publie son rapport d'activité après 24 mois de recherches, de développement, d'ateliers et de formations."
 tags:
     - rapport d'activité

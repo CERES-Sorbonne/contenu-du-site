@@ -3,7 +3,8 @@ uuid: 5a7a8657-fc56-4603-b2ae-b728f0641c70
 
 prettyname: tutotableaupublicv2
 title: "Tableau Public : visualiser la circulation des images en ligne"
-author: edouard
+author:
+    - edouard
 tags:
     - tutoriel
     - images

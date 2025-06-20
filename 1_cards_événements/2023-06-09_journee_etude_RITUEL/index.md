@@ -2,7 +2,8 @@
 uuid: ed1fc30c-ba3b-4cd3-8efa-9ad53a82436d
 
 title: Journée d'études "Recherche d’Information Temporelle. Usages et Expérimentations Linguistiques" - 9 juin 2023
-author: edouard
+author:
+    - edouard
 event: true
 abstract: 'Le CERES organise une journée d’études intitulée "Recherche d’Information Temporelle. Usages et Expérimentations Linguistiques", qui se tiendra le vevdredi 9 juin 2023, de 9h à 15h30, à la Maison de la Recherche de Sorbonne Université (28 rue Serpente, 75006, Paris).'
 tags:

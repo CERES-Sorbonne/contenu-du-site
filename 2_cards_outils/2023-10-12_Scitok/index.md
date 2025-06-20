@@ -3,7 +3,8 @@ uuid: f720e09a-a402-4ac9-9467-ed24b95de91e
 prettyName: Scitok
 
 title: "Outil CERES : SciTok"
-author: ceres
+author:
+    - ceres
 tags:
     - réseaux sociaux
     - outil ceres

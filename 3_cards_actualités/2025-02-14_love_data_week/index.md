@@ -3,7 +3,8 @@ uuid: 826e87ec-c83d-434e-b593-3276b7cb9dbb
 
 title: "Présentations à la Love Data Week"
 
-author: edouard
+author:
+    - edouard
 PrettyName: LoveDataWeek2025 
 ---
 

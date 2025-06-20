@@ -3,7 +3,8 @@ uuid: 315d68b6-72b2-4017-b6d0-acf434cef96c
 
 prettyName: Semiosis
 title: "Projet SEMIOSIS (Sens, Expérimentation Méthodologique, Interprétation : Outils Scientifiques et Informatiques pour les SHS)"
-author: fred
+author:
+    - fred
 abstract: "Le projet SEMIOSIS (Sens, Expérimentation Méthodologique, Interprétation : Outils Scientifiques et Informatiques pour les SHS), soumis par Sorbonne Université pour l’UMS CERES, a fait l'objet d'un financement dans le cadre du Dialogue stratégique et de gestion 2020-2021."
 tags:
 - semiosis

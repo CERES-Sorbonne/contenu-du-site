@@ -2,7 +2,8 @@
 uuid: c8487d40-b95a-474a-9f4e-c3723bc06255
 
 title: journée d’études "Travailler avec les images en mouvement"
-author: ceres
+author:
+    - ceres
 event: true
 abstract: 'La journée a vocation à interroger les enjeux méthodologiques et épistémologiques spécifiques du travail de recherche sur des terrains/corpus ayant trait aux images en mouvement, que celles-ci soient des vidéos en circulation sur les réseaux sociaux numériques (à l’instar de TikTok) ou bien des films et séries.'
 tags:

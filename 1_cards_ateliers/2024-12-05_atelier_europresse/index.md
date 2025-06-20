@@ -2,7 +2,8 @@
 uuid: a6709daa-ca66-4aef-98c9-9dcdef3c1729
 
 title: Atelier Europresse
-author: ceres
+author:
+    - ceres
 abstract: "Atelier sur l'utilisation des données d'Europresse et l'interaction avec des outils de textométrie."
 event: true
 tags:

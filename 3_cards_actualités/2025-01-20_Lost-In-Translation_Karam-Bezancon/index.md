@@ -3,7 +3,8 @@ uuid: 568c475d-59f2-4b04-a55b-24c051ef937e
 
 title: "Top 3 au workshop WACL (conférence COLING) pour un article de doctorant.e.s de CERES"
 
-author: gael
+author:
+    - gael
 PrettyName: LostInTranslationKaramBezancon 
 
 tags:

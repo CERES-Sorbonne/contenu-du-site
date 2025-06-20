@@ -2,7 +2,8 @@
 uuid: 4337c8b4-c37e-4f43-b47b-3477caa2aede
 
 title: Atelier Gephi
-author: ceres
+author:
+    - ceres
 tags:
     - gephi
     - graphes de réseaux

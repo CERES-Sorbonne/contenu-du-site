@@ -2,7 +2,8 @@
 uuid: 1771b8c0-f16d-4036-a602-0ba3d00e680a
 
 title: Le traitement automatique des langues
-author: gael
+author:
+    - gael
 abstract: "Gaël Lejeune met à disposition ses cours de traitement automatique de langues (TAL) sur Git."
 tags:
     - cours
