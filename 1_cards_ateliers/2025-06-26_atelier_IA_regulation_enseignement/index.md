@@ -1,4 +1,6 @@
 ---
+uuid: 39f43ccf-ca2c-4b45-b292-14512cd5b0dc
+
 title: Atelier Droit et régulation de l' IA pour l'enseignement et la recherche
 author:
     - gael
