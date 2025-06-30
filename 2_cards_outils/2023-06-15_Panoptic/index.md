@@ -8,7 +8,8 @@ author:
 tags:
     - images
     - outils CERES
-abstract:"Cette page présente Panoptic dans les grandes lignes, à l'aide de captures d'écran animées qui montrent certaines actions. Pour la documentaiton complète, et notamment pour accéder à l'installation, veuillez vous rendre sur [https://panopticorg.github.io/](https://panopticorg.github.io/)"
+abstract: "Cette page présente Panoptic dans les grandes lignes, à l'aide de captures d'écran animées qui montrent certaines actions. Pour la documentaiton complète, et notamment pour accéder à l'installation, veuillez vous rendre sur [panopticorg.github.io](https://panopticorg.github.io/)"
+
 ---
 
 ## En bref
