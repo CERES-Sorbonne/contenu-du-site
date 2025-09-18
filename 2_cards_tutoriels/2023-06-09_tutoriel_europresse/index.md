@@ -29,7 +29,7 @@ Thibault Grison vous propose 4 vidéos sur 4 éléments liés au requêtage sur 
  2. Récupérer via la version classique un corpus en html
  3. Utilisation de Europarser qui transforme ce HTML en XML ou TXT : [https://ceres.huma-num.fr/europarser/](https://ceres.huma-num.fr/europarser/) 
 
- L'ensemble des vidéos est accessible ici [https://dropsu.sorbonne-universite.fr/s/ac6TPHLPBDmEwFo](https://dropsu.sorbonne-universite.fr/s/ac6TPHLPBDmEwFo)
+ L'ensemble des vidéos est accessible ici [https://dropsu.sorbonne-universite.fr/s/ac6TPHLPBDmEwFo](https://dropsu.sorbonne-universite.fr/s/ac6TPHLPBDmEwFo) et aussi sur un lien alternatif : [https://drive.google.com/drive/folders/1LGNMUk2-X5-TBc4Nq0tR5z9eiz8pKBLB?usp=sharing](https://drive.google.com/drive/folders/1LGNMUk2-X5-TBc4Nq0tR5z9eiz8pKBLB?usp=sharing)
 
 <!--
 Vidéos en Mkv qui ne passent pas sur Firefox
