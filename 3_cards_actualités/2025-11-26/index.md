@@ -1,4 +1,6 @@
 ---
+uuid: f0fc6a46-193e-4e68-9f37-887ee9eb4981
+
 title: CERES au Hakathon PictorIA à la BNF
 abstract: Les 26, 27 et 28 novembre avait lieu le hackathon PictorIA à la BNF pour travailler autour des représentation de l'écologie et l'environnement dans les corpus d'images.
 tags: [panoptic, pictoria, images, bnf, humanités numériques]
