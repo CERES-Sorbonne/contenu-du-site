@@ -21,8 +21,14 @@ Vous trouverez à l'adresse suivante un tutoriel concernant la création et l'im
 
 Les données de l'atelier de niveau 1, réalisé par Gaël Lejeune sont également disponibles au lien suivant : [https://lejeunegael.fr/CERES/](https://lejeunegael.fr/CERES/).
 
+## Import
+On se servira de ce corpus XML : <a href="prigojine.xml" target="_blank" download>Europresse-Prigojine</a>
+
+Pour importer: rangez ce XML dans un dossier vide et ensuite utilisez le Menu Fichier, Importer, Corpus, Xml+csv (même si on n'a pas de csv). Choisissez ce dossier et cliquez sur démarrer l'import (pour plus de détails sur cette phase d'import, vous pouvez allez voir le Tutoriel niveau 1)
+
 ## Progression
-Nous pouvons utiliser TXM pour étudier la progression de l'utilisation d'un mot au cours du temps. Dans le corpus <a href="prigojine.xml" target="_blank" download>Europresse-Prigojine</a>, nous allons évaluer l'évolution de certains usages au fil du temps et des présidents grâce à la fonction **progression**.
+Nous pouvons utiliser TXM pour étudier la progression de l'utilisation d'un mot au cours du temps. Dans le corpus Prigojine, nous allons évaluer l'évolution de certains usages au fil du temps et des présidents grâce à la fonction **progression**.
+
 
 1. Dans un premier temps, comparez l'évolution de l'usage de ces 3 mots: `Ukraine`, `Afrique` et `Wagner`. Il est possible d'ajouter les mots un par un en les recherchant successivement. Notez-vous quelque chose d'intéressant ?
 
@@ -81,8 +87,7 @@ La partition est un peu différente du sous-corpus en ce sens qu'elle sera surto
 ## Analyse Factorielle des Correspondances (AFC)
 L'analyse factorielle des correspondances est une méthode statistique qui permet de mettre en évidence des relations entre des variables qualitatives. Dans le cas de TXM, les variables qualitatives sont les mots et les textes (sous-corpus). L'AFC permet de visualiser les relations entre les mots et ces textes dans un espace à deux dimensions.
 
-1. Pour réaliser une AFC, il faut d'abord créer un ensemble de sous corpus, par exemple en utilisant la fonction "
-   Partition" pour séparer les textes en deux groupes.
+1. Pour réaliser une AFC, il faut d'abord créer des sous ensembles de données, ici en utilisant la fonction "Partition" pour séparer les textes en quatre groupes (au minimum).
 2. Ensuite, il faut lancer l'AFC en cliquant sur l'icône correspondante dans la barre d'outils.
 
 <details markdown='1'><summary>Cliquez pour voir le résultat de l'AFC</summary>
