@@ -1,4 +1,6 @@
 ---
+uuid: 9ad92596-5f6d-4693-8ad7-bc3aacaec1d7
+
 title: "Séminaire GARNET - Enquête sur la communication numérique d’un groupe militant conservateur"
 author:
     - edouard
