@@ -19,7 +19,7 @@ tags:
 prettyName: SeminaireGarnetSeanceHedin
 ---
 
-## Description de la séance
+## Inscription
 
 [Pour vous inscrire, cliquez ici.](https://framaforms.org/seminaire-garnet-220126-salome-hedin-enquete-sur-la-communication-numerique-dun-groupe-militant)
 
