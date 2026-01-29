@@ -11,6 +11,7 @@ Cette section propose une collection de publications scientifiques qui résulte 
 ## Ouvrages
 
 - Véron, Laélia et Karine Abiven. 2024. [_Trahir et venger: Paradoxes des récits de transfuges de classe_](https://www.editionsladecouverte.fr/trahir_et_venger-9782348082610). Paris : La Découverte.
+- Bouté, Edouard, 2025. [Images et discours de la répression](https://www.editionsmkf.com/produit/images-discours-repression/). MKF Editions
 
 ## Articles 
 
@@ -35,6 +36,7 @@ Cette section propose une collection de publications scientifiques qui résulte 
 - Bouté Edouard, Virginie Julliard, Félix Alié, David Godicke, Victor Écrement et fred pailler. 2024. [« PANOPTIC, un outil d’exploration par similarité de vastes corpus d’images »](https://hal.science/hal-04687627), _Colloque annuel de l’Association francophone des humanités numériques Humanistica_.
 
 - Bordier, Clara, Matthis Matej, Adélie Laruncet, Marceau Hernandez et Gaël Lejeune. 2024. « Plongée dans le lexique du Conspirationnisme dans la presse nationale française », _JADT 2024 - 17es Journées internationales d'Analyse statistique des Données Textuelles_, Bruxelles, 25 au 27 juin 2024.
+
 - Martinc, Matej, Adélie Laruncet, Clara Bordier, Marceau Hernandez, Senja Pollak et Gaël Lejeune. 2024. « The Evolution of Bias in French News Media: How Does Political Orientation Affect Semantic Change? », _JADT 2024 - 17es Journées internationales d'Analyse statistique des Données Textuelles_, Bruxelles, 25 au 27 juin 2024
 
 - Schaeffer-Lacroix, Eva. 2024. [« Adverbs as markers of women's objectification events in audio descriptions of English feature films »](https://hal.science/hal-04631271v1), _JADT 2024 - 17es Journées internationales d'Analyse statistique des Données Textuelles_, Bruxelles, 25 au 27 Juin 2024.
@@ -42,6 +44,8 @@ Cette section propose une collection de publications scientifiques qui résulte 
 - Bezançon, Julien et Gaël Lejeune. 2023. [« Reconnaissance de défigements dans des tweets en français par des mesures de similarité sur des alignements textuels »](https://hal.science/hal-04130174/), Dans _Actes de CORIA-TALN 2023 : Actes de la 30e Conférence sur le Traitement Automatique des Langues Naturelles (TALN), volume 1 : travaux de recherche originaux - articles longs_. 56–67.
 
 - Bouté, Edouard. 2023. [« Militantisme transplateforme : la répression policière des Gilets jaunes entre Facebook et Twitter »](https://edouardboute.github.io/files/Boute_SFSIC2023.pdf), _Actes du XXIIIème Congrès de la Sfsic : la numérisation des sociétés, Volume 1_.. 175-185.
+
+- Sähn Thomas, Hernandez Marceau. 2026. ["De l’opposition à l’altérité : fondements méthodologiques pour une analyse automatisée des représentations « humaines » dans les récits en images"](https://assets.zyrosite.com/mP4nbqGwDOULbEqB/les-alteiriteis-dans-laespace-germanophone-zc1sGtrUU4llUZnC.pdf); _Actes du LIVe congrès de l'AGES_ 
 
 ## Colloques, journées d'études, congrès et séminaires
 
