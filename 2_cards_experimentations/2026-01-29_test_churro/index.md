@@ -1,7 +1,7 @@
 ---
 uuid: 68807134-58da-4566-9b60-b28a6f73e7a1
 
-title: "Test d'outil: Churro pour l'OCR de documents historique"
+title: "Test d'outil: Churro pour l'OCR de documents historiques"
 tags: [outil, images, ocr, humanités numériques, tests]
 author: [felix]
 ---
