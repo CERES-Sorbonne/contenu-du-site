@@ -1,4 +1,6 @@
 ---
+uuid: adf34db0-92a5-43a4-ae3d-ff75405f1688
+
 title: Démarrage du séminaire "Ressorts conflictuels de la liberté d'expression"
 event: true
 authors: [ceres]
