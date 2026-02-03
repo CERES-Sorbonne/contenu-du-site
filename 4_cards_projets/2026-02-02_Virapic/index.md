@@ -13,9 +13,9 @@ tags:
 
 ## Origine
 
-Le projet [Virapic](https://www.sorbonne-universite.fr/dossiers/intelligence-artificielle/virapic-quand-histoire-et-technologie-unissent-leur-force-contre-la-desinformation) porté par l'[EHNE](https://ehne.fr/fr) s'est associé au CERES pour étudier les contextes de circulation d'images historiques sur le web. Les images ciblées à la fois des images réelles et de fausses images historiques générées par IA comme celle d'Arthur Raimbaud qui avait démarré comme une controverse Facebook et avait [fini en publication chez Gallimard](https://actualitte.com/article/120074/edition/quand-gallimard-convoque-l-ia-pour-faire-revivre-rimbaud).
+Le projet [Virapic](https://www.sorbonne-universite.fr/dossiers/intelligence-artificielle/virapic-quand-histoire-et-technologie-unissent-leur-force-contre-la-desinformation) porté par l'[EHNE](https://ehne.fr/fr) s'est associé au CERES pour étudier les contextes de circulation d'images historiques sur le web. Les images ciblées à la fois des images réelles et de fausses images historiques générées par IA comme celle d'Arthur Rimbaud qui avait démarré comme une controverse Facebook et avait [fini en publication chez Gallimard](https://actualitte.com/article/120074/edition/quand-gallimard-convoque-l-ia-pour-faire-revivre-rimbaud).
 
-![photo générée par IA d'Arthur Raimbaud par Luc Loiseaux](raimbaud.jpg)
+![photo générée par IA d'Arthur Rimbaud par Luc Loiseaux](raimbaud.jpg)
 
 Cette photo là a été assez rapidement débunkée et la plupart des sites qui l'ont partagée par la suite l'ont fait en parlant de l'histoire initiale de génération par IA et en partageant ainsi un contexte sourcé. Mais en réalité il existe différentes façons de propager de fausses informations, et même dans le cas où l'image est "réelle", le message transmis peut être erroné, voir parfois même mensonger.  
 
