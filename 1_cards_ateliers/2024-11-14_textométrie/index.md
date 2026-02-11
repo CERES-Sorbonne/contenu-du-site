@@ -19,12 +19,7 @@ event: true
 
 Pouvoir analyser automatiquement des corpus textuels afin d’en tirer des statistiques et pouvoir faire des recherches précises de certaines expressions sont deux des enjeux de la textométrie. Concrètement, il peut s’agir de rechercher les contextes d’apparition de mots ou d’expressions, comparer la fréquence de différentes expressions ou encore comparer des corpus pour trouver automatiquement ce qui les différencie.
 
-Informations pratiques :
-
-- 14 novembre 2024, 16h-18h, salle D117 de la Maison de la Recherche de Sorbonne Université (28 rue Serpente, 75006 Paris)
-- Atelier en **présentiel** uniquement.
-- Animé par Gaël Lejeune (STIH/CERES)
-- [Inscription gratuite mais obligatoire en cliquant sur ce lien.](https://framaforms.org/inscription-atelier-txm-14112024-1726739722)
+Nous organisons régulièrement des ateliers TXM à la amison de la recherche, nosu contacter pour connaître la date du prochain.
 
 ### Archives
 
@@ -40,12 +35,15 @@ Pouvoir analyser automatiquement des corpus textuels afin d'en tirer des statist
 
 <aside>
 
-Le diaporama de Gaël Lejeune (STIH/CERES) pour la séance du 26 novembre 2023, dédiée spécifiquement, à TXM est disponible [ici](./CERES-TXM.pdf).
+- Voici comment [installer TXM](https://txm.gitpages.huma-num.fr/textometrie/)
+
+Le diaporama CERES pour l'introduction à TXM est disponible [ici](./CERES-TXM.pdf).
+
+ Une série d'exercices pour découvrir l'outil est proposée [là](./all_txm.pdf)
 
 </aside>
 
 ##### Pour aller plus loin :
-- [Installer TXM](https://txm.gitpages.huma-num.fr/textometrie/)
 - [Ecouter un des podcasts CERES spécifiquement dédié à TXM](https://ceres.sorbonne-universite.fr/6d73c78d-b5b9-4b8b-b592-54d6908a7fc2/)
 - [Suivre l'excellent tutoriel de Flora Badin ](https://www.youtube.com/watch?v=ZGycjQbqqJ0)
 
@@ -59,4 +57,4 @@ Un atelier a été proposé le 9 février 2023 par Julien Bezançon et Fatou Sow
 
 Sketch Engine est un outil en ligne qui permet de faire des requêtes dans des corpus textuels en près de 100 langues différentes. Si les fonctionnalités de Sketch Engine sont globalement équivalentes à celles d'outils de textométrie comme TXM ou Hyperbase, la disponibilité immédiate de nombreux corpus constituent le gros point fort de l'outil. Il est à noter que Sketch Engine est un outil qui nécessite une licence (payante au bout de 30 jours).
 
-Un atelier animé par Antoine Gautier (STIH) a eu lieu le 29/02/2024.
+Un atelier animé par Antoine Gautier (STIH) sera prochainement proposé.
