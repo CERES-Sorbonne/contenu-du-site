@@ -1,11 +1,12 @@
 ---
 title: Test de XAN, le magicien du csv
 abstract: "test de l'outil du médialab XAN, permettant de manipuler facilement des csv en ligne de commande"
+prettyName: "test_outil_xan"
 ---
 
 ## XAN
 
-XAN, développé par le [medialab de science po](https://medialab.sciencespo.fr/outils/xan/) part d'un postulat assez simple: travailler avec des csv (et particulièrement des csv provenant de données du web) est un processus présenant souvent les mêmes problèmes: 
+XAN, développé par le [médialab de science po](https://medialab.sciencespo.fr/outils/xan/) part d'un postulat assez simple: travailler avec des csv (et particulièrement des csv provenant de données du web) est un processus présenant souvent les mêmes problèmes: 
 - lenteur d'ouverture des gros csv dans des tableurs
 - nécessité de nettoyer les colonnes
 - les problèmes d'encodage, de formattage des colonnes de texte, les séparateurs etc... 
@@ -46,6 +47,8 @@ Ce qui donne
 ```
 
 On peut ensuite afficher un aperçu du csv lui même à l'aide de la commande view (ou v):
+
+`xan v output_csv.csv`
 
 ![Alt text](1.png)
 
@@ -101,6 +104,9 @@ Ici on fait d'abord en filter en spécifiant que la colonne auteur est différen
 
 ![Alt text](4.png)
 
+> Il est également intéressant de noter que l'on aurait pu utiliser l'outil de recherche de xan en utilisant la balise -ev (-e, pour match exact, -v pour inverser le match) ce qui aurait donné `xan search -s auteur -ev Unknown" csv_output.csv` et permet de retourner toutes les lignes du csv dont la colonne auteur est strictement différente de "Unknown".
+
+
 ### Les journaux
 
 On pourrait également vouloir le nombre de journaux uniques, comme pour les auteurs: 
@@ -134,7 +140,7 @@ Qu'en est-il des articles au fur et à mesure du temps ?
 
 Plot permet de faire un graphique, `-L` permet d'afficher des lignes au lieu de simples points, et `-T` permet d'indiquer que l'on souhaite travailler avec des données temporelles. `--count` permet de ne pas préciser de seconde colonne pour les ordonnées, et d'utiliser à la place le nombre de lignes à chaque occurence de la valeur renseignée dans la colonne utilisée en abscisse (ici annee):
 
-![Alt text](5.png)
+![big](5.png)
 
 Pour une analyse plus intéressante on peut s'intéresser toujours au nombre d'articles au cours du temps mais en divisant la courbe en fonction du journal de publication: 
 
@@ -142,13 +148,13 @@ Pour une analyse plus intéressante on peut s'intéresser toujours au nombre d'a
 
 Le `-c` nous permet d'indiquer la colonne par rapport à laquelle on souhaite diviser la courbe: 
 
-![Alt text](6.png)
+![big](6.png)
 
 On peut également étudier l'évolution d'un terme dans les texte des articles au cours du temps en utilisant la commande search combinée à plot: 
 
 `xan search -i "ubisoft" csv_output.csv | xan plot -LT -c journal_clean annee --count`
 
-![Alt text](7.png)
+![big](7.png)
 
 ### Les mots clés
 
@@ -157,7 +163,6 @@ Notre csv possède une colonne fournie par europarser qui donne pour chaque arti
 `xan explode keywords --sep ", " csv_output.csv | xan freq -s keywords -l 50`
 
 ```
-field,value,count
 field,value,count
 keywords,jeux,696
 keywords,vidéo,566
@@ -220,7 +225,7 @@ On pourrait continuer sur notre lancée des mots clés et produire des requêtes
 
 `xan freq -s keywords -g annee --sep ", " --no-extra -l 5 csv_output.csv | xan v -g annee`
 
-![small](8.png)
+![big](8.png)
 
 ### Encore un peu plus complexe
 
@@ -240,11 +245,25 @@ On peut ensuite combiner cette fonction avec un plot pour visualiser l'évolutio
 
 ![Alt text](9.png)
 
+Si l'on voulait éviter un join il est également possible d'utiliser la commande search avec le flag "--pattern" pour préciser un fichier csv dans lequel prendre une liste de termes à utiliser pour la recherche:
+
+`xan explode keywords --sep ", " csv_output.csv | xan search -es keywords --patterns top_10.csv --pattern-column value - | xan v`
+
+Pour décortiquer cette commande:
+- search fait une recherche dans le csv
+- on utilise -e pour ne renvoyer que les matchs exacts
+- on précise la colonne dans laquelle chercher avec le `-s keywords`
+- --patterns indique qu'il faut aller chercher les termes de recherche dans le fichier top_10.csv
+- --pattern-column value indique que les termes sont dans la colonne value du csv top_10.csv
+- et enfin le `-` pour indiquer que le csv dans lequel on effectue la recherche vient de stdin (cf explication plus haut)
+
+
+
 ## Conclusion
 
 XAN est un outil un peu costaud à prendre en main au début mais dont les possibilités semblent être un peu sans fin, particulièrement rapide et pratique une fois qu'on a l'habitude, ne serait-ce que pour visualiser ou filtrer des gros csv que vos tableurs préférés mettraient 5min à ouvrir. 
 
 Il reste encore un très grand nombre de fonctionnalités qui n'ont pas été abordées dans cet article mais on pourrait noter aussi le dédoublonnage, le traitement de plusieurs csv en parallèle, la possibilité de convertir facilement d'un format à l'autre etc.
 
-Peut être que cela fera l'objet d'un second article pour des usages plus avancés ! 
+Peut être que cela fera l'objet d'un second article pour des usages plus avancés, mais globalement si vous vous demandez si xan peut faire quelque chose, la réponse est très probablement: **oui**. La vraie question à se poser c'est **Comment?**. 
 
