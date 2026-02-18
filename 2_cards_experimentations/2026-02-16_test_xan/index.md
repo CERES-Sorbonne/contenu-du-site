@@ -1,4 +1,6 @@
 ---
+uuid: b6a9c909-f777-43d9-a3be-7df6c7b6d360
+
 title: Test de XAN, le magicien du csv
 abstract: "test de l'outil du médialab XAN, permettant de manipuler facilement des csv en ligne de commande"
 prettyName: "test_outil_xan"
