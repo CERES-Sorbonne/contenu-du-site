@@ -1,4 +1,6 @@
 ---
+uuid: a8011397-fcfd-4f9a-bfe0-5be23d1586a7
+
 title: "Séminaire GARNET - Introduction à la classification de textes pour les sciences sociales avec Active Tigger"
 event: true
 
