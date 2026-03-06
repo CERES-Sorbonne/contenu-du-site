@@ -15,4 +15,6 @@ tags:
 
 [Vous pouvez consulter et télécharger la version mise en page du rapport en cliquant ici](./Rapport-CERES-2024.pdf) de ce rapport.
 
+[Le rapport 2025 figure ici](https://ceres.sorbonne-universite.fr/5a322a56-c4bf-4bfa-8850-71458d1bdef6/)
+
 </aside>

@@ -15,6 +15,9 @@ tags:
 
 Vous pouvez également [télécharger la version mise en page](./Rapport-CERES-2023.pdf) de ce rapport.
 
+[Le rapport 2025 figure ici](https://ceres.sorbonne-universite.fr/5a322a56-c4bf-4bfa-8850-71458d1bdef6/)
+
+[Le rapport 2024 figure là](https://ceres.sorbonne-universite.fr/5a322a56-c4bf-4bfa-8850-71458d1bdef6/)
 </aside>
 
 Le CERES (Centre d’Expérimentation en méthodes numériques pour les Recherches en SHS) est une unité mutualisée de service (UMS) rattachée à la Faculté des Lettres de Sorbonne Université. Son objet est d’accompagner et de susciter l’exploitation de méthodes numériques dans les recherches en SHS.
