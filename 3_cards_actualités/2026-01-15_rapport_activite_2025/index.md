@@ -1,5 +1,5 @@
 ---
-uuid: 5a322a56-c4bf-4bfa-8850-71458d1bdef6
+uuid: 5a322a56-c4bf-4bfa-8850-71458d1b2025
 
 title: "Rapport d'activités CERES 2025"
 author:

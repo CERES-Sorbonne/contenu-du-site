@@ -1,5 +1,5 @@
 ---
-uuid: 5a322a56-c4bf-4bfa-8850-71458d1bdef6
+uuid: 5a322a56-c4bf-4bfa-8850-71458d1b2024
 
 title: "Rapport d'activités CERES 2024"
 author:
@@ -13,8 +13,8 @@ tags:
 
 <aside>
 
-[Vous pouvez consulter et télécharger la version mise en page du rapport en cliquant ici](./Rapport-CERES-2024.pdf) de ce rapport.
+[Vous pouvez consulter ce rapport en cliquant ici](./Rapport-CERES-2024.pdf) de ce rapport.
 
-[Le rapport 2025 figure ici](https://ceres.sorbonne-universite.fr/5a322a56-c4bf-4bfa-8850-71458d1bdef6/)
+[Le rapport 2025 figure ici](https://ceres.sorbonne-universite.fr/5a322a56-c4bf-4bfa-8850-71458d1b2025/)
 
 </aside>
