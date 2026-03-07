@@ -13,7 +13,7 @@ tags:
 
 <aside>
 
-[Vous pouvez consulter ce rapport en cliquant ici](./Rapport-CERES-2024.pdf) de ce rapport.
+[Vous pouvez consulter ce rapport en cliquant ici](./Rapport-CERES-2024.f).
 
 [Le rapport 2025 figure ici](https://ceres.sorbonne-universite.fr/5a322a56-c4bf-4bfa-8850-71458d1b2025/)
 

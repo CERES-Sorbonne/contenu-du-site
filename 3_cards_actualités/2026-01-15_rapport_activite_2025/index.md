@@ -13,6 +13,6 @@ tags:
 
 <aside>
 
-[Vous pouvez consulter et télécharger la version mise en page du rapport en cliquant ici](./Rapport-CERES-2025.pdf) de ce rapport.
+[Vous pouvez consulter et télécharger la version mise en page du rapport en cliquant ici](./Rapport-CERES-2025.pdf).
 
 </aside>
