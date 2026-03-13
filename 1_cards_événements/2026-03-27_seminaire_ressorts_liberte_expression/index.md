@@ -1,4 +1,16 @@
-# Séminaire « Les ressorts conflictuels de la « liberté d'expression »»
+---
+prettyName: seminaireLibertExpression
+title: "Les ressorts conflictuels de la « liberté d'expression"
+author:
+    - adelie
+tags:
+    - séminaire
+    - liberté
+    - expression
+---
+
+![LogoSeminaire](image_seminaire_libex_light.png)
+# Séminaire Les ressorts conflictuels de la "liberté d'expression"
 
 **Séances mensuelles de février à juillet 2026** — **Les vendredis matins entre 10h et 13h**  
 

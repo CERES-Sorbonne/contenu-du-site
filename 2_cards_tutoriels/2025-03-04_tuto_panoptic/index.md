@@ -10,7 +10,7 @@ tags:
     - images
     - corpus
     - visualisation
-abstract: "Cette page présente Panoptic dans les grandes lignes, et propose un tutoriel complet en version PDF mobilisé lors d'ateliers. Pour la documentaiton complète et à jour, et notamment pour accéder à l'installation, veuillez vous rendre sur https://panopticorg.github.io/"
+abstract: "Cette page présente Panoptic dans les grandes lignes, et propose un tutoriel complet en version PDF mobilisé lors d'ateliers. Pour la documentation complète et à jour, et notamment pour accéder à l'installation, veuillez vous rendre sur https://panopticorg.github.io/"
 ---
 
 ![Panoptic](demo.gif)
@@ -41,7 +41,7 @@ Si vous utilisez Panoptic, vous pouvez trouver un premier papier de recherche qu
 
 # Comment utiliser Panoptic ?
 
-Afin d'appréhender notre logiciel, nous avons rédiger un tutoriel détaillant l'ensemble des fontionnalités disponibles, des plus simples aux plus avancées, ainsi que la marche à suivre pour **installer Panoptic**.
+Afin d'appréhender notre logiciel, nous avons rédiger un tutoriel détaillant l'ensemble des fonctionnalités disponibles, des plus simples aux plus avancées, ainsi que la marche à suivre pour **installer Panoptic**.
 
 Ce tutoriel est disponible [en cliquant ici](https://panopticorg.github.io/).
 
