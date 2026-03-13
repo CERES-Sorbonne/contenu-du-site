@@ -9,6 +9,8 @@ Adélie Laruncet [adelie.laruncet@sorbonne-universite.fr] — CELSA Sorbonne Uni
 Thibault Grison [thibault.grison@univ-lille.fr] — Université de Lille, GERiiCO
 
 ---
+uuid: da6af677-37a7-43e6-8b97-d2a066c4d104
+
 ## Présentation du séminaire
 
 Tour à tour érigée en principe fondamental, invoquée comme norme juridique, brandie comme slogan politique ou mobilisée comme arme polémique, la « liberté d'expression » semble autant aller de soi que constamment dépendante des usages qui en sont faits.
