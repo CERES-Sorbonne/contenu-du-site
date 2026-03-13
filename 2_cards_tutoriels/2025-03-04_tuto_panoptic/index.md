@@ -15,7 +15,7 @@ abstract: "Cette page présente Panoptic dans les grandes lignes, et propose un 
 
 ![Panoptic](demo.gif)
 
-**Pour la documentaiton complète et à jour, et notamment pour accéder à l'installation, veuillez vous rendre sur [panopticorg.github.io/](https://panopticorg.github.io/)"**
+**Pour la documentation complète et à jour, et notamment pour accéder à l'installation, veuillez vous rendre sur [panopticorg.github.io/](https://panopticorg.github.io/)"**
 
 # Qu'est-ce que Panoptic ?
 

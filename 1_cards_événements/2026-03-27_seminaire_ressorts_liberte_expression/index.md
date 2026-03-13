@@ -2,7 +2,7 @@
 uuid: da6af677-37a7-43e6-8b97-d2a066c4d104
 
 prettyName: seminaireLibertExpression
-title: "Les ressorts conflictuels de la « liberté d'expression"
+title: "Les ressorts conflictuels de la liberté d'expression: programme complet"
 author:
     - adelie
 tags:
@@ -11,7 +11,7 @@ tags:
     - expression
 ---
 
-![LogoSeminaire](image_seminaire_libex_light.png)
+![small](image_seminaire_libex_light.png)
 # Séminaire Les ressorts conflictuels de la "liberté d'expression"
 
 **Séances mensuelles de février à juillet 2026** — **Les vendredis matins entre 10h et 13h**  
