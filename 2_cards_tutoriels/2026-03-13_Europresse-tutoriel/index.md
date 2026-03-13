@@ -1,5 +1,7 @@
 
 ---
+uuid: aa11afba-1614-49c3-aba6-57a1b7ec0005
+
 
 prettyName: tutoeuropresse
 title: "Guide pour Europresse"
