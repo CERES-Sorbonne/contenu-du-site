@@ -1,6 +1,5 @@
-
 ---
-uuid: aa11afba-1614-49c3-aba6-57a1b7ec0005
+uuid: 10047dc2-4356-42bd-a817-347008ccebe8
 
 
 prettyName: TextometrieLexique
