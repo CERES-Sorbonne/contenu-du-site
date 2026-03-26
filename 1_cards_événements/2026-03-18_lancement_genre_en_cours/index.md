@@ -1,4 +1,6 @@
 ---
+uuid: 803c7415-7313-4b76-be06-02d02b508002
+
 title: Lancement de la plateforme "Genre en Cours" 
 event: true
 author: 
