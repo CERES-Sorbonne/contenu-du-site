@@ -10,6 +10,7 @@ tags:
     - atelier
     - IA
 ---
+![](arnaud-latil-le-droit-du-numerique.png)
 
 Cet atelier, animé par Arnaud Latil, se déroulera le 26 juin de 13h à 15h en salle 323 de la Maison de la Recherche de Sorbonne Université, 28 rue Serpente, 75006, Paris.
 

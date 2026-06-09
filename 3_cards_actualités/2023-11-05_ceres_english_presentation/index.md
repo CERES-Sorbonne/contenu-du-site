@@ -6,6 +6,7 @@ title: "Centre for Experimentation in Digital Methods for the Humanities and Soc
 
 
 ---
+![big](Ceres_base.png)
 
 ## About CERES
 
