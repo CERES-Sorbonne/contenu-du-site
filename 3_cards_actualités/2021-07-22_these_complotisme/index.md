@@ -7,6 +7,7 @@ author:
 tags:
     - presse
 ---
+![](Ceres_base.png)
 
 **Bourse de thèse CERES (2021)**
 

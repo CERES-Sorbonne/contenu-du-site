@@ -8,6 +8,7 @@ abstract: 'Ce programme doctoral soutient des projets de recherche en Sciences H
 tags:
     - programme doctoral
 ---
+![](Ceres_base.png)
 
 Projets sélectionnés en 2022 :
 

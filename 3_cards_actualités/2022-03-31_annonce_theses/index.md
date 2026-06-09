@@ -8,6 +8,7 @@ abstract: 'Dans le cadre du programme doctoral Méthodes numériques pour les th
 tags:
     - programme doctoral
 ---
+![](Ceres_base.png)
 
 Si vous souhaitez candidater, votre dossier est à envoyer aux porteur·se·s de projet avant le 2 mai
 

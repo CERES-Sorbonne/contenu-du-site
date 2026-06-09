@@ -7,6 +7,7 @@ author:
 tags:
     - réseaux sociaux
 ---
+![](Ceres_base.png)
 
 **Titre complet :** Changer de prénom sur le Web quand on est trans ? Les normes de genre au travail dans les conceptions de l’identité numérique et de l’identification en ligne
 
