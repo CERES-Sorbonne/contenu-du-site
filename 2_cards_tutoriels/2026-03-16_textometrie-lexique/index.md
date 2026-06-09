@@ -18,6 +18,7 @@ tags:
     - linguistique
 ---
 
+![big](WC.png)
 # Lexique pour l'utilisation de logiciels de textométrie
 
 
