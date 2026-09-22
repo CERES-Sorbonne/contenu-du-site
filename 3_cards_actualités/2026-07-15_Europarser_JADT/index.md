@@ -1,4 +1,6 @@
 ---
+uuid: 50522fbb-3151-40db-8db4-7c8a2767cb93
+
 title: "Europarser aux JADT 2026"
 author:
     - ceres
