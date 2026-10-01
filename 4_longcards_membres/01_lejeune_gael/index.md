@@ -4,6 +4,8 @@ prettyName: GaelLejeune
 
 title: Gaël Lejeune
 abstract: Directeur adjoint du CERES - Maître de Conférences HDR en Informatique
+tags :
+  - Joueur du jeudi
 ---
 
 ![](lejeune_gael.png)
