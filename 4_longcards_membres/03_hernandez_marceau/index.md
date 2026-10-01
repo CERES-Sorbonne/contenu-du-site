@@ -4,6 +4,8 @@ prettyName: MarceauHernandez
 
 title: Marceau Hernandez
 abstract: Doctorant en Traitement Automatique des Langues Naturelles
+tags :
+  - Joueur du jeudi
 ---
 
 ![](hernandez_marceau.jpg)
