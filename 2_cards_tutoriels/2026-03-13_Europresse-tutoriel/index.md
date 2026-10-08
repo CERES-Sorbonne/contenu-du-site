@@ -13,8 +13,7 @@ tags:
     - europresse
 ---
 
-![big](Europresse_Tibo.png)
-## Résumé
+![](Europresse_Tibo.png)
 
 <aside>
 
